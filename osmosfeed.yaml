@@ -1,7 +1,7 @@
 cacheUrl: https://0bjections.github.io/OSMOS-Feed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://reddit.com/r/linux.rss
-  - href: https://reddit.com/r/piercednipples.rss
-  - href: https://reddit.com/r/preggoporn.rss
+  - href: https://css-tricks.com/feed/ # CSS tricks and tips
+  - href: https://reddit.com/r/linux.rss # Linux news and post
+  - href: https://reddit.com/r/piercednipples.rss # Pierced nipples bro
+  - href: https://reddit.com/r/preggoporn.rss # Hot preggo chicks
