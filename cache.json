@@ -587,6 +587,238 @@
           "title": "Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet"
         }
       ]
+    },
+    {
+      "title": "Linux, GNU/Linux, free software...",
+      "feedUrl": "https://reddit.com/r/linux.rss",
+      "siteUrl": "https://www.reddit.com/r/linux",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owpviw/encryptedcorrupted_m2/",
+          "author": null,
+          "description": "Hello all so I find myself with a bit of an issue. I have a Dell 3070 that I just install pop os on. Wanted to finally dive deeper into using Linux and liked what I saw.\n long story short I thought I had things set. Was performing the final restart after the install. And suddenly the bios could not find a bootable drive. No idea why, not sure what happened. I have a 500 gb SSD also in the machine so I thought welp. Did an install there, but this time I didn't encrypt the drive. \n Any one have an idea on formatting the drive as it sits in this system? even during the install for some reason the drive would not show up as a possible install location. The bios does see it though.\n If you need more info let me know.\n    submitted by    /u/defaultgameer1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owpviw/encryptedcorrupted_m2/",
+          "publishedOn": "2021-08-02T22:46:57.000Z",
+          "wordCount": 241,
+          "title": "Encrypted/corrupted M.2"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owoopg/distrowatch_asks_whether_the_community_finds/",
+          "author": null,
+          "description": "submitted by    /u/daemonpenguin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owoopg/distrowatch_asks_whether_the_community_finds/",
+          "publishedOn": "2021-08-02T21:46:02.000Z",
+          "wordCount": 144,
+          "title": "DistroWatch asks whether the community finds Ubuntu Christian Edition interesting enough to track"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owl8a6/minor_update_for_pixel_4a_calyxos/",
+          "author": null,
+          "description": "submitted by    /u/friskfrugt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owl8a6/minor_update_for_pixel_4a_calyxos/",
+          "publishedOn": "2021-08-02T18:57:37.000Z",
+          "wordCount": 201,
+          "title": "Minor update for Pixel 4a - CalyxOS"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owjgi4/otpgen_a_simple_go_library_to_generate_totphotp/",
+          "author": null,
+          "description": "submitted by    /u/grijull  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owjgi4/otpgen_a_simple_go_library_to_generate_totphotp/",
+          "publishedOn": "2021-08-02T17:33:09.000Z",
+          "wordCount": 129,
+          "title": "otpgen: A simple go library to generate TOTP/HOTP codes"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owj4kh/goandotp_cli_program_to_encryptdecrypt_andotp/",
+          "author": null,
+          "description": "submitted by    /u/grijull  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owj4kh/goandotp_cli_program_to_encryptdecrypt_andotp/",
+          "publishedOn": "2021-08-02T17:16:59.000Z",
+          "wordCount": 123,
+          "title": "go-andotp: CLI program to encrypt/decrypt andOTP files"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owj0fg/navy_linux_84_stable_release_available_released/",
+          "author": null,
+          "description": "Navy Foundation is proud to announce the stable release of the Navy Linux Available now, Here is the mirror list to download Navy Linux from a Mirror at location navylinux/releases/8.4/x86_64/iso/ \n https://preview.redd.it/893hyvaq8ze71.png?width=275&format=png&auto=webp&s=180578b0aa0ddd452062dc6c589ef3e7c40ac607\n CentOS Linux 8 will reach End Of Life (EOL) on December 31st, 2021.\n    submitted by    /u/navylinux  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owj0fg/navy_linux_84_stable_release_available_released/",
+          "publishedOn": "2021-08-02T17:11:20.000Z",
+          "wordCount": 189,
+          "title": "Navy Linux 8.4 stable release available! Released on Sunday, 1st August 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owiu9x/back_to_linux/",
+          "author": null,
+          "description": "submitted by    /u/speckz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owiu9x/back_to_linux/",
+          "publishedOn": "2021-08-02T17:03:09.000Z",
+          "wordCount": 253,
+          "title": "Back to Linux"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owighu/wine_614_released/",
+          "author": null,
+          "description": "submitted by    /u/owenthetechie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owighu/wine_614_released/",
+          "publishedOn": "2021-08-02T16:45:09.000Z",
+          "wordCount": 181,
+          "title": "Wine 6.14 released"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owiaew/what_is_the_best_time_management_app_on_linux/",
+          "author": null,
+          "description": "Yoo, I'm looking for a Linux app to manage my Daily tasks, an app that remind me of tasks in their time a pop up or some kindda notification and I can check ✅ if a particular task has been done to follow my progress over time, it would be great if I can sync that app with android, give me your suggestions to any app similar to that\n    submitted by    /u/ahmedjoda  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owiaew/what_is_the_best_time_management_app_on_linux/",
+          "publishedOn": "2021-08-02T16:36:57.000Z",
+          "wordCount": 946,
+          "title": "What is the best time management app on Linux?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owhh6v/long_shot_but_does_anyone_have_iso_for_suse_linux/",
+          "author": null,
+          "description": "UPDATE I was able to get it changed! Thanks everyone\n A client has a vm that they refuse to get rid of and doesn't know the password and we need to reset the password and need the iso to do so. Haven't been able to find it online anywhere since it's a million years old.\n ​\n *edit* Enterprise server version not desktop\n ​\n ​\n    submitted by    /u/j021  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owhh6v/long_shot_but_does_anyone_have_iso_for_suse_linux/",
+          "publishedOn": "2021-08-02T15:59:02.000Z",
+          "wordCount": 565,
+          "title": "Long shot.. but.. Does anyone have iso for Suse linux enterprise 10 sp1."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owh46o/linux_laptop/",
+          "author": null,
+          "description": "Hi all, I just got to experience the Linux OS through playing ard with virtual Ubuntu and kali linux and thought of getting a Linux OS laptop as I heard many good things about the Linux OS. Is that a good idea? \n Just wondering , will familiarising myself with the Linux OS help me in entering a tech job, specifically, a cybersecurity job?\n    submitted by    /u/xbteo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owh46o/linux_laptop/",
+          "publishedOn": "2021-08-02T15:40:59.000Z",
+          "wordCount": 521,
+          "title": "Linux laptop"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owh1z9/what_is_the_best_way_to_use_a_raspberry_from/",
+          "author": null,
+          "description": "I know that the question does not go much with the theme of the group, but maybe someone knows an app or service that can help me.\n I have a raspberry pi4 and i would like to use it from my tablet with termux.\n  \nSSH is not an option since the latency when opening vim + tmux is considerable(slow).\n I thought of using sshfs but it is not possible with termux.\n Although I don't like it, I also tried vscode (code-server) but it doesn't have support for ssh functionality\n  \nFor now, configure my raspi to work with git-shell and use it as a kind of CI/CD server. But this is useful when you have concrete implementations in your code and not when you are developing it :( They know a better way to be able to use a raspi from termux\n    submitted by    /u/erickGiancarlo25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owh1z9/what_is_the_best_way_to_use_a_raspberry_from/",
+          "publishedOn": "2021-08-02T15:38:00.000Z",
+          "wordCount": 551,
+          "title": "What is the best way to use a raspberry from termux?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owgupj/linux_open_source_computer_bios/",
+          "author": null,
+          "description": "In my humble opinion I think linux giving to much focus on the kernel and they success on the kernel development. What do all of you think if linux start their own linux bios. A bios that can be flash to desktop and notebook and importantly open source. The bios will have no problem integration with linix kernel and distro.\n Whenever manufacturer only focus on making bios for windows integration the user like us have the freedom to flashing an open source bios based on linux to the system.\n    submitted by    /u/Familiar_Ad3884  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owgupj/linux_open_source_computer_bios/",
+          "publishedOn": "2021-08-02T15:28:15.000Z",
+          "wordCount": 484,
+          "title": "Linux Open Source Computer Bios."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owg6p0/breakdown_of_the_poll_results_concerning/",
+          "author": null,
+          "description": "submitted by    /u/benidrino  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owg6p0/breakdown_of_the_poll_results_concerning/",
+          "publishedOn": "2021-08-02T14:55:45.000Z",
+          "wordCount": 619,
+          "title": "Breakdown of the poll results concerning desktop/wm preference from each subreddit of these 5 mainstream Linux distributions"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oweqnr/a_support_community_for_kubos_the_linuxbased/",
+          "author": null,
+          "description": "submitted by    /u/scheduled_nightmare  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oweqnr/a_support_community_for_kubos_the_linuxbased/",
+          "publishedOn": "2021-08-02T13:40:21.000Z",
+          "wordCount": 415,
+          "title": "A support community for KubOS, the Linux-based microsatellite operating system that's making it faster and easier to get code into space"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owe6ot/purism_the_company_founded_on_the_basis_of/",
+          "author": null,
+          "description": "submitted by    /u/dangflabbitity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owe6ot/purism_the_company_founded_on_the_basis_of/",
+          "publishedOn": "2021-08-02T13:09:53.000Z",
+          "wordCount": 1378,
+          "title": "Purism, the company founded on the basis of transparency and privacy, has censored criticism on their forum - Librem 5 USA (Linux Phone)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owc2gh/the_linux_kernel_module_programming_guide/",
+          "author": null,
+          "description": "submitted by    /u/nixcraft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owc2gh/the_linux_kernel_module_programming_guide/",
+          "publishedOn": "2021-08-02T10:52:48.000Z",
+          "wordCount": 916,
+          "title": "The Linux Kernel Module Programming Guide"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owbt7w/notesnook_an_alternative_to_evernote/",
+          "author": null,
+          "description": "Hi all, \n YSK that there is a cool piece of software that offers most of the features of Evernote, and they have made a native version for Linux. Nice to see that they have done this, whereas Evernote simply cannot be arsed. \n Check them out - notesnook.com\n    submitted by    /u/rainondotone  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owbt7w/notesnook_an_alternative_to_evernote/",
+          "publishedOn": "2021-08-02T10:31:36.000Z",
+          "wordCount": 810,
+          "title": "Notesnook - An alternative to Evernote."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owbeve/kde_ev_is_looking_for_a_project_leadevent_manager/",
+          "author": null,
+          "description": "submitted by    /u/barcelona_temp_2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owbeve/kde_ev_is_looking_for_a_project_leadevent_manager/",
+          "publishedOn": "2021-08-02T09:58:59.000Z",
+          "wordCount": 202,
+          "title": "KDE e.V. is looking for a project lead/event manager for environmental sustainability project"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owassc/good_business_headset_compatible_with_linux/",
+          "author": null,
+          "description": "Hi folks!\n We're looking for a headset for Zoom meetings ($30-$100) that's compatible with Ubuntu.\n We tried Microsoft Lifechat 3000 headphones, and while they were fine in Windows, Ubuntu absolutely refuses to connect to them.\n Can anyone recommend something?\n (I thought perhaps to only use headsets with 3.5mm, not USB, to make sure it's compatible... but if you know of any USB headsets, that would be better and more convenient.)\n    submitted by    /u/Terrafire123  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owassc/good_business_headset_compatible_with_linux/",
+          "publishedOn": "2021-08-02T09:05:48.000Z",
+          "wordCount": 677,
+          "title": "Good business headset compatible with linux?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ow7cjr/the_gnu_c_library_version_234_is_now_available/",
+          "author": null,
+          "description": "submitted by    /u/rhy0lite  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ow7cjr/the_gnu_c_library_version_234_is_now_available/",
+          "publishedOn": "2021-08-02T04:23:37.000Z",
+          "wordCount": 423,
+          "title": "The GNU C Library version 2.34 is now available"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ow5lqu/what_graphicvideo_editor_do_you_recommend_outside/",
+          "author": null,
+          "description": "Howdy r/linux, I use FLOSS editors for my work like GIMP, Inkscape, FontForge, Krita, Blender and OpenShot on daily basis. But I would love to expand my toolkit and explore new options. I mean these tools work very well, just that I was looking to explore something niche and cool. Btw, I use Arch (MATE).\n What tools would you recommend for graphic and video editors that either similar to the popular ones or have unique features that the other don't have? Thank you for your answers. Have a great week.\n    submitted by    /u/SolidarityLabs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ow5lqu/what_graphicvideo_editor_do_you_recommend_outside/",
+          "publishedOn": "2021-08-02T02:23:52.000Z",
+          "wordCount": 529,
+          "title": "What graphic/video editor do you recommend outside of the usuals (e.g. GIMP/Inkscape/OpenShot)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ow1h8n/any_cool_programs_for_a_fresh_linux_install/",
+          "author": null,
+          "description": "I'm just now learning how to use Linux and I'm finding it more helpful to get accustomed to the terminal by trying to install useful programs for customizing Linux. Is there anything out there thats pretty cool that I should download that would help me do more customization? I had to download something just to set up separate wallpapers for my dual monitors.\n I'm using the Ubuntu distro.\n    submitted by    /u/Painbot12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ow1h8n/any_cool_programs_for_a_fresh_linux_install/",
+          "publishedOn": "2021-08-01T22:07:29.000Z",
+          "wordCount": 675,
+          "title": "Any cool programs for a fresh linux install?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ovrcy1/hi_everyone_what_do_you_think_about_my_linux_mint/",
+          "author": null,
+          "description": "submitted by    /u/sxydoctor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ovrcy1/hi_everyone_what_do_you_think_about_my_linux_mint/",
+          "publishedOn": "2021-08-01T12:37:35.000Z",
+          "wordCount": 446,
+          "title": "Hi everyone! What do you think about my Linux Mint concept redesign? P.S. the brown color symbolizes cinnamon :D"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ov8jsf/firefox_lost_50m_users_since_2019_why_are_users/",
+          "author": null,
+          "description": "submitted by    /u/nixcraft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ov8jsf/firefox_lost_50m_users_since_2019_why_are_users/",
+          "publishedOn": "2021-07-31T14:53:52.000Z",
+          "wordCount": 932,
+          "title": "Firefox lost 50M users since 2019. Why are users switching to Chrome and clones? Is this because when you visit Google and MS properties from FF, they promote their browsers via ads?"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
