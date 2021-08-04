@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345744",
+          "author": "Chris Coyier",
+          "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-as-proxies/",
+          "publishedOn": "2021-08-03T20:23:32.000Z",
+          "wordCount": 1029,
+          "title": "Serverless Functions as Proxies"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345807",
+          "author": "Rewind",
+          "description": "Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …\nThe post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT",
+          "publishedOn": "2021-08-03T20:22:34.000Z",
+          "wordCount": 231,
+          "title": "Automatic Daily GitHub Backups, Restored in Seconds"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345154",
+          "author": "Paul Ratcliffe",
+          "description": "While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …\nThe post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-deep-dive-on-skipping-to-content/",
+          "publishedOn": "2021-08-03T14:35:48.000Z",
+          "wordCount": 2684,
+          "title": "A Deep Dive on Skipping to Content"
+        },
+        {
           "id": "https://css-tricks.com/?p=345756",
           "author": "Chris Coyier",
           "description": "They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. \nNative CSS Modules are …\nThe post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -153,6 +180,168 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oxh59q/job_offer_as_a_linux_systems_administrator/",
+          "author": null,
+          "description": "Received a job offer/interview for having a background in linux and an active DOD security clearance. Problem is this is a mid level job opportunity and im at best entry level for linux network experience. Is this a dumb dream of a 19yr old or should I bite the bullet and reach 4 it. I have studied for linux plus, daily drive debian 10.10 and am fairly versed in setting up CISCO routers and switches via command line. But i dont want to promise anything out of my scope or skill set. \n There aren't many applicants maybe 3 and it couldn't hurt to reply back \n a career in Linux is the dream any job in IT is the goal\n Any current linux system admins out there ?\n    submitted by    /u/No-Administration-87  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oxh59q/job_offer_as_a_linux_systems_administrator/",
+          "publishedOn": "2021-08-04T00:45:48.000Z",
+          "wordCount": 967,
+          "title": "Job offer as a linux systems administrator :("
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oxfquu/a_small_concept_i_made_for_a_gnomeesque_desktop/",
+          "author": null,
+          "description": "submitted by    /u/sponge_bag  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oxfquu/a_small_concept_i_made_for_a_gnomeesque_desktop/",
+          "publishedOn": "2021-08-03T23:29:20.000Z",
+          "wordCount": 348,
+          "title": "a small concept I made for a gnome-esque desktop environment. feedback welcome, and if anyone wants to help me build it, do get in touch!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oxf7mi/i_made_a_wallpaper/",
+          "author": null,
+          "description": "submitted by    /u/coloneyescolon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oxf7mi/i_made_a_wallpaper/",
+          "publishedOn": "2021-08-03T23:01:01.000Z",
+          "wordCount": 172,
+          "title": "I made a wallpaper"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oxcpsy/substance_suite_bought_by_adobe_dropping_linux/",
+          "author": null,
+          "description": "Not long ago, as some of you may be aware, Adobe purchased Allegorithmic. Which meant that they now had Substance 3D, an overall excellent and top of the class tool for 3D work and CGI. This suite was, to my knowledge, always native for Linux with no issues.\n Will this change as Adobe has fully rebranded Substance Suite into its messy arsenal of some of the best software in each field? From their FAQ on their official website, Linux builds are not available through Adobe's subscription, only available on Steam's perpetual version.\n  \nLinux builds of the Substance apps aren’t available via Individual Adobe Substance 3D subscriptions. At this point the Linux version is only available on Steam for Substance Painter & Substance Designer. For Teams & Enterprise plans on Adobe.com, please contact [sales@substance3d.com](mailto:sales@substance3d.com).\n  \nI won't be naive, they won't sell any more perpetual licenses from now on. Does this signify the end of practical, efficient and stable 3D texture development on Linux? I love Blender and I use it for work, but there is no practical, affordable and high quality alternative to Substance 3D. Blender just doesn't cut it.\n It seems like a pointless move to remove Linux support, but oh well.\n    submitted by    /u/spaliusreal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oxcpsy/substance_suite_bought_by_adobe_dropping_linux/",
+          "publishedOn": "2021-08-03T20:55:19.000Z",
+          "wordCount": 414,
+          "title": "Substance Suite: bought by Adobe, dropping Linux support?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oxbd9j/systemd_arrives_to_openbsd_world_systemd_fork/",
+          "author": null,
+          "description": "submitted by    /u/j_m_macleod  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oxbd9j/systemd_arrives_to_openbsd_world_systemd_fork/",
+          "publishedOn": "2021-08-03T19:50:42.000Z",
+          "wordCount": 619,
+          "title": "SystemD arrives to OpenBSD World: Systemd fork \"InitWare\" runs on OpenBSD for the first time"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oxa0q3/i_made_a_wallpaper_and_i_hope_you_like_it/",
+          "author": null,
+          "description": "submitted by    /u/bblnx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oxa0q3/i_made_a_wallpaper_and_i_hope_you_like_it/",
+          "publishedOn": "2021-08-03T18:46:56.000Z",
+          "wordCount": 427,
+          "title": "I made a wallpaper and I hope you like it. Feedback is appreciated. :)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox9k93/announcing_crossover_2100/",
+          "author": null,
+          "description": "submitted by    /u/vleeth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox9k93/announcing_crossover_2100/",
+          "publishedOn": "2021-08-03T18:24:57.000Z",
+          "wordCount": 302,
+          "title": "Announcing CrossOver 21.0.0"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox9guu/linux_kernel_security_done_right/",
+          "author": null,
+          "description": "submitted by    /u/speckz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox9guu/linux_kernel_security_done_right/",
+          "publishedOn": "2021-08-03T18:20:33.000Z",
+          "wordCount": 441,
+          "title": "Linux Kernel Security Done Right"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox83en/making_apt_prettier_an_incomplete_guide/",
+          "author": null,
+          "description": "Today I wondered if I could change the colors of the progress bar apt shows when installing/removing packages.\n Turns out, you can, and it's only kinda fiddly.\n Man pages have been unhelpful in this, and the only information I could find on this is from when Ubuntu 14.04 was the latest, so apt may have changed slightly since then, but I got things working how I want.\n You'll need to create a file at /etc/apt/apt.conf.d/99progressbar, (permissions 644) and add the following:\n Dpkg::Progress-Fancy \"1\"; Dpkg::Progress-Fancy::Progress-Bg \"%1b[**m\"; Dpkg::Progress-Fancy::Progress-Fg \"%1b[**m\"; \n Where ** is an ANSI color code number. For example, for white text on blue background, I used 37 for Bg and 44 for Fg.\n These seem to be reversed from what I thought they should be, according to this ANSI color code table. But I'm just fumbling my way through this anyhow.\n Anybody know if there are any more options for making apt prettier?\n    submitted by    /u/TheOmegaCarrot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox83en/making_apt_prettier_an_incomplete_guide/",
+          "publishedOn": "2021-08-03T17:16:32.000Z",
+          "wordCount": 263,
+          "title": "Making Apt Prettier: An Incomplete Guide"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox7dq3/my_bash_game_bashfritz/",
+          "author": null,
+          "description": "submitted by    /u/diejuse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox7dq3/my_bash_game_bashfritz/",
+          "publishedOn": "2021-08-03T16:43:03.000Z",
+          "wordCount": 554,
+          "title": "My BASH game: Bashfritz."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox4ayt/im_going_to_create_a_terminal_file_manager_any/",
+          "author": null,
+          "description": "Title explains it all. I'm going to create a terminal file manager just for fun, so if you have any ideas for features or anything, write it below. So far I have 2 criteria: \n  \nMust be fast (~1-2ms startup)\n Should show file previews\n  \nShould I write it in: Rust or C? What other features would a user like to see?\n    submitted by    /u/Agreeable-Solid7212  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox4ayt/im_going_to_create_a_terminal_file_manager_any/",
+          "publishedOn": "2021-08-03T14:11:42.000Z",
+          "wordCount": 1442,
+          "title": "I'm going to create a terminal file manager. Any Suggestions?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox2fbk/logiciels_pour_tous_libre_et_open_source/",
+          "author": null,
+          "description": "submitted by    /u/wisi_eu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox2fbk/logiciels_pour_tous_libre_et_open_source/",
+          "publishedOn": "2021-08-03T12:27:41.000Z",
+          "wordCount": 150,
+          "title": "Logiciels pour Tous Libre et Open Source (présentation vidéo en français)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ox268l/libreoffice_project_and_community_activities_july/",
+          "author": null,
+          "description": "submitted by    /u/themikeosguy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ox268l/libreoffice_project_and_community_activities_july/",
+          "publishedOn": "2021-08-03T12:12:16.000Z",
+          "wordCount": 125,
+          "title": "LibreOffice project and community activities: July 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owxlnt/nitrux_151_released/",
+          "author": null,
+          "description": "submitted by    /u/Soul_Predator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owxlnt/nitrux_151_released/",
+          "publishedOn": "2021-08-03T06:28:49.000Z",
+          "wordCount": 172,
+          "title": "Nitrux 1.5.1 Released"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owx0t6/more_on_gtk_input/",
+          "author": null,
+          "description": "submitted by    /u/purpleidea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owx0t6/more_on_gtk_input/",
+          "publishedOn": "2021-08-03T05:46:45.000Z",
+          "wordCount": 292,
+          "title": "More on GTK input"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owvqkg/i_made_a_wallpaper_and_i_hope_you_like_it/",
+          "author": null,
+          "description": "submitted by    /u/ImNeoJD  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owvqkg/i_made_a_wallpaper_and_i_hope_you_like_it/",
+          "publishedOn": "2021-08-03T04:18:54.000Z",
+          "wordCount": 318,
+          "title": "I made a wallpaper and I hope you like it. Feedback is appreciated :D"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owufvl/what_is_in_your_opinion_the_best_looking_linux/",
+          "author": null,
+          "description": "I recently distro hopped to linux and I am wondering, which desktop envirement looks the best by default such as KDE, XFCE, Gnome, Cinnamon or maybe even some other envirement that look good. Personally I decided on XFCE due to its simplicity as well as its customizability but what have you chosen. But I know XFCE isn't very pretty out of the box on some installations.\n    submitted by    /u/dovenant  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owufvl/what_is_in_your_opinion_the_best_looking_linux/",
+          "publishedOn": "2021-08-03T03:01:06.000Z",
+          "wordCount": 615,
+          "title": "What is in your opinion the best looking linux desktop envirement out of the box."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/owuetk/linux_has_finally_hit_1_user_share_on_steam_again/",
+          "author": null,
+          "description": "submitted by    /u/adila01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/owuetk/linux_has_finally_hit_1_user_share_on_steam_again/",
+          "publishedOn": "2021-08-03T02:59:37.000Z",
+          "wordCount": 585,
+          "title": "Linux has finally hit 1% user share on Steam again"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/owtnrn/can_someone_help_me_run_my_favorite_daw_in_linux/",
           "author": null,
@@ -421,6 +610,213 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxia9t/they_tell_me_cock_is_the_best_medicine_am_i_right/",
+          "author": null,
+          "description": "submitted by    /u/MarzipanIll1505  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxia9t/they_tell_me_cock_is_the_best_medicine_am_i_right/",
+          "publishedOn": "2021-08-04T01:50:28.000Z",
+          "wordCount": 98,
+          "title": "They tell me cock is the best medicine? Am I right?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxi50c/pierced_and_pretty_lingerie_is_always_a_win/",
+          "author": null,
+          "description": "submitted by    /u/Traditional_Neck_151  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxi50c/pierced_and_pretty_lingerie_is_always_a_win/",
+          "publishedOn": "2021-08-04T01:42:06.000Z",
+          "wordCount": 95,
+          "title": "Pierced and pretty lingerie is always a win"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxhhlr/cum_and_see_my_new_video_watch_me_play_with_my/",
+          "author": null,
+          "description": "submitted by    /u/delicious_monster21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxhhlr/cum_and_see_my_new_video_watch_me_play_with_my/",
+          "publishedOn": "2021-08-04T01:04:58.000Z",
+          "wordCount": 102,
+          "title": "Cum and see my new video... watch me play with my super STIFF nips 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxh2s4/my_nipples_are_rock_solid_and_begging_for_your/",
+          "author": null,
+          "description": "submitted by    /u/taste_of_lyra  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxh2s4/my_nipples_are_rock_solid_and_begging_for_your/",
+          "publishedOn": "2021-08-04T00:41:46.000Z",
+          "wordCount": 100,
+          "title": "My nipples are rock solid and begging for your mouth, can we play?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxgss1/love_my_nipples_being_pierced_do_you/",
+          "author": null,
+          "description": "submitted by    /u/Brown_eyed_babe89  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxgss1/love_my_nipples_being_pierced_do_you/",
+          "publishedOn": "2021-08-04T00:26:02.000Z",
+          "wordCount": 94,
+          "title": "Love my nipples being pierced… do you?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxgcmf/how_do_you_feel_about_the_solo_piercing/",
+          "author": null,
+          "description": "submitted by    /u/AuspiciousMistress  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxgcmf/how_do_you_feel_about_the_solo_piercing/",
+          "publishedOn": "2021-08-04T00:01:47.000Z",
+          "wordCount": 95,
+          "title": "How do you feel about the solo piercing?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxg9iu/oh_hello_taco_bell/",
+          "author": null,
+          "description": "submitted by    /u/northvalley420couple  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxg9iu/oh_hello_taco_bell/",
+          "publishedOn": "2021-08-03T23:57:24.000Z",
+          "wordCount": 91,
+          "title": "Oh hello Taco Bell"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxfnm0/hope_you_dont_mind_a_squirter_with_pierced_nipples/",
+          "author": null,
+          "description": "submitted by    /u/Your-one-and-only101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxfnm0/hope_you_dont_mind_a_squirter_with_pierced_nipples/",
+          "publishedOn": "2021-08-03T23:24:29.000Z",
+          "wordCount": 97,
+          "title": "Hope you don’t mind a squirter with pierced nipples 🤤💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxfcxy/would_you_suck_on_my_sensitive_nips/",
+          "author": null,
+          "description": "submitted by    /u/veganskank  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxfcxy/would_you_suck_on_my_sensitive_nips/",
+          "publishedOn": "2021-08-03T23:08:37.000Z",
+          "wordCount": 94,
+          "title": "Would you suck on my sensitive nips?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxe3rj/pretty_pageant_contestant/",
+          "author": null,
+          "description": "submitted by    /u/poafke  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxe3rj/pretty_pageant_contestant/",
+          "publishedOn": "2021-08-03T22:03:06.000Z",
+          "wordCount": 90,
+          "title": "Pretty pageant contestant"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxdit6/twist_my_pierced_nipples_while_you_play_with_me/",
+          "author": null,
+          "description": "submitted by    /u/DaisyDeNalgas  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxdit6/twist_my_pierced_nipples_while_you_play_with_me/",
+          "publishedOn": "2021-08-03T21:34:12.000Z",
+          "wordCount": 97,
+          "title": "Twist my pierced nipples while you play with me 😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxc339/mirror_mirror_on_the_wall_who_has_the_cutest_nips/",
+          "author": null,
+          "description": "submitted by    /u/CordiaMcgruder  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxc339/mirror_mirror_on_the_wall_who_has_the_cutest_nips/",
+          "publishedOn": "2021-08-03T20:24:13.000Z",
+          "wordCount": 100,
+          "title": "Mirror mirror on the wall, who has the cutest nips of them all?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxbjsk/lets_do_something_fun_with_you_i_hope_you_will_be/",
+          "author": null,
+          "description": "submitted by    /u/KaleidoscopeOk1155  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxbjsk/lets_do_something_fun_with_you_i_hope_you_will_be/",
+          "publishedOn": "2021-08-03T19:59:21.000Z",
+          "wordCount": 100,
+          "title": "Let's do something fun with you. I hope you will be happy 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxb6mf/always_have_to_put_you_close/",
+          "author": null,
+          "description": "submitted by    /u/MrsLucyLynn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxb6mf/always_have_to_put_you_close/",
+          "publishedOn": "2021-08-03T19:41:54.000Z",
+          "wordCount": 93,
+          "title": "Always have to put you close"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oxajj8/just_flashing_my_pierced_nipples_in_my_therapists/",
+          "author": null,
+          "description": "submitted by    /u/slutforcherrycoke  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oxajj8/just_flashing_my_pierced_nipples_in_my_therapists/",
+          "publishedOn": "2021-08-03T19:10:59.000Z",
+          "wordCount": 97,
+          "title": "just flashing my pierced nipples in my therapist’s waiting room"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ox9ply/got_you_on_my_mind_f/",
+          "author": null,
+          "description": "submitted by    /u/heart_like_mine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ox9ply/got_you_on_my_mind_f/",
+          "publishedOn": "2021-08-03T18:32:03.000Z",
+          "wordCount": 94,
+          "title": "got you on my mind 💘 [f]"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ox9kxb/grab_a_handful_or_2/",
+          "author": null,
+          "description": "submitted by    /u/kaykaysprettyOF  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ox9kxb/grab_a_handful_or_2/",
+          "publishedOn": "2021-08-03T18:25:49.000Z",
+          "wordCount": 92,
+          "title": "Grab a handful.. or 2"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ox8he4/happy_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/uprincesspeach  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ox8he4/happy_titty_tuesday/",
+          "publishedOn": "2021-08-03T17:34:39.000Z",
+          "wordCount": 91,
+          "title": "👑Happy titty Tuesday 💋💋"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ox5pkd/happy_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/bns1683  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ox5pkd/happy_titty_tuesday/",
+          "publishedOn": "2021-08-03T15:23:41.000Z",
+          "wordCount": 90,
+          "title": "Happy Titty Tuesday"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ox55yi/why_did_i_wait_until_i_was_32_to_pierce_my/",
+          "author": null,
+          "description": "submitted by    /u/Admobley  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ox55yi/why_did_i_wait_until_i_was_32_to_pierce_my/",
+          "publishedOn": "2021-08-03T14:56:43.000Z",
+          "wordCount": 100,
+          "title": "Why did I wait until I was 32 to pierce my precious tits??"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ox2her/happy_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/SammieHaze  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ox2her/happy_titty_tuesday/",
+          "publishedOn": "2021-08-03T12:31:13.000Z",
+          "wordCount": 91,
+          "title": "happy titty tuesday 💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/owzl5f/can_you_cuff_me_oc/",
+          "author": null,
+          "description": "submitted by    /u/Sassy_Goth666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/owzl5f/can_you_cuff_me_oc/",
+          "publishedOn": "2021-08-03T09:06:21.000Z",
+          "wordCount": 92,
+          "title": "Can you cuff me? (OC)"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/owwcat/its_titty_tuesday_f25/",
+          "author": null,
+          "description": "submitted by    /u/flowerybi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/owwcat/its_titty_tuesday_f25/",
+          "publishedOn": "2021-08-03T04:59:41.000Z",
+          "wordCount": 91,
+          "title": "it's titty tuesday! [f25]"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/owtnzz/nude_selfie/",
           "author": null,
@@ -743,6 +1139,231 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxinvn/the_difference_one_month_makes_i_cant_wait_to_get/",
+          "author": null,
+          "description": "submitted by    /u/PizzaLunchables0405  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxinvn/the_difference_one_month_makes_i_cant_wait_to_get/",
+          "publishedOn": "2021-08-04T02:11:34.000Z",
+          "wordCount": 100,
+          "title": "The difference one month makes.. I can’t wait to get knocked up again!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxi967/i_want_to_be_the_reason_you_have_to_tilt_your/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxi967/i_want_to_be_the_reason_you_have_to_tilt_your/",
+          "publishedOn": "2021-08-04T01:48:44.000Z",
+          "wordCount": 102,
+          "title": "I want to be the reason you have to tilt your phone away from others"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxfz41/enjoy_my_naked_wife/",
+          "author": null,
+          "description": "submitted by    /u/wheeloftime20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxfz41/enjoy_my_naked_wife/",
+          "publishedOn": "2021-08-03T23:41:23.000Z",
+          "wordCount": 92,
+          "title": "Enjoy my naked wife 🔥"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxfy3x/8months_pregnant_means_shaving_is_no_longer_an/",
+          "author": null,
+          "description": "submitted by    /u/misswrinkles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxfy3x/8months_pregnant_means_shaving_is_no_longer_an/",
+          "publishedOn": "2021-08-03T23:40:08.000Z",
+          "wordCount": 97,
+          "title": "8months pregnant means shaving is no longer an option 🧐"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxfp1u/she_loves_drinkin_my_milk/",
+          "author": null,
+          "description": "submitted by    /u/Sexikandi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxfp1u/she_loves_drinkin_my_milk/",
+          "publishedOn": "2021-08-03T23:26:37.000Z",
+          "wordCount": 92,
+          "title": "She loves drinkin my milk"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxf0wk/hi/",
+          "author": null,
+          "description": "submitted by    /u/MilkyMammi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxf0wk/hi/",
+          "publishedOn": "2021-08-03T22:51:20.000Z",
+          "wordCount": 89,
+          "title": "Hi ;)"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxe154/happy_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxe154/happy_titty_tuesday/",
+          "publishedOn": "2021-08-03T21:59:48.000Z",
+          "wordCount": 91,
+          "title": "Happy titty Tuesday 💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxdcv0/feeling_amazing_and_hugeand_horny_at_85_weeks/",
+          "author": null,
+          "description": "submitted by    /u/SweetKelseyXO_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxdcv0/feeling_amazing_and_hugeand_horny_at_85_weeks/",
+          "publishedOn": "2021-08-03T21:26:15.000Z",
+          "wordCount": 96,
+          "title": "Feeling AMAZING (and huge…and horny…) at 8.5 weeks! 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxc0go/my_wife_29_what_would_you_do_to_her/",
+          "author": null,
+          "description": "submitted by    /u/Legitimate_Evening_9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxc0go/my_wife_29_what_would_you_do_to_her/",
+          "publishedOn": "2021-08-03T20:20:38.000Z",
+          "wordCount": 96,
+          "title": "My wife (29) what would you do to her?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxbyh0/looking_for_those_nasty_boys_who_would_suck_this/",
+          "author": null,
+          "description": "submitted by    /u/Yourpocketpornstar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxbyh0/looking_for_those_nasty_boys_who_would_suck_this/",
+          "publishedOn": "2021-08-03T20:17:58.000Z",
+          "wordCount": 105,
+          "title": "Looking for those nasty boys who would suck this when I pull it out and insert there tongue"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxarfc/sunny_days_at_the_village/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxarfc/sunny_days_at_the_village/",
+          "publishedOn": "2021-08-03T19:21:26.000Z",
+          "wordCount": 92,
+          "title": "Sunny days at the village☀️😊🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/oxa41l/29_weeks/",
+          "author": null,
+          "description": "submitted by    /u/Katie_b_24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/oxa41l/29_weeks/",
+          "publishedOn": "2021-08-03T18:51:10.000Z",
+          "wordCount": 90,
+          "title": "29 weeks! 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox8erq/soooo_whats_the_first_thing_that_caught_your/",
+          "author": null,
+          "description": "submitted by    /u/WESTCOAST187  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox8erq/soooo_whats_the_first_thing_that_caught_your/",
+          "publishedOn": "2021-08-03T17:31:15.000Z",
+          "wordCount": 97,
+          "title": "soooo.. whats the first thing that caught your attention 😋"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox6xzb/30_weeks_after_i_was_properly_filled_with_thick/",
+          "author": null,
+          "description": "submitted by    /u/iammeela  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox6xzb/30_weeks_after_i_was_properly_filled_with_thick/",
+          "publishedOn": "2021-08-03T16:21:45.000Z",
+          "wordCount": 103,
+          "title": "30 weeks after I was properly filled with thick cum! Do you like the result? 🍆💦🐇"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox6tgn/overly_excited_about_my_new_toy_had_to_share_with/",
+          "author": null,
+          "description": "submitted by    /u/GymDad420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox6tgn/overly_excited_about_my_new_toy_had_to_share_with/",
+          "publishedOn": "2021-08-03T16:15:54.000Z",
+          "wordCount": 100,
+          "title": "Overly excited about my new toy 🤤💦 had to share with you 🥵"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox5ppy/6_months_pregnant_watch_me_fuck_my_swollen_pussy/",
+          "author": null,
+          "description": "submitted by    /u/Yourpocketpornstar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox5ppy/6_months_pregnant_watch_me_fuck_my_swollen_pussy/",
+          "publishedOn": "2021-08-03T15:23:52.000Z",
+          "wordCount": 102,
+          "title": "6 Months pregnant watch me fuck my swollen pussy with my belly in the way"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox4to3/i_wonder_if_my_neighbors_like_the_view_from_the/",
+          "author": null,
+          "description": "submitted by    /u/misswrinkles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox4to3/i_wonder_if_my_neighbors_like_the_view_from_the/",
+          "publishedOn": "2021-08-03T14:38:48.000Z",
+          "wordCount": 99,
+          "title": "I wonder if my neighbors like the view from the window 🧐"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox4cms/wanna_shower_with_me/",
+          "author": null,
+          "description": "submitted by    /u/HowHaley19  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox4cms/wanna_shower_with_me/",
+          "publishedOn": "2021-08-03T14:14:08.000Z",
+          "wordCount": 92,
+          "title": "Wanna shower with me? 😋💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox3t2i/made_you_some_coffeeill_add_the_milk/",
+          "author": null,
+          "description": "submitted by    /u/Nicoledahlia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox3t2i/made_you_some_coffeeill_add_the_milk/",
+          "publishedOn": "2021-08-03T13:46:05.000Z",
+          "wordCount": 95,
+          "title": "Made you some coffee..I’ll add the milk 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox2zfm/would_you_spank_this_pregnant_moms_ass/",
+          "author": null,
+          "description": "submitted by    /u/thefunmilf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox2zfm/would_you_spank_this_pregnant_moms_ass/",
+          "publishedOn": "2021-08-03T13:00:36.000Z",
+          "wordCount": 94,
+          "title": "Would you spank this pregnant moms ass?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox1xxk/i_was_told_pregnancy_looked_good_on_me_i_think_i/",
+          "author": null,
+          "description": "submitted by    /u/nikiscott19  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox1xxk/i_was_told_pregnancy_looked_good_on_me_i_think_i/",
+          "publishedOn": "2021-08-03T11:58:45.000Z",
+          "wordCount": 105,
+          "title": "I was told pregnancy looked good on me 😊 I think I need to be Bred again soon…"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox1eb9/belly_movements/",
+          "author": null,
+          "description": "submitted by    /u/kurvykv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox1eb9/belly_movements/",
+          "publishedOn": "2021-08-03T11:22:57.000Z",
+          "wordCount": 89,
+          "title": "belly movements💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ox0we7/do_i_look_sexy_with_a_swollen_tummy/",
+          "author": null,
+          "description": "submitted by    /u/spicywifeyxx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ox0we7/do_i_look_sexy_with_a_swollen_tummy/",
+          "publishedOn": "2021-08-03T10:48:52.000Z",
+          "wordCount": 95,
+          "title": "Do I look sexy with a swollen tummy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/owz7up/12_months_free_and_i_have_just_announced_i_am_5/",
+          "author": null,
+          "description": "submitted by    /u/LucyTease1983  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/owz7up/12_months_free_and_i_have_just_announced_i_am_5/",
+          "publishedOn": "2021-08-03T08:36:23.000Z",
+          "wordCount": 102,
+          "title": "12 months free and I have just announced I am 5 months pregnant link below🤰🍼💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/owxhpp/feeling_huge/",
+          "author": null,
+          "description": "submitted by    /u/HugAPitBull  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/owxhpp/feeling_huge/",
+          "publishedOn": "2021-08-03T06:20:29.000Z",
+          "wordCount": 89,
+          "title": "Feeling huge."
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/owrwmo/where_would_you_cum/",
           "author": null,
