@@ -244,6 +244,150 @@
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/linux/comments/p062h7/how_do_you_install_sotware_on_linux/",
+          "author": null,
+          "description": "Do you have to google every time to find the commands required to install software on linux? Or is there another way?\n eg- sudo snap install vlc \n eg- sudo apt install obs-studio\n How do I know which words to use to install software packages?\n    submitted by    /u/thecirclingfly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p062h7/how_do_you_install_sotware_on_linux/",
+          "publishedOn": "2021-08-08T02:00:33.000Z",
+          "wordCount": 170,
+          "title": "How do you install sotware on Linux?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p05vlx/different_partitions/",
+          "author": null,
+          "description": "balena etcher creates 2 different partitons whenever i flash an iso to either of my usbs im using.\n when i did this on my other pc it worked just fine and didnt create partitions.\n but when i install linux on rufus with iso mode it says \"waiting 30 seconds for finding this usb drive\". \n please help when you can\n    submitted by    /u/PeashooterPlaysred  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p05vlx/different_partitions/",
+          "publishedOn": "2021-08-08T01:47:28.000Z",
+          "wordCount": 168,
+          "title": "different partitions"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p04lkw/usbs_continue_to_become_undetected_after_insert/",
+          "author": null,
+          "description": "Im at loss for words, I’m not sure what the hell is going on but for some reason my USBs are suddenly becoming undetected. Brand new ones as well. Each USB port is still fully-functional; my wired USB hotspot works, USB-wireless mouse, USB-wireless keyboard, etc. Luckily, 2 of my USBs can still be read, but 4 have become undetected, and out of those 4, 2 of them are brand NEW. And the light will still switch on when they’re plugged in? What the fuck could be going on? \n Sorry to come off a bit on edge, but those 2 USBs have really important data on em(luckily I have most of it backed up), but it’s just starting to get infuriating. I figured maybe they could’ve gotten corrupt, so I bought 2 more to replace them and they read fine, then suddenly it’s just like disappeared. And now I’m nervous plug any USB flash drive in. What could be going on? Any advice? \n As stated, I have sensitive data that I would like to have backed up. I really dislike having a potential single point of failure, especially if there could be some strange hardware malfunction/cfg. Thank you all in advance.\n Don’t think it’ll matter but just in case….. OS; Parrot OS MATE, kern.5.10\n    submitted by    /u/DavidSprain  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p04lkw/usbs_continue_to_become_undetected_after_insert/",
+          "publishedOn": "2021-08-08T00:19:58.000Z",
+          "wordCount": 349,
+          "title": "USBs continue to become undetected after insert, light still flips on."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p01acl/calibrate_battery_capacity_spectre_x360_kaby_lake/",
+          "author": null,
+          "description": "Hi! I have an HP spectre x360 with kaby lake from 2017, and noticed that acpi reports that the \"last full capacity\" is the same as the design capacity, i.e. 100%. \n It is safe to say that the machine has gone through many charging cycles and has spent many working days being plugged in the entire day. It certainly is not at 100% anymore, and I've been considering a replacement battery. \n I assume there is some way to calibrate the capacity readings to get the right health info. Would anyone here be willing to tell me how? :) \n I use EndeavorOS, and \"acpi -bi\" to check in on the battery.\n    submitted by    /u/kaprests  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p01acl/calibrate_battery_capacity_spectre_x360_kaby_lake/",
+          "publishedOn": "2021-08-07T21:00:25.000Z",
+          "wordCount": 224,
+          "title": "Calibrate battery capacity - spectre x360 kaby lake"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozyqt6/best_linux_video_player_in_your_opinion/",
+          "author": null,
+          "description": "Celluloid, it's the definition of \"it just werks\" most intuitive and easy gui, no wonder it's the default choice of Linux Mint (I use audacious separately for audio only content) \n Not to say VLC and the other are bad, but UI-wise celluloid stands out and the format support is excellent too\n    submitted by    /u/openSUSeer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozyqt6/best_linux_video_player_in_your_opinion/",
+          "publishedOn": "2021-08-07T18:36:42.000Z",
+          "wordCount": 688,
+          "title": "Best linux video player in your opinion"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozyd7v/i_got_one_of_my_friends_to_finally_try_linux_and/",
+          "author": null,
+          "description": "The first time I met this guy, he wasn't really like a big tech guru or anything. He wishes to become a lawyer, but when he discovered that I was a huge fan of Linux he really wanted to give it a try. I showed him a few distributions to choose from, which obviously were beginner-friendly. He liked Ubuntu the most, and he hated Windows so much that he wanted to erase the whole disk and only have Linux on his drive.\n We ran into a couple of issues here and there, mostly related to missing libraries. Surprisingly he actually had a lot of fun trying to troubleshoot and fix, and he hasn't stopped thanking me for introducing him to GNU/Linux. Hope we see more people like this person in the future, so that we can grow the Linux community and get more people off the atrocious platform of Windows.\n    submitted by    /u/SuchBlue_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozyd7v/i_got_one_of_my_friends_to_finally_try_linux_and/",
+          "publishedOn": "2021-08-07T18:15:54.000Z",
+          "wordCount": 697,
+          "title": "I got one of my friends to finally try Linux... and they loved it"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oztpmg/switching_to_sway_worth_it/",
+          "author": null,
+          "description": "Hello,\n I am thinking about switching to sway. Unfortunately, possessing an nvidia card (GTX 1050), I will have to install the nouveau driver since the proprietary nvidia drivers are not supported.\n The problem is that I am unable to know if it is worth it since the only sources I was able to find, when comparing the open source and the proprietary driver, date back back to at least 2 years (seams a bit outdated).\n I don't play, I only code on my computer. So apart from coding, I sometimes watch movies, listen to spotify. So, to sum it up, I don't really use my GPU. The most \"demanding\" piece of software I use is picom.\n So as a final question, I would like to know if I will feel any downside switching to sway ? Is it worth the try ?\n Thank you very much for your help.\n    submitted by    /u/ScriptorTux  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oztpmg/switching_to_sway_worth_it/",
+          "publishedOn": "2021-08-07T13:56:31.000Z",
+          "wordCount": 1087,
+          "title": "Switching to sway (worth it ?)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/oztbws/just_hit_my_first_1tb_of_upload_seeding_linux/",
+          "author": null,
+          "description": "submitted by    /u/fndmossmann  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/oztbws/just_hit_my_first_1tb_of_upload_seeding_linux/",
+          "publishedOn": "2021-08-07T13:32:53.000Z",
+          "wordCount": 375,
+          "title": "Just hit my first 1TB of upload seeding Linux distros ISOs"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozt7iy/preliminary_hardware_support_status_report_one/",
+          "author": null,
+          "description": "submitted by    /u/linuxbuild  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozt7iy/preliminary_hardware_support_status_report_one/",
+          "publishedOn": "2021-08-07T13:25:14.000Z",
+          "wordCount": 312,
+          "title": "Preliminary hardware support status report - one week before the release of Debian 11"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozsn2v/filesystem_or_block_device_replication_to_protect/",
+          "author": null,
+          "description": "Hi, I was just thinking about the best way to protect your data from ransomware, mistakes, and other mishaps. It seems there should be a filesystem or block device replication system that works like database replication. For example in PostgreSQL you enable transaction logging to another server and take a base backup, then to restore to any point in time you just need the base backup plus all the logs from the backup time to the point in time where you need to recover.\n Is there a block device driver or filesystem that does something similar? I'm not aware of it. I don't think DRBD goes that far. I hear ZFS might provide some of that, but I'd like to see something whose legality is not in dispute.\n    submitted by    /u/yodermk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozsn2v/filesystem_or_block_device_replication_to_protect/",
+          "publishedOn": "2021-08-07T12:48:26.000Z",
+          "wordCount": 1036,
+          "title": "Filesystem or block device replication to protect from ransomware?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozsew6/operating_systems_timeline_and_family_tree/",
+          "author": null,
+          "description": "submitted by    /u/speckz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozsew6/operating_systems_timeline_and_family_tree/",
+          "publishedOn": "2021-08-07T12:33:04.000Z",
+          "wordCount": 155,
+          "title": "Operating Systems: Timeline and Family Tree"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozrcdq/use_flatseal_to_change_permission_of_your_flatpak/",
+          "author": null,
+          "description": "submitted by    /u/jolodossu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozrcdq/use_flatseal_to_change_permission_of_your_flatpak/",
+          "publishedOn": "2021-08-07T11:09:14.000Z",
+          "wordCount": 141,
+          "title": "Use Flatseal to change permission of your flatpak app easily"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozq7iy/i_want_to_learn_more_about_linux/",
+          "author": null,
+          "description": "Semi-begginer here. I dipped my toes into Linux a while ago, and I learned all the basics, like commands that I need for file exploration/installing stuff. What now?\n I want to learn more about the system and what I can do with it, but I have no clue where to go from here. Any recommendations for projects, or maybe even a different distro (since I intially picked Ubuntu since I heard it was the most beginner friendly), or just general recourses I can look into. Anything would be appreciated!\n    submitted by    /u/0Cytruss0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozq7iy/i_want_to_learn_more_about_linux/",
+          "publishedOn": "2021-08-07T09:28:01.000Z",
+          "wordCount": 1368,
+          "title": "I want to learn more about Linux."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozpwtl/this_week_in_kde_stability_adventures_in_linux/",
+          "author": null,
+          "description": "submitted by    /u/ognarb1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozpwtl/this_week_in_kde_stability_adventures_in_linux/",
+          "publishedOn": "2021-08-07T09:00:39.000Z",
+          "wordCount": 157,
+          "title": "This week in KDE: Stability – Adventures in Linux and KDE"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozpgqe/was_i_the_only_one_who_didnt_know_that_this/",
+          "author": null,
+          "description": "submitted by    /u/tman5400  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozpgqe/was_i_the_only_one_who_didnt_know_that_this/",
+          "publishedOn": "2021-08-07T08:19:28.000Z",
+          "wordCount": 478,
+          "title": "Was I the only one who didn't know that this existed?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/ozolgz/dynamic_ftrace_filtering_for_tracing_flows_and/",
+          "author": null,
+          "description": "submitted by    /u/Lonely-Heat-2688  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/ozolgz/dynamic_ftrace_filtering_for_tracing_flows_and/",
+          "publishedOn": "2021-08-07T07:03:39.000Z",
+          "wordCount": 144,
+          "title": "Dynamic ftrace filtering for tracing flows and events in kernel"
+        },
+        {
           "id": "https://www.reddit.com/r/linux/comments/ozjivx/i_am_absolutely_in_love_with_kubuntu_2104_and_my/",
           "author": null,
           "description": "submitted by    /u/TsuDoughNym  \n [link]   [comments]",
@@ -1105,6 +1249,222 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p03yvf/hope_im_on_your_list_of_things_to_do_this_weekend/",
+          "author": null,
+          "description": "submitted by    /u/mmmmarcia91  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p03yvf/hope_im_on_your_list_of_things_to_do_this_weekend/",
+          "publishedOn": "2021-08-07T23:39:07.000Z",
+          "wordCount": 98,
+          "title": "Hope I’m on your list of things to do this weekend 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p02n8a/verification_post/",
+          "author": null,
+          "description": "submitted by    /u/Objective_Thing9998  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p02n8a/verification_post/",
+          "publishedOn": "2021-08-07T22:18:19.000Z",
+          "wordCount": 88,
+          "title": "Verification post"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p00l2w/a_little_onoff_for_you_babes/",
+          "author": null,
+          "description": "submitted by    /u/Faye_Evans  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p00l2w/a_little_onoff_for_you_babes/",
+          "publishedOn": "2021-08-07T20:19:32.000Z",
+          "wordCount": 93,
+          "title": "A little on/off for you babes 😘"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p00kc8/i_love_how_you_can_see_my_pierced_nipples_thru_my/",
+          "author": null,
+          "description": "submitted by    /u/bns1683  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p00kc8/i_love_how_you_can_see_my_pierced_nipples_thru_my/",
+          "publishedOn": "2021-08-07T20:18:19.000Z",
+          "wordCount": 99,
+          "title": "I love how you can see my pierced nipples thru my new lingerie"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozzixi/who_wants_to_suck_on_them/",
+          "author": null,
+          "description": "submitted by    /u/Michirose96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozzixi/who_wants_to_suck_on_them/",
+          "publishedOn": "2021-08-07T19:20:31.000Z",
+          "wordCount": 93,
+          "title": "Who wants to suck on them? 😇"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozyf86/just_a_quick_squeeze/",
+          "author": null,
+          "description": "submitted by    /u/hwpbdl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozyf86/just_a_quick_squeeze/",
+          "publishedOn": "2021-08-07T18:18:58.000Z",
+          "wordCount": 90,
+          "title": "Just a quick squeeze"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozy8uw/its_my_first_gif_ever_how_did_i_do/",
+          "author": null,
+          "description": "submitted by    /u/powerlizter412  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozy8uw/its_my_first_gif_ever_how_did_i_do/",
+          "publishedOn": "2021-08-07T18:09:10.000Z",
+          "wordCount": 96,
+          "title": "It’s my first gif ever how did I do 🙈"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozy2ig/cum_let_me_be_your_slutty_milfjoin_my_of_pages_so/",
+          "author": null,
+          "description": "submitted by    /u/privatedancer73  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozy2ig/cum_let_me_be_your_slutty_milfjoin_my_of_pages_so/",
+          "publishedOn": "2021-08-07T17:59:52.000Z",
+          "wordCount": 100,
+          "title": "🔥cum let me be your slutty milf🔥join my OF pages so we can play😜"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozxq2w/just_a_peek/",
+          "author": null,
+          "description": "submitted by    /u/harlettscarlett93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozxq2w/just_a_peek/",
+          "publishedOn": "2021-08-07T17:40:39.000Z",
+          "wordCount": 89,
+          "title": "Just a peek"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozxh8o/a_titty_drop_a_day_keeps_the_doctor_away/",
+          "author": null,
+          "description": "submitted by    /u/emberleebaby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozxh8o/a_titty_drop_a_day_keeps_the_doctor_away/",
+          "publishedOn": "2021-08-07T17:26:55.000Z",
+          "wordCount": 96,
+          "title": "a titty drop a day keeps the doctor away 😘"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozx6wy/34dd_pierced_nipples/",
+          "author": null,
+          "description": "submitted by    /u/sweetbut_psycho19  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozx6wy/34dd_pierced_nipples/",
+          "publishedOn": "2021-08-07T17:10:49.000Z",
+          "wordCount": 89,
+          "title": "34dd pierced nipples"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozv21r/i_got_a_new_tank_top/",
+          "author": null,
+          "description": "submitted by    /u/mira_noirxx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozv21r/i_got_a_new_tank_top/",
+          "publishedOn": "2021-08-07T15:13:30.000Z",
+          "wordCount": 92,
+          "title": "I got a new tank top"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozuxrn/wow_unreal_tits/",
+          "author": null,
+          "description": "submitted by    /u/joneb04  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozuxrn/wow_unreal_tits/",
+          "publishedOn": "2021-08-07T15:07:00.000Z",
+          "wordCount": 89,
+          "title": "Wow unreal tits"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oztssq/bro_why_wont_this_shit_let_me_fucking_post/",
+          "author": null,
+          "description": "submitted by    /u/BusJealous7089  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oztssq/bro_why_wont_this_shit_let_me_fucking_post/",
+          "publishedOn": "2021-08-07T14:01:33.000Z",
+          "wordCount": 95,
+          "title": "Bro why won’t this shit let me fucking post"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozsk1f/what_to_do_when_wide_awake_at_night_let_me_know/",
+          "author": null,
+          "description": "submitted by    /u/LunaLover31  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozsk1f/what_to_do_when_wide_awake_at_night_let_me_know/",
+          "publishedOn": "2021-08-07T12:42:54.000Z",
+          "wordCount": 97,
+          "title": "What to do when wide awake at night? Let me know!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozqxj2/tan_abs_and_pierced_nipples/",
+          "author": null,
+          "description": "submitted by    /u/GymBunnyEllis1993  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozqxj2/tan_abs_and_pierced_nipples/",
+          "publishedOn": "2021-08-07T10:32:59.000Z",
+          "wordCount": 91,
+          "title": "Tan, abs and pierced nipples…"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozqj1f/goodnight/",
+          "author": null,
+          "description": "submitted by    /u/_skanksinatra  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozqj1f/goodnight/",
+          "publishedOn": "2021-08-07T09:56:57.000Z",
+          "wordCount": 88,
+          "title": "Goodnight 👅"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozpxox/unclasps_from_the_front/",
+          "author": null,
+          "description": "submitted by    /u/fairywitxh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozpxox/unclasps_from_the_front/",
+          "publishedOn": "2021-08-07T09:02:39.000Z",
+          "wordCount": 90,
+          "title": "unclasps from the front👅✨😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/oznfjq/what_do_u_think/",
+          "author": null,
+          "description": "submitted by    /u/angelxobabyluv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/oznfjq/what_do_u_think/",
+          "publishedOn": "2021-08-07T05:27:00.000Z",
+          "wordCount": 90,
+          "title": "What do u think??"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozmnoo/heres_a_titty_pic_for_those_that_are_headed_to/",
+          "author": null,
+          "description": "submitted by    /u/busycouplensfw  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozmnoo/heres_a_titty_pic_for_those_that_are_headed_to/",
+          "publishedOn": "2021-08-07T04:29:04.000Z",
+          "wordCount": 99,
+          "title": "Here’s a titty pic for those that are headed to bed soon 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozmkdx/so_wanna_smash/",
+          "author": null,
+          "description": "submitted by    /u/arealreverie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozmkdx/so_wanna_smash/",
+          "publishedOn": "2021-08-07T04:22:34.000Z",
+          "wordCount": 90,
+          "title": "So… wanna Smash? 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozm9no/410_93lbsim_teeny_tiny_but_my_tits_are_pretty_big/",
+          "author": null,
+          "description": "submitted by    /u/daddys_eye_candi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozm9no/410_93lbsim_teeny_tiny_but_my_tits_are_pretty_big/",
+          "publishedOn": "2021-08-07T04:01:58.000Z",
+          "wordCount": 97,
+          "title": "🍆💦🙈4'10'' 93lbs-I'm teeny tiny but my tits are pretty big comparatively!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozlvrd/19_f_my_favorite_piercings/",
+          "author": null,
+          "description": "submitted by    /u/sluttysexdoll  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozlvrd/19_f_my_favorite_piercings/",
+          "publishedOn": "2021-08-07T03:35:41.000Z",
+          "wordCount": 91,
+          "title": "(19 f) my favorite piercings"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/ozl376/these_are_my_favorite_piercings_on_me/",
+          "author": null,
+          "description": "submitted by    /u/AutumnSunshiine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/ozl376/these_are_my_favorite_piercings_on_me/",
+          "publishedOn": "2021-08-07T02:41:26.000Z",
+          "wordCount": 94,
+          "title": "These are my favorite piercings on me ☀️"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/ozjokv/recently_done_how_are_they/",
           "author": null,
@@ -2219,6 +2579,222 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p04fsw/super_pink/",
+          "author": null,
+          "description": "submitted by    /u/starryari21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p04fsw/super_pink/",
+          "publishedOn": "2021-08-08T00:09:00.000Z",
+          "wordCount": 88,
+          "title": "Super pink"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p04eyo/super_pink/",
+          "author": null,
+          "description": "submitted by    /u/starryari21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p04eyo/super_pink/",
+          "publishedOn": "2021-08-08T00:07:33.000Z",
+          "wordCount": 88,
+          "title": "Super pink"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p03x10/breeding_slut_gets_pumped_full/",
+          "author": null,
+          "description": "submitted by    /u/shinigamirabbit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p03x10/breeding_slut_gets_pumped_full/",
+          "publishedOn": "2021-08-07T23:35:48.000Z",
+          "wordCount": 91,
+          "title": "Breeding slut gets pumped full"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p03buf/breeding_elf_did_a_photo_shoot_for_you/",
+          "author": null,
+          "description": "submitted by    /u/shinigamirabbit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p03buf/breeding_elf_did_a_photo_shoot_for_you/",
+          "publishedOn": "2021-08-07T22:59:16.000Z",
+          "wordCount": 95,
+          "title": "Breeding elf did a photo shoot for you :)"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p03bmo/similar_exgfs/",
+          "author": null,
+          "description": "submitted by    /u/No-Guide500  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p03bmo/similar_exgfs/",
+          "publishedOn": "2021-08-07T22:58:51.000Z",
+          "wordCount": 88,
+          "title": "Similar exgfs"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p01sty/am_i_too_far_along_to_get_fucked/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p01sty/am_i_too_far_along_to_get_fucked/",
+          "publishedOn": "2021-08-07T21:29:38.000Z",
+          "wordCount": 95,
+          "title": "Am I too far along to get fucked ?🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p01q6t/saturday_afternoon/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p01q6t/saturday_afternoon/",
+          "publishedOn": "2021-08-07T21:25:34.000Z",
+          "wordCount": 88,
+          "title": "Saturday afternoon🥰😘"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p01d8u/contractions_while_cumming_31_weeks_pregnant/",
+          "author": null,
+          "description": "submitted by    /u/WetPantyPregnancy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p01d8u/contractions_while_cumming_31_weeks_pregnant/",
+          "publishedOn": "2021-08-07T21:04:54.000Z",
+          "wordCount": 92,
+          "title": "Contractions while cumming😱 31 weeks pregnant☀️"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p013dx/do_you_like_big_baby_bumps/",
+          "author": null,
+          "description": "submitted by    /u/peachyliv7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p013dx/do_you_like_big_baby_bumps/",
+          "publishedOn": "2021-08-07T20:49:07.000Z",
+          "wordCount": 92,
+          "title": "Do you like big baby bumps?😛"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozzwoc/mmm_who_likes_some_phat_pregnant_pussy/",
+          "author": null,
+          "description": "submitted by    /u/horny_mama25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozzwoc/mmm_who_likes_some_phat_pregnant_pussy/",
+          "publishedOn": "2021-08-07T19:41:43.000Z",
+          "wordCount": 94,
+          "title": "Mmm who likes some phat pregnant pussy 👅👅"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozzqeh/miss_me/",
+          "author": null,
+          "description": "submitted by    /u/loudthicknfine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozzqeh/miss_me/",
+          "publishedOn": "2021-08-07T19:31:56.000Z",
+          "wordCount": 88,
+          "title": "Miss me?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozz4t4/starting_to_feel_werid_with_my_own_nipples_ºº/",
+          "author": null,
+          "description": "submitted by    /u/Erica_Love_Yu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozz4t4/starting_to_feel_werid_with_my_own_nipples_ºº/",
+          "publishedOn": "2021-08-07T18:58:56.000Z",
+          "wordCount": 102,
+          "title": "Starting to feel werid with my own nipples (º﹃º ) what should i do with them?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozyydi/fell_in_love_with_black/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozyydi/fell_in_love_with_black/",
+          "publishedOn": "2021-08-07T18:48:38.000Z",
+          "wordCount": 91,
+          "title": "fell in love with black🖤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozxy0y/before_after_im_going_to_have_to_pull_this_outfit/",
+          "author": null,
+          "description": "submitted by    /u/MarcelineTheDream  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozxy0y/before_after_im_going_to_have_to_pull_this_outfit/",
+          "publishedOn": "2021-08-07T17:52:52.000Z",
+          "wordCount": 107,
+          "title": "Before // After 🤪 I’m going to have to pull this outfit out and take a new pic post Preggo 😌"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozxm8l/anyone_like_this_f/",
+          "author": null,
+          "description": "submitted by    /u/funcouple141414  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozxm8l/anyone_like_this_f/",
+          "publishedOn": "2021-08-07T17:34:41.000Z",
+          "wordCount": 90,
+          "title": "Anyone like this? [F]"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozwqig/yall_these_pregnancy_hormones_been_making_this/",
+          "author": null,
+          "description": "submitted by    /u/WESTCOAST187  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozwqig/yall_these_pregnancy_hormones_been_making_this/",
+          "publishedOn": "2021-08-07T16:46:36.000Z",
+          "wordCount": 98,
+          "title": "yall , these pregnancy hormones been making this pussy extra wet 😩"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozvr3p/ill_be_30_weeks_tomorrow_not_too_much_longer_now/",
+          "author": null,
+          "description": "submitted by    /u/TheBexEffect  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozvr3p/ill_be_30_weeks_tomorrow_not_too_much_longer_now/",
+          "publishedOn": "2021-08-07T15:52:34.000Z",
+          "wordCount": 97,
+          "title": "I’ll be 30 weeks tomorrow. Not too much longer now 😬"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozv9m8/on_or_off/",
+          "author": null,
+          "description": "submitted by    /u/adrianamarie1127  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozv9m8/on_or_off/",
+          "publishedOn": "2021-08-07T15:25:05.000Z",
+          "wordCount": 89,
+          "title": "On or off?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozuf3r/am_i_the_only_one_that_loves_my_changing_body/",
+          "author": null,
+          "description": "submitted by    /u/thefunmilf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozuf3r/am_i_the_only_one_that_loves_my_changing_body/",
+          "publishedOn": "2021-08-07T14:37:35.000Z",
+          "wordCount": 96,
+          "title": "Am I the only one that loves my changing body?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozu79e/my_nipples_are_constantly_hard_during_pregnancy/",
+          "author": null,
+          "description": "submitted by    /u/RioMagnus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozu79e/my_nipples_are_constantly_hard_during_pregnancy/",
+          "publishedOn": "2021-08-07T14:24:46.000Z",
+          "wordCount": 94,
+          "title": "My nipples are constantly hard during pregnancy 🤭"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozt9da/my_hips_hurt_bc_my_belly_is_so_big/",
+          "author": null,
+          "description": "submitted by    /u/misswrinkles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozt9da/my_hips_hurt_bc_my_belly_is_so_big/",
+          "publishedOn": "2021-08-07T13:28:30.000Z",
+          "wordCount": 95,
+          "title": "My hips hurt Bc my belly is so big😩"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozsv5o/spreading_my_pregnant_ass_for_you_hope_that_make/",
+          "author": null,
+          "description": "submitted by    /u/secretsofpleasure  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozsv5o/spreading_my_pregnant_ass_for_you_hope_that_make/",
+          "publishedOn": "2021-08-07T13:02:58.000Z",
+          "wordCount": 100,
+          "title": "Spreading my pregnant ass for you 💋 hope that make your day better 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozqqr0/how_do_yall_feel_about_small_4_month_bumps_my/",
+          "author": null,
+          "description": "submitted by    /u/lillyvig  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozqqr0/how_do_yall_feel_about_small_4_month_bumps_my/",
+          "publishedOn": "2021-08-07T10:15:49.000Z",
+          "wordCount": 103,
+          "title": "How do y’all feel about small 4 month bumps? my pussy dripping wet 24/7 when knocked up"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ozpd71/i_love_sometimes_wild_sexand_you/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ozpd71/i_love_sometimes_wild_sexand_you/",
+          "publishedOn": "2021-08-07T08:10:15.000Z",
+          "wordCount": 93,
+          "title": "I love sometimes wild sex😈🔥and you ?😀"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/ozjuih/the_thought_of_you_cumming_on_my_growing_tits/",
           "author": null,
