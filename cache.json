@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346392",
+          "author": "Chris Coyier",
+          "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/view-source-on-mobile/",
+          "publishedOn": "2021-08-10T21:26:34.000Z",
+          "wordCount": 566,
+          "title": "View Source (on Mobile)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345861",
+          "author": "Kitty Giraudel",
+          "description": "Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.\nThat being said: parsing, processing, …\nThe post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/responsible-markdown-in-next-js/",
+          "publishedOn": "2021-08-10T14:55:07.000Z",
+          "wordCount": 1590,
+          "title": "Responsible Markdown in Next.js"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345799",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nGot a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …\nThe post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/",
+          "publishedOn": "2021-08-10T14:54:56.000Z",
+          "wordCount": 1293,
+          "title": "WooCommerce With Apple Pay and Google Pay"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346355",
+          "author": "Robin Rendle",
+          "description": "Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:\ndiv \n…\nThe post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/",
+          "publishedOn": "2021-08-10T14:51:39.000Z",
+          "wordCount": 2378,
+          "title": "CSS Nesting, specificity, and you"
+        },
+        {
           "id": "https://css-tricks.com/?p=346368",
           "author": "Chris Coyier",
           "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -279,6 +315,177 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p233u7/without_saying_its_name_describe_your_favorite/",
+          "author": null,
+          "description": "I've been people making this \"Without saying its name, describe ...\", so since there are many distributions and for the fun of it, let's play it also! So describe your favorite (or one that you like) distribution, but don't say its name! And people can try guessing which distribution it is by replying to the description.\n    submitted by    /u/NoFun9861  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p233u7/without_saying_its_name_describe_your_favorite/",
+          "publishedOn": "2021-08-11T01:34:53.000Z",
+          "wordCount": 302,
+          "title": "Without saying its name, describe your favorite distribution"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p22gcd/linux_monetization_built_in_technical_support_for/",
+          "author": null,
+          "description": "There are a lot of people who get into Linux and get over their head quickly and go back to Windows or Mac. Even more seasoned people struggle with certain things.\n ​\n What if there was a feature built right into most Linux distros (or at least the main ones with companies behind them) where you could turn it on, write out your problem then you connect to a support technician and if they believe they can solve the issue, they could either charge a fee, or maybe there could be a monthly fee for some people who want it, and they can ask as much as they want for that flat fee.\n ​\n These technicians shouldnt be dopes reading from a script, but rather subject matter experts.\n ​\n Obviously such a thing shouldnt spy on you and it should have privacy measures built in.\n    submitted by    /u/ArbitraryUsernameHEH  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p22gcd/linux_monetization_built_in_technical_support_for/",
+          "publishedOn": "2021-08-11T00:55:27.000Z",
+          "wordCount": 877,
+          "title": "Linux Monetization: Built in technical support for Linux for a fee. Is it feasible?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p20sjy/is_steam_deck_a_deja_vu/",
+          "author": null,
+          "description": "submitted by    /u/Ok-Pay-449  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p20sjy/is_steam_deck_a_deja_vu/",
+          "publishedOn": "2021-08-10T23:17:55.000Z",
+          "wordCount": 193,
+          "title": "Is Steam Deck a Deja Vu?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1v74q/pkger_050_released_build_rpm_deb_and_other/",
+          "author": null,
+          "description": "Hello everyone!\n I wanted to share the latest release of pkger with you all. This release brings a lot of quality of life improvements like using the correct cache directory of OS to store state, returning correct exit code on job failure, new subcommands like list packages and clean-cache, new environment variables available during build RECIPE RECIPE_VERSION RECIPE_RELEASE, and a lot more! \n For a full changelog check out this link: https://github.com/vv9k/pkger/blob/master/CHANGELOG.md \n And here is the user's guide: https://vv9k.github.io/pkger/\n Feel free to contact me or report any issues or feature request :) Contributions are also welcome!\n    submitted by    /u/wwojtekk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1v74q/pkger_050_released_build_rpm_deb_and_other/",
+          "publishedOn": "2021-08-10T18:28:34.000Z",
+          "wordCount": 265,
+          "title": "pkger 0.5.0 released! Build RPM, DEB, and other packages for multiple distros and architectures using one manifest file and Docker"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1v5wx/an_ad_showcasing_the_new_features_in_dolphin_kde/",
+          "author": null,
+          "description": "submitted by    /u/AronKov  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1v5wx/an_ad_showcasing_the_new_features_in_dolphin_kde/",
+          "publishedOn": "2021-08-10T18:26:51.000Z",
+          "wordCount": 495,
+          "title": "An 'ad' showcasing the new features in Dolphin - KDE Gear 21.08"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1umlh/mac_osx_need_to_rant/",
+          "author": null,
+          "description": "I'm a software engineer (Java, LAMP, Web Apps mostly) and I've daily driven Ubuntu for a decade now. The last 3 companies I've worked for have allowed me (sometimes grudgingly) to use Ubuntu for work. Sometimes there were frustrations (company tools written for Macs that I had to get working on Linux) but I could use Linux every day and those frustrations were always rare events.\n I started a new job recently where all dev is on Macs, and this time I didn't want to kick up a fuss when I was joining by pushing to use Linux (I suspect they wouldn't have hired me if I had). The role was pretty perfect apart from the OS and the company is doing relatively interesting work (It's a big US multinational, and finding one that does anything interesting is a real rarity).\n So I took the mac and reck…",
+          "link": "https://www.reddit.com/r/linux/comments/p1umlh/mac_osx_need_to_rant/",
+          "publishedOn": "2021-08-10T18:00:13.000Z",
+          "wordCount": 2571,
+          "title": "Mac OSx; need to rant."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1sduu/my_review_of_elementaryos_6_odin/",
+          "author": null,
+          "description": "submitted by    /u/Tylnesh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1sduu/my_review_of_elementaryos_6_odin/",
+          "publishedOn": "2021-08-10T16:11:42.000Z",
+          "wordCount": 128,
+          "title": "My review of ElementaryOS 6 Odin"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1s5zg/elementary_os_6_odin_available_now/",
+          "author": null,
+          "description": "submitted by    /u/disappointeddipshit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1s5zg/elementary_os_6_odin_available_now/",
+          "publishedOn": "2021-08-10T16:01:47.000Z",
+          "wordCount": 685,
+          "title": "elementary OS 6 Odin Available Now"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1p8sk/convert_various_formats_jsonbsonyamlcsvxml_to_any/",
+          "author": null,
+          "description": "submitted by    /u/mmalcek  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1p8sk/convert_various_formats_jsonbsonyamlcsvxml_to_any/",
+          "publishedOn": "2021-08-10T13:32:28.000Z",
+          "wordCount": 246,
+          "title": "Convert various formats (json,bson,yaml,csv,xml) to any output format using templates"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1ohnl/firefox_910_released/",
+          "author": null,
+          "description": "submitted by    /u/Vulphere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1ohnl/firefox_910_released/",
+          "publishedOn": "2021-08-10T12:48:02.000Z",
+          "wordCount": 774,
+          "title": "Firefox 91.0 released"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1nmoe/just_perfection_gnome_shell_extension_added_5_new/",
+          "author": null,
+          "description": "I've added 5 new features to the Just Perfection extension:\n  \nPanel height.\n Panel button padding size.\n Window picker caption visibility.\n Workspace background corner size in overview.\n Workspace wraparound.\n  \nbtw, this is the version 13 Ad if you like to watch :)\n The extension is gaining more features on each release. I know there are some requests waiting for months to land on this extension. I do my best to add them in the future.\n    submitted by    /u/JustPerfection2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1nmoe/just_perfection_gnome_shell_extension_added_5_new/",
+          "publishedOn": "2021-08-10T11:52:27.000Z",
+          "wordCount": 418,
+          "title": "Just Perfection GNOME Shell Extension added 5 new features in version 13 (Codename Ring)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1n496/chriss_wiki_the_xterm_terminal_emulator_can_do_a/",
+          "author": null,
+          "description": "submitted by    /u/Skaarj  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1n496/chriss_wiki_the_xterm_terminal_emulator_can_do_a/",
+          "publishedOn": "2021-08-10T11:15:46.000Z",
+          "wordCount": 221,
+          "title": "Chris's Wiki :: The xterm terminal emulator can do a lot more than just display text"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1n2wf/rfc_release_schedule_for_x_server_211_i_am_happy/",
+          "author": null,
+          "description": "submitted by    /u/beer118  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1n2wf/rfc_release_schedule_for_x_server_211_i_am_happy/",
+          "publishedOn": "2021-08-10T11:13:06.000Z",
+          "wordCount": 161,
+          "title": "[RFC] Release schedule for X server 21.1 I am happy since there is not clear upgrade path from it"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1mm0a/this_is_why_valve_is_switching_from_debian_to/",
+          "author": null,
+          "description": "submitted by    /u/FryBoyter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1mm0a/this_is_why_valve_is_switching_from_debian_to/",
+          "publishedOn": "2021-08-10T10:37:31.000Z",
+          "wordCount": 692,
+          "title": "This is why Valve is switching from Debian to Arch for Steam Deck's Linux OS"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1jryy/does_anyone_know_if_there_is_a_site_or_podcast_or/",
+          "author": null,
+          "description": "I haven't been using Linux a long time and one of my favorite things growing up was surfing source forge when it was still good for new and interesting projects anything from large mega projects to small shell scripts. I just think it would be awesome if there was a show or site that just did a feature on that project and maybe gave history and a deep dive on that program and I promise I did Google before I posted here.\n    submitted by    /u/Zero-Dni  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1jryy/does_anyone_know_if_there_is_a_site_or_podcast_or/",
+          "publishedOn": "2021-08-10T06:37:26.000Z",
+          "wordCount": 482,
+          "title": "Does anyone know if there is a site or podcast or subreddit that does features on different Linux programs / projects."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1jdk8/yeah_linux_is_heavy_on_resources/",
+          "author": null,
+          "description": "submitted by    /u/BonezyNZ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1jdk8/yeah_linux_is_heavy_on_resources/",
+          "publishedOn": "2021-08-10T06:05:49.000Z",
+          "wordCount": 703,
+          "title": "Yeah linux is heavy on resources ;)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1jbd6/in_case_i_wasnt_the_only_one_wondering_you_can_in/",
+          "author": null,
+          "description": "submitted by    /u/blujai831  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1jbd6/in_case_i_wasnt_the_only_one_wondering_you_can_in/",
+          "publishedOn": "2021-08-10T06:01:22.000Z",
+          "wordCount": 1187,
+          "title": "In case I wasn't the only one wondering: you can in fact install Linux without removable media by booting the installer in a VM and attaching your hard drive as a raw disk, and it's only ever so slightly painful."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1innw/what_do_you_like_best_about_the_distro_of_your/",
+          "author": null,
+          "description": "Like the title mentioned above, I just want everyone's favourite part about using a distribution. Not the best point mentioned about a distribution on their website. Although that could your favourite part. \n No, I'm also talking about the small things that was by default in your distribution or maybe unique to your distribution. I want to know all that. This is just for general knowledge. I'm not looking for advice for a new distribution.\n Like for example, as far as I know PoP OS is only one which dynamically switches between nvidia and intel graphics card thus providing an option exactly like windows. In other distros you have to use prime-run or optimus manager or nvidia-xrun. Stuff like that.\n Thanks in advance for indulging me.\n PS I don't use pop OS. Just meant that as an example. I use Arch BTW 😂. And my favourite points are the option to build from from sratch and to build as light or heavy as you want. And the AUR was also a godsend. But I am now switching to Gentoo because I'm intrigued by it's unique concept of compilation every time and changing the source code to remove the parts irrelevant to your needs.\n    submitted by    /u/ModeInitial3965  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1innw/what_do_you_like_best_about_the_distro_of_your/",
+          "publishedOn": "2021-08-10T05:11:21.000Z",
+          "wordCount": 1274,
+          "title": "What do you like best about the distro of your choice?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p1hnpo/is_btrfs_stable_and_reliable_enough/",
+          "author": null,
+          "description": "Hi,\n I'm installing openSUSE Leap 15.3. I can't decide between BTRFS and LVM-ext4. I know that BTRFS has a lot of amazing features, like snapshots and compression, but I need something rock stable that will never ever break. So far, ext4 has been 100% reliable for me. I don't want to do any kind of BTRFS-related system maintenance. If BTRFS is not at least as stable and reliable as ext4, I'll stick to LVM-ext4. Even if the chance of it breaking is 0.01%, I'll stick to LVM-ext4. From what I read, it seems that BTRFS is not stable enough for my needs, but the information seems to be a little dated. So, is BTRFS as stable and reliable as ext4 in 2021?\n    submitted by    /u/AdelCraft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p1hnpo/is_btrfs_stable_and_reliable_enough/",
+          "publishedOn": "2021-08-10T04:02:08.000Z",
+          "wordCount": 889,
+          "title": "Is BTRFS stable and reliable enough?"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/p1ewdt/my_computer_had_a_stroke_so_i_suffocated_it/",
           "author": null,
@@ -1564,6 +1771,186 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p23mkd/got_them_done_for_my_birthday_hope_you_like_them/",
+          "author": null,
+          "description": "submitted by    /u/withinkandmetal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p23mkd/got_them_done_for_my_birthday_hope_you_like_them/",
+          "publishedOn": "2021-08-11T02:06:30.000Z",
+          "wordCount": 97,
+          "title": "got them done for my birthday! hope you like them (;"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p22zrm/i_love_the_way_my_nipple_rings_show_through_this/",
+          "author": null,
+          "description": "submitted by    /u/KublaiKhunt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p22zrm/i_love_the_way_my_nipple_rings_show_through_this/",
+          "publishedOn": "2021-08-11T01:27:55.000Z",
+          "wordCount": 98,
+          "title": "I love the way my nipple rings show through this bra 🖤🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p22v3r/would_you_cum_on_my_tits/",
+          "author": null,
+          "description": "submitted by    /u/veganskank  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p22v3r/would_you_cum_on_my_tits/",
+          "publishedOn": "2021-08-11T01:20:02.000Z",
+          "wordCount": 92,
+          "title": "Would you cum on my tits?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p22mpj/should_i_get_my_nipples_pierced/",
+          "author": null,
+          "description": "submitted by    /u/FlashyCartoonist6196  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p22mpj/should_i_get_my_nipples_pierced/",
+          "publishedOn": "2021-08-11T01:05:51.000Z",
+          "wordCount": 92,
+          "title": "Should I get my nipples pierced"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p20xr1/miss_you_babe/",
+          "author": null,
+          "description": "submitted by    /u/LGarcia0699  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p20xr1/miss_you_babe/",
+          "publishedOn": "2021-08-10T23:26:00.000Z",
+          "wordCount": 89,
+          "title": "Miss you babe..."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1zi2g/f20_wish_u_great_night/",
+          "author": null,
+          "description": "submitted by    /u/seraphinesmelody  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1zi2g/f20_wish_u_great_night/",
+          "publishedOn": "2021-08-10T22:07:38.000Z",
+          "wordCount": 91,
+          "title": "[F20] wish u great night"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1yhof/everyone_likes_soapy_titties_right/",
+          "author": null,
+          "description": "submitted by    /u/angelxobabyluv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1yhof/everyone_likes_soapy_titties_right/",
+          "publishedOn": "2021-08-10T21:15:34.000Z",
+          "wordCount": 91,
+          "title": "Everyone likes soapy titties right??"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1xwjz/who_thinks_she_should_get_the_other_one_pierced/",
+          "author": null,
+          "description": "submitted by    /u/joneb04  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1xwjz/who_thinks_she_should_get_the_other_one_pierced/",
+          "publishedOn": "2021-08-10T20:45:21.000Z",
+          "wordCount": 96,
+          "title": "Who thinks she should get the other one pierced? 😍"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1xisl/just_showing_off/",
+          "author": null,
+          "description": "submitted by    /u/Inkedmamiiii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1xisl/just_showing_off/",
+          "publishedOn": "2021-08-10T20:26:00.000Z",
+          "wordCount": 89,
+          "title": "Just showing off"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1wjx3/lets_get_wild_together_d/",
+          "author": null,
+          "description": "submitted by    /u/Only-Force5267  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1wjx3/lets_get_wild_together_d/",
+          "publishedOn": "2021-08-10T19:36:36.000Z",
+          "wordCount": 91,
+          "title": "Let's get wild together! :D"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1w6wy/happy_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/nakedcouple69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1w6wy/happy_titty_tuesday/",
+          "publishedOn": "2021-08-10T19:17:55.000Z",
+          "wordCount": 90,
+          "title": "Happy titty Tuesday! 🔥🔥"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1w0go/happy_titty_tuesday_from_a_naughty_nurse/",
+          "author": null,
+          "description": "submitted by    /u/bns1683  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1w0go/happy_titty_tuesday_from_a_naughty_nurse/",
+          "publishedOn": "2021-08-10T19:09:00.000Z",
+          "wordCount": 93,
+          "title": "Happy Titty Tuesday (f)rom a Naughty Nurse"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1smxh/being_shy_today/",
+          "author": null,
+          "description": "submitted by    /u/Numerous-Rub3851  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1smxh/being_shy_today/",
+          "publishedOn": "2021-08-10T16:23:38.000Z",
+          "wordCount": 90,
+          "title": "being shy today 🙈"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1rzfk/showing_off_my_piercings/",
+          "author": null,
+          "description": "submitted by    /u/alexbreecooper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1rzfk/showing_off_my_piercings/",
+          "publishedOn": "2021-08-10T15:53:04.000Z",
+          "wordCount": 90,
+          "title": "Showing off my piercings"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1qhbs/good_morning_from_the_top_of_the_parking_garage/",
+          "author": null,
+          "description": "submitted by    /u/a-doidoi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1qhbs/good_morning_from_the_top_of_the_parking_garage/",
+          "publishedOn": "2021-08-10T14:38:10.000Z",
+          "wordCount": 96,
+          "title": "Good morning from the top of the parking garage 🌞"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1pzy4/in_the_pool/",
+          "author": null,
+          "description": "submitted by    /u/Montiexo100  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1pzy4/in_the_pool/",
+          "publishedOn": "2021-08-10T14:13:05.000Z",
+          "wordCount": 89,
+          "title": "In the Pool"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1o2kr/rub_my_piercings_between_your_fingers/",
+          "author": null,
+          "description": "submitted by    /u/honeytxxx_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1o2kr/rub_my_piercings_between_your_fingers/",
+          "publishedOn": "2021-08-10T12:21:06.000Z",
+          "wordCount": 93,
+          "title": "Rub my piercings between your fingers 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1mon1/tease_me_while_we_sunbathe/",
+          "author": null,
+          "description": "submitted by    /u/GymBunnyEllis1993  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1mon1/tease_me_while_we_sunbathe/",
+          "publishedOn": "2021-08-10T10:43:11.000Z",
+          "wordCount": 91,
+          "title": "Tease me while we sunbathe?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1mn5k/exposed_at_the_team_building/",
+          "author": null,
+          "description": "submitted by    /u/TerriCourson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1mn5k/exposed_at_the_team_building/",
+          "publishedOn": "2021-08-10T10:40:02.000Z",
+          "wordCount": 91,
+          "title": "Exposed at The Team Building"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p1mlun/rather_smoke_with_you_step_brother_f22/",
+          "author": null,
+          "description": "submitted by    /u/Kimmielisa99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p1mlun/rather_smoke_with_you_step_brother_f22/",
+          "publishedOn": "2021-08-10T10:37:11.000Z",
+          "wordCount": 93,
+          "title": "Rather smoke with you step brother (F22)😉"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/p1fw6o/are_you_into_small_tattooed_girls_like_me/",
           "author": null,
@@ -3308,6 +3695,222 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p23gcy/getting_bigger/",
+          "author": null,
+          "description": "submitted by    /u/CurvyMilfandCaptDilf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p23gcy/getting_bigger/",
+          "publishedOn": "2021-08-11T01:56:33.000Z",
+          "wordCount": 89,
+          "title": "Getting bigger ."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p22xhf/will_you_take_me_to_the_beach_can_i_be_your_beach/",
+          "author": null,
+          "description": "submitted by    /u/ThomasinaJohnson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p22xhf/will_you_take_me_to_the_beach_can_i_be_your_beach/",
+          "publishedOn": "2021-08-11T01:24:07.000Z",
+          "wordCount": 99,
+          "title": "Will you take me to the beach? Can I be your beach baby?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p22sr1/just_a_quick_pic_after_the_shower/",
+          "author": null,
+          "description": "submitted by    /u/DallasDawnn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p22sr1/just_a_quick_pic_after_the_shower/",
+          "publishedOn": "2021-08-11T01:16:02.000Z",
+          "wordCount": 93,
+          "title": "Just a quick pic after the shower"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p21b5s/maximum_pleasure_achieved/",
+          "author": null,
+          "description": "submitted by    /u/aseg3101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p21b5s/maximum_pleasure_achieved/",
+          "publishedOn": "2021-08-10T23:47:27.000Z",
+          "wordCount": 89,
+          "title": "Maximum pleasure achieved"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p214dn/do_you_like_this_view_daddy/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p214dn/do_you_like_this_view_daddy/",
+          "publishedOn": "2021-08-10T23:36:32.000Z",
+          "wordCount": 92,
+          "title": "Do you like this view daddy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p201d3/8_months_asian_mom/",
+          "author": null,
+          "description": "submitted by    /u/whasiancouple  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p201d3/8_months_asian_mom/",
+          "publishedOn": "2021-08-10T22:36:45.000Z",
+          "wordCount": 90,
+          "title": "8 months Asian Mom"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1zw41/oiled_up_on_top/",
+          "author": null,
+          "description": "submitted by    /u/Mr_Nomad101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1zw41/oiled_up_on_top/",
+          "publishedOn": "2021-08-10T22:28:43.000Z",
+          "wordCount": 91,
+          "title": "oiled up & on top"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1zen4/pov_im_shoving_my_huge_ass_tits_in_your_face_that/",
+          "author": null,
+          "description": "submitted by    /u/yumihuron93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1zen4/pov_im_shoving_my_huge_ass_tits_in_your_face_that/",
+          "publishedOn": "2021-08-10T22:02:39.000Z",
+          "wordCount": 104,
+          "title": "pov I'm shoving my huge ass tits in your face that are just ready to leak milk out!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1z0a4/only_an_hour_after_putting_these_on_and_this/",
+          "author": null,
+          "description": "submitted by    /u/SavannahBlaze12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1z0a4/only_an_hour_after_putting_these_on_and_this/",
+          "publishedOn": "2021-08-10T21:41:53.000Z",
+          "wordCount": 97,
+          "title": "Only an hour after putting these on and this happens 🥵😝"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1y42o/feeling_absolutely_amazing_with_this_pregnancy_i/",
+          "author": null,
+          "description": "submitted by    /u/Southernbeauty0507  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1y42o/feeling_absolutely_amazing_with_this_pregnancy_i/",
+          "publishedOn": "2021-08-10T20:55:52.000Z",
+          "wordCount": 105,
+          "title": "Feeling absolutely amazing with this pregnancy. I make custom content and personalized videos. If you want more DM me!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1vp9n/were_you_an_obedient_boy_at_school/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1vp9n/were_you_an_obedient_boy_at_school/",
+          "publishedOn": "2021-08-10T18:53:48.000Z",
+          "wordCount": 93,
+          "title": "Were you an obedient boy at school?😈🤓"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1tjbp/10_week_little_bump/",
+          "author": null,
+          "description": "submitted by    /u/Misslyssgotthis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1tjbp/10_week_little_bump/",
+          "publishedOn": "2021-08-10T17:07:08.000Z",
+          "wordCount": 90,
+          "title": "10 week little bump"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1son9/14_wks_pregs_with_twins/",
+          "author": null,
+          "description": "submitted by    /u/Babygirljuice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1son9/14_wks_pregs_with_twins/",
+          "publishedOn": "2021-08-10T16:25:53.000Z",
+          "wordCount": 92,
+          "title": "14 wks pregs with twins 💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1snnn/on_or_off/",
+          "author": null,
+          "description": "submitted by    /u/Alexiaonmfc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1snnn/on_or_off/",
+          "publishedOn": "2021-08-10T16:24:37.000Z",
+          "wordCount": 90,
+          "title": "On or off ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1sa5w/let_me_feed_you/",
+          "author": null,
+          "description": "submitted by    /u/GymDad420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1sa5w/let_me_feed_you/",
+          "publishedOn": "2021-08-10T16:07:21.000Z",
+          "wordCount": 92,
+          "title": "🥛 let me feed you 😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1r6wm/can_someone_put_a_baby_in_me/",
+          "author": null,
+          "description": "submitted by    /u/pregnantpenguin_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1r6wm/can_someone_put_a_baby_in_me/",
+          "publishedOn": "2021-08-10T15:13:55.000Z",
+          "wordCount": 94,
+          "title": "Can someone put a baby in me ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1qu6a/would_you_fuck_me_in_the_delivery_room/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1qu6a/would_you_fuck_me_in_the_delivery_room/",
+          "publishedOn": "2021-08-10T14:56:29.000Z",
+          "wordCount": 94,
+          "title": "Would you fuck me in the delivery room?🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1pq0u/i_started_to_really_like_my_pregnant_belly_but/",
+          "author": null,
+          "description": "submitted by    /u/iammeela  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1pq0u/i_started_to_really_like_my_pregnant_belly_but/",
+          "publishedOn": "2021-08-10T13:58:54.000Z",
+          "wordCount": 112,
+          "title": "I started to really like my pregnant belly but honestly a cum load on it would probably make this view even better. Do you agree? 💦💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1pj9g/9_months_in_vs_9_months_out/",
+          "author": null,
+          "description": "submitted by    /u/TheJensensPlay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1pj9g/9_months_in_vs_9_months_out/",
+          "publishedOn": "2021-08-10T13:48:27.000Z",
+          "wordCount": 94,
+          "title": "9 months in vs. 9 months out 💋"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1pf4i/fill_me_up/",
+          "author": null,
+          "description": "submitted by    /u/Sexikandi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1pf4i/fill_me_up/",
+          "publishedOn": "2021-08-10T13:42:18.000Z",
+          "wordCount": 89,
+          "title": "Fill me up"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1p6np/26_weeks_today_woke_up_ready_to_play/",
+          "author": null,
+          "description": "submitted by    /u/AccomplishedFly130  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1p6np/26_weeks_today_woke_up_ready_to_play/",
+          "publishedOn": "2021-08-10T13:29:08.000Z",
+          "wordCount": 95,
+          "title": "26 weeks today 🥰 woke up ready to play"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1omev/oh_no_i_spilled_yogurt_on_myself/",
+          "author": null,
+          "description": "submitted by    /u/TheSecret00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1omev/oh_no_i_spilled_yogurt_on_myself/",
+          "publishedOn": "2021-08-10T12:56:16.000Z",
+          "wordCount": 93,
+          "title": "Oh no! I spilled yogurt on myself!!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1nrem/would_you_fill_all_my_pregnant_holes/",
+          "author": null,
+          "description": "submitted by    /u/alicelovegood25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1nrem/would_you_fill_all_my_pregnant_holes/",
+          "publishedOn": "2021-08-10T12:01:07.000Z",
+          "wordCount": 94,
+          "title": "Would you fill all my pregnant holes? 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p1hpoq/my_are_dancing/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p1hpoq/my_are_dancing/",
+          "publishedOn": "2021-08-10T04:05:37.000Z",
+          "wordCount": 90,
+          "title": "my ⚽️⚽️ are dancing😅"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/p1ffq8/the_hottest_porn_ive_ever_made_happened_right/",
           "author": null,
