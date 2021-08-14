@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346665",
+          "author": "Chris Coyier",
+          "description": "Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. \nReminds …\nThe post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://unicodearrows.com/",
+          "publishedOn": "2021-08-13T18:08:07.000Z",
+          "wordCount": 10,
+          "title": "Unicode Arrows"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345944",
+          "author": "John Polacek",
+          "description": "Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …\nThe post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-cool-front-end-thing-generator/",
+          "publishedOn": "2021-08-13T14:41:21.000Z",
+          "wordCount": 2034,
+          "title": "Building a Cool Front End Thing Generator"
+        },
+        {
           "id": "https://css-tricks.com/?p=346608",
           "author": "Robin Rendle",
           "description": "A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …\nThe post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -369,6 +387,150 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3z8le/what_tipped_the_scales_and_made_you_use_linux/",
+          "author": null,
+          "description": "For me, I have been using Linux on and off for years, but the straw that finally broke the camels back this year was learning that my computer would not be able to run Windows 11. Sure, my laptop is 8 going on 9 years old now, but she is still a powerhouse.\n I finally decided that Microsoft was not going to get to decide when my laptop has had enough and needs to be replaced. With Linux installed, I will probably keep this laptop going another 5 or more years depending on the performance 5 years from now.\n How about you? What made you decide to move away from Windows, or MacOS, or whatever you used before Linux (if you used anything before Linux)\n    submitted by    /u/Beh0ldenCypress  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3z8le/what_tipped_the_scales_and_made_you_use_linux/",
+          "publishedOn": "2021-08-14T02:03:06.000Z",
+          "wordCount": 321,
+          "title": "What tipped the scales and made you use Linux?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3w1d9/trying_to_better_understand_cis_benchmark/",
+          "author": null,
+          "description": "Hello, I've been working on trying to better understand Linux at a lower level.\n My current exercise is migrating some of my Windows services to Linux and I'm trying to do so in a best practices manner.\n ​\n I have some confusion about the partitioning recommendations in the CIS Benchmark CIS_Red_Hat_Enterprise_Linux_8_Benchmark_v1_0_01\n ​\n Creating a seperate filesystem/logical volume for the following directories has a classification of 2 (For use in environments where security is paramount, and may have some side effects), however setting flags on those directories such as the nodev option is classified with a 1 (baseline security requirement for all environments that should have little to no impact). However I assume that setting the nodev, noexec, etc options on a folder would require that it's a seperate filesystem or logical volume so it makes separating those a requirement?\n ​\n If I go that route I end up with 10 separate volumes with seems somewhat excessive.\n ​\n /boot\n /boot/efi\n /\n /home\n /tmp\n /var\n /var/log\n /var/log/audit\n /var/tmp\n SWAP\n ​\n How practical would having that many seperate volumes be in a production non federal information system environment? I could see it causing some support headaches for JR sysadmins?\n ​\n A specific example would be the following CIS Control\n 1.1.7 Ensure separate partition exists for /var/tmp (Scored) - CAT 2 (for high security)\n 1.1.8 Ensure nodev option set on /var/tmp partition (Scored) - CAT 1 (Baseline reccomendation)\n ​\n Thank you in advance!\n    submitted by    /u/bananna_roboto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3w1d9/trying_to_better_understand_cis_benchmark/",
+          "publishedOn": "2021-08-13T22:45:17.000Z",
+          "wordCount": 498,
+          "title": "Trying to better understand CIS Benchmark Partitioning criteria for Red Had Enterprise Linux"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3vrpe/thank_you_and_congrats_on_50k_docker_pulls/",
+          "author": null,
+          "description": "submitted by    /u/almalinuxjack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3vrpe/thank_you_and_congrats_on_50k_docker_pulls/",
+          "publishedOn": "2021-08-13T22:30:52.000Z",
+          "wordCount": 216,
+          "title": "Thank you and Congrats on 50K+ Docker Pulls!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3vm73/reproducible_builds_for_python_bytecode/",
+          "author": null,
+          "description": "submitted by    /u/kpcyrd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3vm73/reproducible_builds_for_python_bytecode/",
+          "publishedOn": "2021-08-13T22:22:35.000Z",
+          "wordCount": 234,
+          "title": "Reproducible Builds for Python Bytecode"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3vkm5/next_step_up_from_mint/",
+          "author": null,
+          "description": "I've been on mint for a few years now. I really have no problems with it. It just has a few of the little quirks about it that bug me...some of them are the same reasons I left windows (biggest among them are the forced updates.).\n So, since I'm thinking about building a new machine, I thought I would also upgrade my version of Linux.\n I'm not looking for something super locked down and difficult to use. I'd like some user friendliness, but maybe a little more control than what Mint offers.\n    submitted by    /u/m73m95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3vkm5/next_step_up_from_mint/",
+          "publishedOn": "2021-08-13T22:20:17.000Z",
+          "wordCount": 376,
+          "title": "Next step up from Mint?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3v6gm/loooong_lets_be_realistic_if_kismet_forbid/",
+          "author": null,
+          "description": "I've been using Firefox for over a decade now, and although I do agree with some posts here about issues with the new UI. I believe we are going about it the wrong way.\n  \n Let me preface by comparing to another recent example that I have encountered. With Apple and their new CSAM scanning aka backdoor no matter how much we kick or scream they won't back down because they are a gigantic corporation that is also beholden to the government. In Firefoxs case, yes they are a business, a not for profit one at that. However, whatever Mozilla does to Firefox can be worked around by some tinkering or getting an alt. For example I use IceCat now because I don't like the telemetry and some bloat in FF like Sync and Pocket.\n  \n HOWEVER, if Firefox would actually stop development like so many people a…",
+          "link": "https://www.reddit.com/r/linux/comments/p3v6gm/loooong_lets_be_realistic_if_kismet_forbid/",
+          "publishedOn": "2021-08-13T21:59:13.000Z",
+          "wordCount": 1715,
+          "title": "[LOOOONG] Let's be realistic, if Kismet forbid, Firefox would actually die and cease development."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3tv1a/is_rolling_release_a_danger_to_stability/",
+          "author": null,
+          "description": "I've been using Ubuntu on the system I'm working on, the main reason being that I want to have an OS that remains stable for the time I'm using it for it's purpose, long term support, no shenanigans.\n I'm interested in other systems such as Arch but I need a reliable workstation - am I wrong in assuming that a rolling release cycle might infere with that goal? Are my worries justified?\n I mostly do scientific programming, on a cluster, but locally I'd need LaTeX up and running, some stuff like Inkscape, Sublime text, maybe run some simple code here and there.\n Edit: what I mean by instability can pretty much be summed up with \"software components won't work anymore after upgrading\"\n    submitted by    /u/LtSmash5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3tv1a/is_rolling_release_a_danger_to_stability/",
+          "publishedOn": "2021-08-13T20:50:08.000Z",
+          "wordCount": 1012,
+          "title": "Is rolling release a danger to stability?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3rh8y/5_freeze_frenzy_this_week_in_gnome/",
+          "author": null,
+          "description": "submitted by    /u/owflovd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3rh8y/5_freeze_frenzy_this_week_in_gnome/",
+          "publishedOn": "2021-08-13T18:48:57.000Z",
+          "wordCount": 137,
+          "title": "#5 Freeze Frenzy · This Week in GNOME"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3re85/are_there_any_modern_lightweight_window_managers/",
+          "author": null,
+          "description": "I need to get some desktop systems up and running whose main purpose are to run a bunch of virtual machines, so I need all the spare ram I can get. I've been unhappy with the ram usage of Mate and XFCE, and they offer a bunch of stuff we don't necessarily need anyway, so I've been looking for a window manager that's lighter.\n However I've encountered a major problem. It seems that like 95% of these projects are dead and haven't seen any updates in 5-15 years, and the other 5% that are alive act like they tripped and fell out of 1998. They don't support HiDPI monitors, they don't support asian/middle eastern languages or emoji, they have no ability to graphically configure any options or preferences, half of them don't even come with a taskbar, etc. (And that's not even touching on how they look ugly as sin).\n Is there any option out there that was designed this millennia? Something that can be used on modern hardware by normal office workers in an international setting?\n edit: Also I forgot to mention that this needs to be a floating/stacking window manager, ones that are tiling-only won't work for our use case.\n    submitted by    /u/sneakertech  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3re85/are_there_any_modern_lightweight_window_managers/",
+          "publishedOn": "2021-08-13T18:44:31.000Z",
+          "wordCount": 933,
+          "title": "Are there any modern lightweight window managers?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3r8js/xfs_and_used_space_on_a_fresh_volume/",
+          "author": null,
+          "description": "I have created a 40TB volume and the used space is 286G. There is no data on the disk and no hidden files. I have researched and found that this is the metadata (data about the future data) on the volume. Is this size able to be changed? Does XFS recommend this size? What are the options on this size if any?\n    submitted by    /u/brisketx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3r8js/xfs_and_used_space_on_a_fresh_volume/",
+          "publishedOn": "2021-08-13T18:36:08.000Z",
+          "wordCount": 287,
+          "title": "XFS and used space on a fresh volume"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3r3in/how_do_i_get_kdialog_to_put_the_okyes_button_at/",
+          "author": null,
+          "description": "Nobody cares whether I'm using kdialog/zenity/custom dialog generators, they care about the result. And making the trained \"ok\" click instead be a cancel click is just !#$#ing wrong. I don't see a way to fix it short of a fork or just switching to zenity, am I missing something?\n    submitted by    /u/jthill  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3r3in/how_do_i_get_kdialog_to_put_the_okyes_button_at/",
+          "publishedOn": "2021-08-13T18:29:02.000Z",
+          "wordCount": 343,
+          "title": "How do I get kdialog to put the ok/yes button at the bottom right where everyone else does?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3jwth/what_is_the_best_edultainmentfocused_distro_for/",
+          "author": null,
+          "description": "A friend asked me to save their old laptop so their kid could use it. But they're really fed up with mobile app games and such, they want a platform that supports edultainment, looks attractive, and gives them plenty of parental control.\n The laptop is a relatively old HP pavilion. It overheats on Windows 10. It performs very well with AntiX with LXQt, but then the Sugar packages don't seem to work.\n The country's language is Spanish.\n    submitted by    /u/AlarmingAffect0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3jwth/what_is_the_best_edultainmentfocused_distro_for/",
+          "publishedOn": "2021-08-13T09:19:46.000Z",
+          "wordCount": 702,
+          "title": "What is the best edultainment-focused distro for children? I'm thinking 10-14 years old"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3jqyq/allstar_github_app_automated_continuous/",
+          "author": null,
+          "description": "submitted by    /u/FryBoyter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3jqyq/allstar_github_app_automated_continuous/",
+          "publishedOn": "2021-08-13T09:05:10.000Z",
+          "wordCount": 200,
+          "title": "Allstar GitHub App - Automated continuous enforcement of security best practices"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3jdyf/make_linux_firefox_faster/",
+          "author": null,
+          "description": "You can try vaapi acceleration on latest Firefox too on linux.\n On Firefox stable go to about:config and set :\n gfx.x11-egl.force-enabled to true media.ffmpeg.vaapi-drm-display.enabled to true media.ffmpeg.vaapi.enabled to true\n media.ffvpx.enabled to false\n Then install firefox add \"h264ify\" for youtube. Then play some video and watch the cpu usage got drop or still high.\n And add addon \"h264ify-embed-fix\" for hardware acceleration other than youtube website eg vimeo.\n Firefox getting better and better with their latest release. Cant wait for \"WebGpu\" to be implement on firefox stable.\n Anyway once everything work you can remove h264yify addon. After that monitor again the cpu usage when playing youtube video whether it drop or increase with h264yify disable.\n Tested on Firefox 90.0\n    submitted by    /u/Familiar_Ad3884  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3jdyf/make_linux_firefox_faster/",
+          "publishedOn": "2021-08-13T08:32:32.000Z",
+          "wordCount": 632,
+          "title": "Make linux firefox faster."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3gsgu/been_using_gnome_for_a_year_the_default_touchpad/",
+          "author": null,
+          "description": "submitted by    /u/CaptainMelancholic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p3gsgu/been_using_gnome_for_a_year_the_default_touchpad/",
+          "publishedOn": "2021-08-13T05:01:46.000Z",
+          "wordCount": 577,
+          "title": "Been using GNOME for a year: the default touchpad scrolling speed still sucks and there's still no way to adjust it"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p3gica/feren_os_feels_like_home/",
+          "author": null,
+          "description": "​\n ​\n Feren OS Customized by Me\n ​\n I don't know, I just want to talk about it for a second. I found out that it was developed by only one person, because it certainly doesn't look or feel like it. Now some of that may come down to the fact that Ubuntu is rock solid, and KDE Plasma's just gorgeous, but it's all in how those ingredients are properly baked.\n Someone on another forum asked to be sold on the OS, and I tried. I told them that I tried Linux Mint, but the Cinnamon DE was lacking, missing a few features I needed (like a lock screen that didn't show my wallpaper) and couldn't create a workaround for, while MATE and XCFE weren't able to give me the environment I wanted, which needs to be flexible. I like to tweak my settings, and there weren't many ways to do that with those DEs.\n I…",
+          "link": "https://www.reddit.com/r/linux/comments/p3gica/feren_os_feels_like_home/",
+          "publishedOn": "2021-08-13T04:42:21.000Z",
+          "wordCount": 1740,
+          "title": "Feren OS feels like Home"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/p3clwz/the_eu_open_source_policy_community_meeting_will/",
           "author": null,
@@ -2032,6 +2194,213 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3z444/i_hope_you_dont_mind_just_one_pierced_nip/",
+          "author": null,
+          "description": "submitted by    /u/chrissylaurenxo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3z444/i_hope_you_dont_mind_just_one_pierced_nip/",
+          "publishedOn": "2021-08-14T01:55:02.000Z",
+          "wordCount": 95,
+          "title": "I hope you don’t mind just one pierced nip"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3ywbt/suck_on_them_for_me/",
+          "author": null,
+          "description": "submitted by    /u/strawberrycakedup  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3ywbt/suck_on_them_for_me/",
+          "publishedOn": "2021-08-14T01:40:13.000Z",
+          "wordCount": 91,
+          "title": "Suck on them for me?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3w5ce/who_wants_to_play_with_them/",
+          "author": null,
+          "description": "submitted by    /u/kaykaysprettyOF  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3w5ce/who_wants_to_play_with_them/",
+          "publishedOn": "2021-08-13T22:51:26.000Z",
+          "wordCount": 92,
+          "title": "Who wants to play with them?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3vsre/the_pierced_nips_are_there/",
+          "author": null,
+          "description": "submitted by    /u/meandmygirlxxx1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3vsre/the_pierced_nips_are_there/",
+          "publishedOn": "2021-08-13T22:32:26.000Z",
+          "wordCount": 92,
+          "title": "The pierced nips are there 😜😋👅💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3vbzl/i_can_let_you_play_with_them_if_you_do_something/",
+          "author": null,
+          "description": "submitted by    /u/amyboiz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3vbzl/i_can_let_you_play_with_them_if_you_do_something/",
+          "publishedOn": "2021-08-13T22:07:27.000Z",
+          "wordCount": 99,
+          "title": "I can let you play with them if you do something for me"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3uy9l/im_horny_someone_come_touch_me/",
+          "author": null,
+          "description": "submitted by    /u/LightweightaudOF  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3uy9l/im_horny_someone_come_touch_me/",
+          "publishedOn": "2021-08-13T21:46:42.000Z",
+          "wordCount": 92,
+          "title": "I’m horny. Someone come touch me."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3uxlq/lovely_arent_they/",
+          "author": null,
+          "description": "submitted by    /u/naughtyemma_022495  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3uxlq/lovely_arent_they/",
+          "publishedOn": "2021-08-13T21:45:44.000Z",
+          "wordCount": 89,
+          "title": "Lovely aren’t they?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3uh7z/verification_post/",
+          "author": null,
+          "description": "submitted by    /u/chloe-the-hoey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3uh7z/verification_post/",
+          "publishedOn": "2021-08-13T21:21:17.000Z",
+          "wordCount": 88,
+          "title": "Verification Post"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3ugaa/pierced_at_the_pool/",
+          "author": null,
+          "description": "submitted by    /u/piercedoctave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3ugaa/pierced_at_the_pool/",
+          "publishedOn": "2021-08-13T21:20:00.000Z",
+          "wordCount": 90,
+          "title": "Pierced at the pool!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3u74r/happy_friday_heres_a_pierced_titty_drop/",
+          "author": null,
+          "description": "submitted by    /u/emberleebaby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3u74r/happy_friday_heres_a_pierced_titty_drop/",
+          "publishedOn": "2021-08-13T21:07:00.000Z",
+          "wordCount": 94,
+          "title": "happy friday, here’s a pierced titty drop 😘"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3tkv3/hope_u_like_my_piercings/",
+          "author": null,
+          "description": "submitted by    /u/scottishcouple35  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3tkv3/hope_u_like_my_piercings/",
+          "publishedOn": "2021-08-13T20:35:36.000Z",
+          "wordCount": 92,
+          "title": "Hope u like my piercings 😋"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3tao0/tiny_perky/",
+          "author": null,
+          "description": "submitted by    /u/CaffineSlut  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3tao0/tiny_perky/",
+          "publishedOn": "2021-08-13T20:21:12.000Z",
+          "wordCount": 89,
+          "title": "tiny & perky🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3skzi/daddy_i_wanna_be_closer_to_you/",
+          "author": null,
+          "description": "submitted by    /u/Only-Force5267  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3skzi/daddy_i_wanna_be_closer_to_you/",
+          "publishedOn": "2021-08-13T19:45:43.000Z",
+          "wordCount": 93,
+          "title": "daddy I wanna be closer to you"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3qusn/let_me_know_when_you_see_it/",
+          "author": null,
+          "description": "submitted by    /u/Cerenaa_xo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3qusn/let_me_know_when_you_see_it/",
+          "publishedOn": "2021-08-13T18:16:18.000Z",
+          "wordCount": 93,
+          "title": "Let me know when you see it!😉💙💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3qbs0/pierced_and_perky/",
+          "author": null,
+          "description": "submitted by    /u/Michirose96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3qbs0/pierced_and_perky/",
+          "publishedOn": "2021-08-13T17:50:16.000Z",
+          "wordCount": 90,
+          "title": "Pierced and perky 😇"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3oikq/my_favorite_piercings/",
+          "author": null,
+          "description": "submitted by    /u/XX_GOT_MILF_XX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3oikq/my_favorite_piercings/",
+          "publishedOn": "2021-08-13T16:24:55.000Z",
+          "wordCount": 90,
+          "title": "My favorite piercings 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3o0kb/tacos_anyone/",
+          "author": null,
+          "description": "submitted by    /u/MoonSageX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3o0kb/tacos_anyone/",
+          "publishedOn": "2021-08-13T16:02:46.000Z",
+          "wordCount": 88,
+          "title": "Tacos anyone?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3mukc/twinkle_twinkle_little_nips/",
+          "author": null,
+          "description": "submitted by    /u/Just_jennaaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3mukc/twinkle_twinkle_little_nips/",
+          "publishedOn": "2021-08-13T15:15:36.000Z",
+          "wordCount": 90,
+          "title": "Twinkle twinkle little nips"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3l7rg/pierced_nipples_make_me_horny/",
+          "author": null,
+          "description": "submitted by    /u/jjade_23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3l7rg/pierced_nipples_make_me_horny/",
+          "publishedOn": "2021-08-13T11:07:16.000Z",
+          "wordCount": 91,
+          "title": "Pierced nipples make me horny..."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3jcw7/good_morning/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Jellyfish_6360  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3jcw7/good_morning/",
+          "publishedOn": "2021-08-13T08:29:57.000Z",
+          "wordCount": 88,
+          "title": "Good morning"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3izzm/bonjour_docteur/",
+          "author": null,
+          "description": "submitted by    /u/basseyhound  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3izzm/bonjour_docteur/",
+          "publishedOn": "2021-08-13T07:58:38.000Z",
+          "wordCount": 88,
+          "title": "Bonjour docteur"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3i71g/i_only_want_sex_okay/",
+          "author": null,
+          "description": "submitted by    /u/No_Tea2299  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3i71g/i_only_want_sex_okay/",
+          "publishedOn": "2021-08-13T06:50:26.000Z",
+          "wordCount": 91,
+          "title": "I only want sex okay?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p3htd8/the_neighbors_are_watching_whats_your_move/",
+          "author": null,
+          "description": "submitted by    /u/Sierrahornee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p3htd8/the_neighbors_are_watching_whats_your_move/",
+          "publishedOn": "2021-08-13T06:19:51.000Z",
+          "wordCount": 93,
+          "title": "The neighbors are watching. What’s your move?"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/p3dmz7/sunshine_boobs/",
           "author": null,
@@ -4181,6 +4550,231 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3z61x/i_feel_so_big_and_sexy/",
+          "author": null,
+          "description": "submitted by    /u/dawnnluv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3z61x/i_feel_so_big_and_sexy/",
+          "publishedOn": "2021-08-14T01:58:45.000Z",
+          "wordCount": 92,
+          "title": "i feel so big and sexy😍😍"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3y3q5/would_you_knock_me_up/",
+          "author": null,
+          "description": "submitted by    /u/Sarajayne100  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3y3q5/would_you_knock_me_up/",
+          "publishedOn": "2021-08-14T00:48:35.000Z",
+          "wordCount": 91,
+          "title": "Would you knock me up?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3xq45/who_wanna_join_me_in_the_bath/",
+          "author": null,
+          "description": "submitted by    /u/secretsofpleasure  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3xq45/who_wanna_join_me_in_the_bath/",
+          "publishedOn": "2021-08-14T00:24:14.000Z",
+          "wordCount": 94,
+          "title": "Who wanna join me in the bath? 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3xmmg/preggo_luna_is_the_best/",
+          "author": null,
+          "description": "submitted by    /u/luna_lovegoode  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3xmmg/preggo_luna_is_the_best/",
+          "publishedOn": "2021-08-14T00:17:56.000Z",
+          "wordCount": 92,
+          "title": "Preggo Luna is the best. 💖"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3x7ld/how_would_you_rate_my_34_week_pregnant_body/",
+          "author": null,
+          "description": "submitted by    /u/arielababy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3x7ld/how_would_you_rate_my_34_week_pregnant_body/",
+          "publishedOn": "2021-08-13T23:52:57.000Z",
+          "wordCount": 95,
+          "title": "How would you rate my 34 week pregnant body?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3w5ue/finally_figured_out_how_to_post_a_gifshould_i_do/",
+          "author": null,
+          "description": "submitted by    /u/lush_bunny  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3w5ue/finally_figured_out_how_to_post_a_gifshould_i_do/",
+          "publishedOn": "2021-08-13T22:52:17.000Z",
+          "wordCount": 97,
+          "title": "finally figured out how to post a gif...should i do more?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3vxi4/i_miss_how_cute_my_belly_looked/",
+          "author": null,
+          "description": "submitted by    /u/ArcticMilky  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3vxi4/i_miss_how_cute_my_belly_looked/",
+          "publishedOn": "2021-08-13T22:39:24.000Z",
+          "wordCount": 93,
+          "title": "I miss how cute my belly looked!💜"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3vadq/my_cravings_arent_just_for_food/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3vadq/my_cravings_arent_just_for_food/",
+          "publishedOn": "2021-08-13T22:04:55.000Z",
+          "wordCount": 93,
+          "title": "My cravings aren’t just for food 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3v7i2/view_from_above/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3v7i2/view_from_above/",
+          "publishedOn": "2021-08-13T22:00:34.000Z",
+          "wordCount": 89,
+          "title": "View from above☺️"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3szhr/im_a_bit_messy_daddy_can_you_clean_me_up/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3szhr/im_a_bit_messy_daddy_can_you_clean_me_up/",
+          "publishedOn": "2021-08-13T20:06:09.000Z",
+          "wordCount": 97,
+          "title": "Im a bit messy daddy 🥺 can you clean me up"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3sn7y/lets_play_today/",
+          "author": null,
+          "description": "submitted by    /u/Katie_b_24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3sn7y/lets_play_today/",
+          "publishedOn": "2021-08-13T19:48:50.000Z",
+          "wordCount": 90,
+          "title": "😘 let’s play today"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3sdpe/dropbox_for_sale_customs_good_price/",
+          "author": null,
+          "description": "submitted by    /u/sexygothcontent  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3sdpe/dropbox_for_sale_customs_good_price/",
+          "publishedOn": "2021-08-13T19:35:12.000Z",
+          "wordCount": 96,
+          "title": "Dropbox for sale ! & customs ! Good price 💛"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3s18j/28_weeks_and_counting_how_do_i_look/",
+          "author": null,
+          "description": "submitted by    /u/LexiOnlyfans  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3s18j/28_weeks_and_counting_how_do_i_look/",
+          "publishedOn": "2021-08-13T19:17:23.000Z",
+          "wordCount": 95,
+          "title": "28 weeks and counting… how do I look? 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3rvjj/what_is_the_most_emphasis_on_me_or_on_him/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3rvjj/what_is_the_most_emphasis_on_me_or_on_him/",
+          "publishedOn": "2021-08-13T19:09:04.000Z",
+          "wordCount": 97,
+          "title": "what is the most emphasis on me or on him? 😂🤪🤦‍♀️"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3r1wp/you_can_cum_in_me_all_you_want_now/",
+          "author": null,
+          "description": "submitted by    /u/vheidiv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3r1wp/you_can_cum_in_me_all_you_want_now/",
+          "publishedOn": "2021-08-13T18:26:44.000Z",
+          "wordCount": 95,
+          "title": "You can cum in me all you want now"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3qxq2/just_here_to_verify_for_you/",
+          "author": null,
+          "description": "submitted by    /u/Lyslyss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3qxq2/just_here_to_verify_for_you/",
+          "publishedOn": "2021-08-13T18:20:39.000Z",
+          "wordCount": 93,
+          "title": "Just here to verify for you !"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3pmpk/dropbox_for_sale/",
+          "author": null,
+          "description": "submitted by    /u/sexygothcontent  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3pmpk/dropbox_for_sale/",
+          "publishedOn": "2021-08-13T17:16:19.000Z",
+          "wordCount": 90,
+          "title": "Dropbox for sale ❤️❤️"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3oq2k/214/",
+          "author": null,
+          "description": "submitted by    /u/cupacakeus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3oq2k/214/",
+          "publishedOn": "2021-08-13T16:34:10.000Z",
+          "wordCount": 88,
+          "title": "21+4 👶🤷‍♀️😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3n1te/10_weeks/",
+          "author": null,
+          "description": "submitted by    /u/Misslyssgotthis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3n1te/10_weeks/",
+          "publishedOn": "2021-08-13T15:23:00.000Z",
+          "wordCount": 88,
+          "title": "10 weeks"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3mrb8/real_men_fuck_preggo_girls/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3mrb8/real_men_fuck_preggo_girls/",
+          "publishedOn": "2021-08-13T15:12:16.000Z",
+          "wordCount": 91,
+          "title": "REAL MEN FUCK PREGGO GIRLS😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3m696/preggo_sex_is_good_sex/",
+          "author": null,
+          "description": "submitted by    /u/TheJensensPlay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3m696/preggo_sex_is_good_sex/",
+          "publishedOn": "2021-08-13T12:15:47.000Z",
+          "wordCount": 92,
+          "title": "Preggo sex is good sex. 🥵"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3lqyt/oil_is_very_good_for_the_skin_especially_during/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3lqyt/oil_is_very_good_for_the_skin_especially_during/",
+          "publishedOn": "2021-08-13T11:46:33.000Z",
+          "wordCount": 96,
+          "title": "oil is very good for the skin especially during pregnancy😊💋🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3k72f/14_weeks_28_weeks/",
+          "author": null,
+          "description": "submitted by    /u/lilymadoxofficial  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3k72f/14_weeks_28_weeks/",
+          "publishedOn": "2021-08-13T09:44:47.000Z",
+          "wordCount": 91,
+          "title": "14 weeks / 28 weeks"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3iojq/compare_the_pair_22_vs_34_weeks_preggers_which/",
+          "author": null,
+          "description": "submitted by    /u/scarlett_x_anais  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3iojq/compare_the_pair_22_vs_34_weeks_preggers_which/",
+          "publishedOn": "2021-08-13T07:30:45.000Z",
+          "wordCount": 101,
+          "title": "Compare the pair 😍 22 vs 34 weeks preggers 🥵 Which one is your favourite?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p3g9wp/only_21_and_its_my_second_time_being_preggo/",
+          "author": null,
+          "description": "submitted by    /u/ofjewelp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p3g9wp/only_21_and_its_my_second_time_being_preggo/",
+          "publishedOn": "2021-08-13T04:26:09.000Z",
+          "wordCount": 96,
+          "title": "Only 21 and it’s my second time being preggo (:"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/p3df0f/suck_on_them_daddy/",
           "author": null,
