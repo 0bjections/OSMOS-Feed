@@ -388,6 +388,168 @@
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/linux/comments/p54ybw/now_and_then_i_see_news_about_this_or_that/",
+          "author": null,
+          "description": "You'd think a Public Domain system that all citizens can participate in building and improving, and which can simultaneously be used as a learning opportunity to increase digitalization and IT literacy, would be a slam-dunk, from the point of view of the State. Why buy an OS from some foreign megacorp, and be at the whim of their profit-motivated choices, when you can tailor your own system to your own needs, have full localization of language, standards, norms... and invite the citizens to participate themselves in giving feedback, cotributing to it, building it up, etc. They can organize armies, collect taxes, run ports, enforce laws, etc, on their own. Some of them have National Churches, National Healthcare Systems, National Education Systems. Truly enormous and outstanding organizations. I can't imagine why they wouldn't make and run their own publicly-supported, free-at-the-point-of-purchase, open-source OS? \n Hell, France had even come up with their own \"internet\" standard at one point, the Minitel. Where'd that kind of effort go?\n    submitted by    /u/AlarmingAffect0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p54ybw/now_and_then_i_see_news_about_this_or_that/",
+          "publishedOn": "2021-08-16T00:09:39.000Z",
+          "wordCount": 707,
+          "title": "Now and then, I see news about this or that government using or creating Linux distros for their Administrations. It really warms my heart. But, I wonder, why don't they all do that? In fact, why aren't \"national distros\"?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4zwbu/til_that_linux_has_a_587_os_market_share_in_greece/",
+          "author": null,
+          "description": "submitted by    /u/deusnovus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4zwbu/til_that_linux_has_a_587_os_market_share_in_greece/",
+          "publishedOn": "2021-08-15T19:22:47.000Z",
+          "wordCount": 510,
+          "title": "TIL that Linux has a 5.87% OS market share in Greece"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4z4j7/gonna_try_something_new_ive_never_used_opensuse/",
+          "author": null,
+          "description": "submitted by    /u/Beh0ldenCypress  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4z4j7/gonna_try_something_new_ive_never_used_opensuse/",
+          "publishedOn": "2021-08-15T18:40:19.000Z",
+          "wordCount": 477,
+          "title": "Gonna try something new. I've never used OpenSUSE before."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4z4dg/pine64_announces_the_pinenote_an_eink_tablet_that/",
+          "author": null,
+          "description": "submitted by    /u/Bro666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4z4dg/pine64_announces_the_pinenote_an_eink_tablet_that/",
+          "publishedOn": "2021-08-15T18:40:06.000Z",
+          "wordCount": 619,
+          "title": "PINE64 announces the PineNote, an e-ink tablet that will run Plasma or PlasmaMobile and will be available later this year"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4yfln/pine64_just_announced_an_eink_tablet_called/",
+          "author": null,
+          "description": "It has a RK3566 SoC (4xA55 cores with a Mali G52 GPU), 10.1\" 1404x1872 16 level grayscale Eink panel with 60 HZ refresh, 128 GB eMMC storage, 4GB LPDDR4 RAM, and it has wacom pen support!\n ​\n https://www.pine64.org/2021/08/15/introducing-the-pinenote/\n    submitted by    /u/Aberts10  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4yfln/pine64_just_announced_an_eink_tablet_called/",
+          "publishedOn": "2021-08-15T18:03:27.000Z",
+          "wordCount": 756,
+          "title": "PINE64 just announced an Eink Tablet called PineNote!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4y7hx/what_problem_you_faced_when_you_first_installed/",
+          "author": null,
+          "description": "Mine was well-known WiFi problem. For that, I had to give up hope for linux. But then I got a new WiFi card, I didn’t even know it was support linux before i boot Mint from the old flash drive for no reason!\n    submitted by    /u/_Nafi_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4y7hx/what_problem_you_faced_when_you_first_installed/",
+          "publishedOn": "2021-08-15T17:51:37.000Z",
+          "wordCount": 1107,
+          "title": "What problem you faced when you first installed linux?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4y2wk/could_someone_with_us_law_knowledge_assess_this/",
+          "author": null,
+          "description": "submitted by    /u/isaybullshit69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4y2wk/could_someone_with_us_law_knowledge_assess_this/",
+          "publishedOn": "2021-08-15T17:44:56.000Z",
+          "wordCount": 453,
+          "title": "Could someone with US law knowledge assess this and explain how it might affect Linux? OP of this post mentions Linux distros being affected."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4w50i/new_projectbasedlearning_fork_looking_for/",
+          "author": null,
+          "description": "Hello guys!\n I'm finally decided to fork https://github.com/tuvtran/project-based-learning and create an organization, so the whole community can benefit from the continuous development of this project.\n If you'd like to contribute, please head to Learning-by-Doing-it#1 and make a comment. (Not mandatory, you can just sent PRs.)\n Also would like to thank https://github.com/tuvtran for his hard work since he opened this repo.\n Thank you,\n Norbert Klar\n Original message: https://github.com/tuvtran/project-based-learning/issues/309\n    submitted by    /u/enkeyz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4w50i/new_projectbasedlearning_fork_looking_for/",
+          "publishedOn": "2021-08-15T16:00:22.000Z",
+          "wordCount": 176,
+          "title": "New projectbasedlearning fork looking for maintainers"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4v3qo/how_exactly_do_modern_widget_toolkits_gtk_qt_draw/",
+          "author": null,
+          "description": "Hi, i'm so confused right now, i was doing research for days, but i couldn't find a single reference that explains how the core implementation of widget toolkits and how they draw and make widgets like buttons, scrolling, ...?\n Is every widget is an X window that gets manipulated? if true how an X window will be rounded corners and shadow behind the window? or it's just a bunch of graphics?\n how does scrolling is implemented for widget toolkits, i feel that scrolling is hard to be implemented in a 2D graphics API, i think that openGL will deal with this problem? but how openGL gets into the context like this?\n Thanks a lot for reading, if there are any existing resources that i am not aware of, i would really like to read.\n    submitted by    /u/Hamza01Alaoui  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4v3qo/how_exactly_do_modern_widget_toolkits_gtk_qt_draw/",
+          "publishedOn": "2021-08-15T15:03:31.000Z",
+          "wordCount": 1013,
+          "title": "How exactly do modern widget toolkits (GTK+, QT) draw widgets?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4u2d2/diohub_an_opensource_github_mobile_app_is_now/",
+          "author": null,
+          "description": "The open beta for the app is now available on the play store! https://play.google.com/store/apps/details?id=com.felix.diohub\n I will try to get it up on F-Droid as soon as I can, as well.\n The repository for the project can be found here: https://github.com/NamanShergill/diohub\n Features:\n  \nComprehensive Issues/Pulls timelines and discussion, with ability to view and reply to review comments\n \nAccess to all information from a repository, including pinned issues and issue templates\n \nAdvanced Search with context based filter suggestions and query helpers\n \nComplete support for GitHub deeplinks\n \nCompletely customizable color palette and fonts, with ability to share them\n \nCode browsing with support for specific commit browsing, viewing commit history of a specific directory and with syntax highlighting\n \nUser/Home Activity Timeline\n \nCommits and patch viewer\n \nGitHub Flavored Markdown Support\n \nCaching for partial offline support\n \n Coming Next:\n  \nProject Boards\n \nQoL updates and other features\n \n Please let me know what you think of the project and any constructive criticism would be very helpful!\n Also, if you like the project, please leave a star on the repo and/or share them with other developers you think could find a use for it! :)\n    submitted by    /u/thelonesomeguy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4u2d2/diohub_an_opensource_github_mobile_app_is_now/",
+          "publishedOn": "2021-08-15T14:06:19.000Z",
+          "wordCount": 945,
+          "title": "DioHub, an open-source GitHub mobile app, is now available on the Play Store!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4slil/linux_simple_security_enable/",
+          "author": null,
+          "description": "Just found out many distro not enable the firewall on fresh installation.\n Try enable the ufw or gufw for added security on your linux box.\n Other simple added security we can enable are the \"full disk encryption\" or partially /home folder encryption.\n Most distro come with firewall preinstall but not enable by default.\n    submitted by    /u/Familiar_Ad3884  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4slil/linux_simple_security_enable/",
+          "publishedOn": "2021-08-15T12:33:28.000Z",
+          "wordCount": 881,
+          "title": "Linux simple security enable."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4sfui/is_there_some_specific_distro_you_use_on_all_your/",
+          "author": null,
+          "description": "Just curious about this. I have \n  \nmy main desktop with Kubuntu\n \nsuper old netbook (like 2006) with LXLE, but its still kinda heavy, so I may look for even lighter option (suggestions are welcome!)\n \nbasic Dell laptop, with Linux Mint\n \nboth digitalocean droplets that run ubuntu\n \n    submitted by    /u/Hun_Tra  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4sfui/is_there_some_specific_distro_you_use_on_all_your/",
+          "publishedOn": "2021-08-15T12:21:56.000Z",
+          "wordCount": 1428,
+          "title": "Is there some specific distro you use on all your devices or do you mix things up?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4qfnn/this_week_in_kde_bugfixes_and_ui_improvements/",
+          "author": null,
+          "description": "submitted by    /u/Bro666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4qfnn/this_week_in_kde_bugfixes_and_ui_improvements/",
+          "publishedOn": "2021-08-15T09:34:23.000Z",
+          "wordCount": 374,
+          "title": "This week in KDE: bugfixes and UI improvements galore"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4q24v/dvbt2_decoder_running_linux_linuxcapable/",
+          "author": null,
+          "description": "My country will be switching from DVB-T to DVB-T2 over the course of next year.Since my television (a 2016 Sony Bravia, not smart nor HEVC compatible) will not support DVB-T2, I have been looking for a decoder which either ran Linux or could possibly be hacked to support e.g. Debian.\n Since I see that many decoders also enable extending the TV internet connection capabilities, turning it into a smart TV, I would really be glad to run something which is not Android, so as not to worry about all the possible google and manufacturers' spyware - while at the same time reaping the benefits of a smart TV.\n    submitted by    /u/eed00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4q24v/dvbt2_decoder_running_linux_linuxcapable/",
+          "publishedOn": "2021-08-15T08:58:30.000Z",
+          "wordCount": 347,
+          "title": "DVB-T2 decoder running Linux / Linux-capable?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4ptjs/how_exactly_are_royalties_enforced_on_hevc/",
+          "author": null,
+          "description": "I really had no idea where else to post this, would appreciate it if I could be guided to a more appropriate sub for asking this question, in case this is inappropriate.\n I understand the hardware implementations of HEVC, as I am guessing it's pretty clear that if a chip on a device were to include hardware codecs, it would be pretty easy to keep a count of them (since they would be produced in bulk). But how exactly do you get a royalty for software implementations? Technically, given the resources should I not be able to create a software implementation at home?\n According to the wiki, software implementations no longer need to pay the royalty as of 2017, but prior to that how exactly was this even enforced? \n Is it even possible for someone to implement at least a basic variant of standard codecs at home?\n    submitted by    /u/therealjesusofficial  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4ptjs/how_exactly_are_royalties_enforced_on_hevc/",
+          "publishedOn": "2021-08-15T08:34:21.000Z",
+          "wordCount": 516,
+          "title": "How exactly are royalties enforced on HEVC licenses?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4nvxj/quit_dualboot_in_favor_of_vfio_wine/",
+          "author": null,
+          "description": "I used to LOVE Windows but lately I almost only ever use Mint Linux and when I DO boot into Windows 10 I always get issues with enough Windows updates issues and conflicts to the point where I just want to delete that partition and use a Virtual Machine whenever I actually really need Windows.\n I have a 4th gen i5 processor, GTX970 graphics card, 16gb RAM, 500gb SSD, 1TB HDD, and I feel it's a decently powerful system. I use Windows mostly for when I feel like producing music using Reaper (which I hear can run in WINE, not sure about plugin support), or playing the odd video game here and there.\n **Main question:**\n What are the drawbacks of these methods? In my mind, I assume I can keep my Linux processes running using the onboard GPU provided by the processor chip while giving my Windows VM access to my NVIDIA card so I can run... video games, photoshop, and other Windows software\n Is it a hassle to set up and maintain? I don't mind fiddling with settings a bit, as long as it isn't ungodly hard to make compatible. I wonder if I would have a lot of issues with my PC crashing or the VM not being able to access my graphics card consistently.\n Any thoughts/comments are welcome :D I've only done light research, but it sounds like a good idea\n    submitted by    /u/alienz0mbie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4nvxj/quit_dualboot_in_favor_of_vfio_wine/",
+          "publishedOn": "2021-08-15T05:46:08.000Z",
+          "wordCount": 1122,
+          "title": "Quit Dual-Boot in Favor of VFIO & WINE?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4mfzb/these_weeks_in_firefox_issue_98_firefox_nightly/",
+          "author": null,
+          "description": "submitted by    /u/nextbern  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4mfzb/these_weeks_in_firefox_issue_98_firefox_nightly/",
+          "publishedOn": "2021-08-15T03:55:53.000Z",
+          "wordCount": 146,
+          "title": "These Weeks in Firefox: Issue 98 – Firefox Nightly News"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p4mcqc/dude_this_exists_now_i_thought_dell_was_the_only/",
+          "author": null,
+          "description": "submitted by    /u/lexicon993  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p4mcqc/dude_this_exists_now_i_thought_dell_was_the_only/",
+          "publishedOn": "2021-08-15T03:49:16.000Z",
+          "wordCount": 764,
+          "title": "Dude, this exists now?? I thought Dell was the only one making Linux Laptops with hardware support...Lenovo now too? The Linux laptops with hardware support are really picking up!"
+        },
+        {
           "id": "https://www.reddit.com/r/linux/comments/p4kttg/elementary_os_needs_to_examine_its_implicit/",
           "author": null,
           "description": "submitted by    /u/Michaelmrose  \n [link]   [comments]",
@@ -2356,6 +2518,213 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p561ek/titties_outcome_find_out_what_else_is/",
+          "author": null,
+          "description": "submitted by    /u/thedirtyfarmgirl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p561ek/titties_outcome_find_out_what_else_is/",
+          "publishedOn": "2021-08-16T01:18:33.000Z",
+          "wordCount": 94,
+          "title": "Titties out…come find out what else is OF@thedirtyfarmgirl"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p55pxt/ill_be_your_nurse_today/",
+          "author": null,
+          "description": "submitted by    /u/amyboiz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p55pxt/ill_be_your_nurse_today/",
+          "publishedOn": "2021-08-16T00:58:11.000Z",
+          "wordCount": 91,
+          "title": "I'll be your nurse today"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p55krr/my_first_post_here_hope_you_guys_like_my_piercings/",
+          "author": null,
+          "description": "submitted by    /u/Jessica_Miles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p55krr/my_first_post_here_hope_you_guys_like_my_piercings/",
+          "publishedOn": "2021-08-16T00:48:54.000Z",
+          "wordCount": 97,
+          "title": "My first post here! Hope you guys like my piercings 😇"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p55jn0/can_you_appreciate_a_freckled_chest/",
+          "author": null,
+          "description": "submitted by    /u/Easy_Shame  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p55jn0/can_you_appreciate_a_freckled_chest/",
+          "publishedOn": "2021-08-16T00:46:52.000Z",
+          "wordCount": 92,
+          "title": "can you appreciate a freckled chest?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p555gk/you_want_this_pussy_real_bad_say_pretty_please/",
+          "author": null,
+          "description": "submitted by    /u/cupids1ut  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p555gk/you_want_this_pussy_real_bad_say_pretty_please/",
+          "publishedOn": "2021-08-16T00:21:46.000Z",
+          "wordCount": 95,
+          "title": "you want this pussy real bad? say “pretty please”"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p52prn/00ga_pierced_nips/",
+          "author": null,
+          "description": "submitted by    /u/Unlord666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p52prn/00ga_pierced_nips/",
+          "publishedOn": "2021-08-15T21:58:28.000Z",
+          "wordCount": 89,
+          "title": "00ga pierced nips"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p50fde/jewelry_change_day_i_wanted_something_more_fun/",
+          "author": null,
+          "description": "submitted by    /u/tatsandtits83  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p50fde/jewelry_change_day_i_wanted_something_more_fun/",
+          "publishedOn": "2021-08-15T19:52:23.000Z",
+          "wordCount": 94,
+          "title": "Jewelry change day. I wanted something more fun."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4ysi3/suck_on_these_babies/",
+          "author": null,
+          "description": "submitted by    /u/naughtyemma_022495  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4ysi3/suck_on_these_babies/",
+          "publishedOn": "2021-08-15T18:22:24.000Z",
+          "wordCount": 91,
+          "title": "Suck on these babies 🥵"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4w6kz/hello_from_my_shower/",
+          "author": null,
+          "description": "submitted by    /u/57thclub  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4w6kz/hello_from_my_shower/",
+          "publishedOn": "2021-08-15T16:02:35.000Z",
+          "wordCount": 90,
+          "title": "Hello from my shower."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4vdec/i_love_thin_sweaters_with_no_bra/",
+          "author": null,
+          "description": "submitted by    /u/bettie_dangerous  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4vdec/i_love_thin_sweaters_with_no_bra/",
+          "publishedOn": "2021-08-15T15:18:06.000Z",
+          "wordCount": 93,
+          "title": "I love thin sweaters with no bra!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4uwcx/hope_you_like_a_pale_pierced_nip/",
+          "author": null,
+          "description": "submitted by    /u/TheBestYouEverHad91  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4uwcx/hope_you_like_a_pale_pierced_nip/",
+          "publishedOn": "2021-08-15T14:52:10.000Z",
+          "wordCount": 94,
+          "title": "Hope you like a pale pierced nip 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4tebe/cover_them_in_cum_please/",
+          "author": null,
+          "description": "submitted by    /u/Michirose96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4tebe/cover_them_in_cum_please/",
+          "publishedOn": "2021-08-15T13:27:49.000Z",
+          "wordCount": 92,
+          "title": "Cover them in cum please 😇"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4sv8g/good_morning_3_wouldnt_it_be_nice_to_wake_up_next/",
+          "author": null,
+          "description": "submitted by    /u/ripsalem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4sv8g/good_morning_3_wouldnt_it_be_nice_to_wake_up_next/",
+          "publishedOn": "2021-08-15T12:52:11.000Z",
+          "wordCount": 99,
+          "title": "good morning <3 wouldnt it be nice to wake up next to this?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4smkz/is_this_how_you_like_me/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Jellyfish_6360  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4smkz/is_this_how_you_like_me/",
+          "publishedOn": "2021-08-15T12:35:41.000Z",
+          "wordCount": 92,
+          "title": "Is this how you like me?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4sjog/does_anyone_here_like_pierced_puffy_nipples/",
+          "author": null,
+          "description": "submitted by    /u/fayelittle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4sjog/does_anyone_here_like_pierced_puffy_nipples/",
+          "publishedOn": "2021-08-15T12:29:53.000Z",
+          "wordCount": 93,
+          "title": "Does anyone here like pierced puffy nipples?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4rs01/i_hope_you_like_the_little_chains_im_wearing/",
+          "author": null,
+          "description": "submitted by    /u/Kittenforyou64  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4rs01/i_hope_you_like_the_little_chains_im_wearing/",
+          "publishedOn": "2021-08-15T11:31:29.000Z",
+          "wordCount": 95,
+          "title": "I hope you like the little chains I’m wearing"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4risi/touch_me_like_you_want_me/",
+          "author": null,
+          "description": "submitted by    /u/newperson23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4risi/touch_me_like_you_want_me/",
+          "publishedOn": "2021-08-15T11:10:48.000Z",
+          "wordCount": 92,
+          "title": "Touch me like you want me"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4rcol/does_my_short_hair_match_my_figure/",
+          "author": null,
+          "description": "submitted by    /u/newperson23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4rcol/does_my_short_hair_match_my_figure/",
+          "publishedOn": "2021-08-15T10:56:50.000Z",
+          "wordCount": 93,
+          "title": "Does my short hair match my figure?😊💗"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4ppzu/surprise/",
+          "author": null,
+          "description": "submitted by    /u/xXlil_lumpiaXx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4ppzu/surprise/",
+          "publishedOn": "2021-08-15T08:24:24.000Z",
+          "wordCount": 88,
+          "title": "Surprise 🙃"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4oa8r/are_u_a_tits_or_ass_sorta_guy/",
+          "author": null,
+          "description": "submitted by    /u/_skanksinatra  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4oa8r/are_u_a_tits_or_ass_sorta_guy/",
+          "publishedOn": "2021-08-15T06:18:49.000Z",
+          "wordCount": 94,
+          "title": "Are u a tits or ass sorta guy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4nygk/come_slip_your_cock_in_between_my_huge_tits/",
+          "author": null,
+          "description": "submitted by    /u/tayymarie111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4nygk/come_slip_your_cock_in_between_my_huge_tits/",
+          "publishedOn": "2021-08-15T05:52:10.000Z",
+          "wordCount": 96,
+          "title": "come slip your cock in between my huge tits 🍆"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4n1rs/i_love_being_nude_outdoors_f/",
+          "author": null,
+          "description": "submitted by    /u/AlessiaPosts  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4n1rs/i_love_being_nude_outdoors_f/",
+          "publishedOn": "2021-08-15T04:40:29.000Z",
+          "wordCount": 92,
+          "title": "I love being nude outdoors [f]"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p4mckw/natural_asian_boobies/",
+          "author": null,
+          "description": "submitted by    /u/thestoner_abg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p4mckw/natural_asian_boobies/",
+          "publishedOn": "2021-08-15T03:48:54.000Z",
+          "wordCount": 89,
+          "title": "Natural asian boobies😋💕"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/p4k77g/big_titties_need_piercing/",
           "author": null,
@@ -4910,6 +5279,222 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p56de0/damn_these_are_heavy/",
+          "author": null,
+          "description": "submitted by    /u/emily_ems  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p56de0/damn_these_are_heavy/",
+          "publishedOn": "2021-08-16T01:39:58.000Z",
+          "wordCount": 90,
+          "title": "Damn these are heavy"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p55o5q/i_miss_this_big_pregnant_belly_so_much/",
+          "author": null,
+          "description": "submitted by    /u/Amber_Rain_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p55o5q/i_miss_this_big_pregnant_belly_so_much/",
+          "publishedOn": "2021-08-16T00:55:00.000Z",
+          "wordCount": 94,
+          "title": "I miss this big pregnant belly so much"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p55fzc/the_perfect_date_night_dress/",
+          "author": null,
+          "description": "submitted by    /u/_danika_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p55fzc/the_perfect_date_night_dress/",
+          "publishedOn": "2021-08-16T00:40:23.000Z",
+          "wordCount": 91,
+          "title": "The perfect date night dress!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p54xo4/would_you_like_to_see_more_of_my_belly/",
+          "author": null,
+          "description": "submitted by    /u/Chanelskye024  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p54xo4/would_you_like_to_see_more_of_my_belly/",
+          "publishedOn": "2021-08-16T00:08:29.000Z",
+          "wordCount": 95,
+          "title": "Would you like to see more of my belly?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p540p4/so_you_like_my_outfit/",
+          "author": null,
+          "description": "submitted by    /u/nicole78592  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p540p4/so_you_like_my_outfit/",
+          "publishedOn": "2021-08-15T23:13:42.000Z",
+          "wordCount": 91,
+          "title": "So you like my outfit?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p53qux/what_will_you_do_with_this_pregnant_italian_widow/",
+          "author": null,
+          "description": "submitted by    /u/ThomasinaJohnson  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p53qux/what_will_you_do_with_this_pregnant_italian_widow/",
+          "publishedOn": "2021-08-15T22:57:30.000Z",
+          "wordCount": 95,
+          "title": "What will you do with this pregnant Italian widow?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p53imd/sorry_its_been_a_while/",
+          "author": null,
+          "description": "submitted by    /u/wheeloftime20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p53imd/sorry_its_been_a_while/",
+          "publishedOn": "2021-08-15T22:43:59.000Z",
+          "wordCount": 91,
+          "title": "Sorry it's been a while"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p51vnt/throwback_hoping_my_man_will_put_number_3_in_me/",
+          "author": null,
+          "description": "submitted by    /u/HorrorHunnii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p51vnt/throwback_hoping_my_man_will_put_number_3_in_me/",
+          "publishedOn": "2021-08-15T21:11:33.000Z",
+          "wordCount": 98,
+          "title": "Throwback, hoping my man will put number 3 in me soon 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p50fph/can_this_pregnant_body_turn_you_up/",
+          "author": null,
+          "description": "submitted by    /u/Cutepervie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p50fph/can_this_pregnant_body_turn_you_up/",
+          "publishedOn": "2021-08-15T19:52:53.000Z",
+          "wordCount": 93,
+          "title": "Can this pregnant body turn you up?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4zk2s/i_have_to_buy_bigger_bras_now/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4zk2s/i_have_to_buy_bigger_bras_now/",
+          "publishedOn": "2021-08-15T19:03:47.000Z",
+          "wordCount": 93,
+          "title": "I have to buy bigger bras now😁"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4zd66/i_do_custom_content_and_personalized_requests_dm/",
+          "author": null,
+          "description": "submitted by    /u/Southernbeauty0507  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4zd66/i_do_custom_content_and_personalized_requests_dm/",
+          "publishedOn": "2021-08-15T18:53:26.000Z",
+          "wordCount": 97,
+          "title": "I do custom content and personalized requests. Dm for more information."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4ymvu/20_weeks_pregnant_but_i_cant_wait_to_get_bigger/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4ymvu/20_weeks_pregnant_but_i_cant_wait_to_get_bigger/",
+          "publishedOn": "2021-08-15T18:14:03.000Z",
+          "wordCount": 97,
+          "title": "20 weeks pregnant but I can’t wait to get bigger 😍🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4y2id/my_tits_are_so_leaky_7months/",
+          "author": null,
+          "description": "submitted by    /u/Nataliakawaii420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4y2id/my_tits_are_so_leaky_7months/",
+          "publishedOn": "2021-08-15T17:44:24.000Z",
+          "wordCount": 92,
+          "title": "My tits are so leaky (7months)"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4xl5r/my_last_pregnancy_left_me_with_such_huge_tits_and/",
+          "author": null,
+          "description": "submitted by    /u/Right-Ad-3587  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4xl5r/my_last_pregnancy_left_me_with_such_huge_tits_and/",
+          "publishedOn": "2021-08-15T17:18:15.000Z",
+          "wordCount": 104,
+          "title": "My last pregnancy left me with such huge tits and big areolas! I hope you guys like them"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4xf9l/ready_to_pop_should_i_have_a_nother/",
+          "author": null,
+          "description": "submitted by    /u/Dinoprvncess  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4xf9l/ready_to_pop_should_i_have_a_nother/",
+          "publishedOn": "2021-08-15T17:09:32.000Z",
+          "wordCount": 94,
+          "title": "Ready to pop should I have a nother?!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4wl94/my_favourite_size_to_be/",
+          "author": null,
+          "description": "submitted by    /u/heyitsmebeez  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4wl94/my_favourite_size_to_be/",
+          "publishedOn": "2021-08-15T16:25:00.000Z",
+          "wordCount": 91,
+          "title": "my favourite size to be.."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4wg4k/thank_you_guys_on_this_sub_for_making_me_feel/",
+          "author": null,
+          "description": "submitted by    /u/arielababy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4wg4k/thank_you_guys_on_this_sub_for_making_me_feel/",
+          "publishedOn": "2021-08-15T16:17:24.000Z",
+          "wordCount": 105,
+          "title": "Thank you guys on this sub for making me feel sexy even if it's just for a moment 😊"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4vylr/let_me_make_your_day/",
+          "author": null,
+          "description": "submitted by    /u/misswrinkles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4vylr/let_me_make_your_day/",
+          "publishedOn": "2021-08-15T15:50:30.000Z",
+          "wordCount": 92,
+          "title": "Let me make your day ❤️‍🔥✨"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4u6wd/would_u_keep_me_knocked_up/",
+          "author": null,
+          "description": "submitted by    /u/Misslyssgotthis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4u6wd/would_u_keep_me_knocked_up/",
+          "publishedOn": "2021-08-15T14:11:41.000Z",
+          "wordCount": 93,
+          "title": "Would u keep me knocked up 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4turn/sexy_pregnant/",
+          "author": null,
+          "description": "submitted by    /u/susi_stuff  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4turn/sexy_pregnant/",
+          "publishedOn": "2021-08-15T13:56:49.000Z",
+          "wordCount": 88,
+          "title": "Sexy pregnant"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4tui4/32_weeks_pregnant_lowering_myself_onto_your_face/",
+          "author": null,
+          "description": "submitted by    /u/WetPantyPregnancy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4tui4/32_weeks_pregnant_lowering_myself_onto_your_face/",
+          "publishedOn": "2021-08-15T13:56:27.000Z",
+          "wordCount": 94,
+          "title": "32 weeks pregnant, lowering myself onto your face🥵"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4srb1/hospital_visit/",
+          "author": null,
+          "description": "submitted by    /u/GymDad420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4srb1/hospital_visit/",
+          "publishedOn": "2021-08-15T12:44:47.000Z",
+          "wordCount": 89,
+          "title": "Hospital visit 😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4snlv/pregnant_stripper/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4snlv/pregnant_stripper/",
+          "publishedOn": "2021-08-15T12:37:49.000Z",
+          "wordCount": 89,
+          "title": "Pregnant stripper 😱"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p4shyw/has_anyone_got_to_live_out_their_pregnancy_fetish/",
+          "author": null,
+          "description": "submitted by    /u/thefunmilf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p4shyw/has_anyone_got_to_live_out_their_pregnancy_fetish/",
+          "publishedOn": "2021-08-15T12:26:25.000Z",
+          "wordCount": 96,
+          "title": "Has anyone got to live out their pregnancy fetish lately?"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/p4kp5a/at_least_someone_tell_me_they_would_fuck_me_since/",
           "author": null,
