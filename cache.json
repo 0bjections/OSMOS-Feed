@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350186",
+          "author": "Chris Coyier",
+          "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/disambiguating-tailwind/",
+          "publishedOn": "2021-08-20T19:59:47.000Z",
+          "wordCount": 585,
+          "title": "“Disambiguating Tailwind”"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346702",
+          "author": "Ganesh Dahal",
+          "description": "Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …\nThe post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-headless-wordpress-site-with-frontity/",
+          "publishedOn": "2021-08-20T14:59:30.000Z",
+          "wordCount": 2966,
+          "title": "Creating a Headless WordPress Site With Frontity"
+        },
+        {
           "id": "https://css-tricks.com/?p=350054",
           "author": "Chris Coyier",
           "description": "I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.\nLet’s chuck a couple of custom properties into CSS:\nhtml {\n  --color-1: red;\n  --color-2: blue;\n}\nLet’s use them right …\nThe post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -477,6 +495,168 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p8gnno/getting_gplv2_compliance_from_a_chinese_company/",
+          "author": null,
+          "description": "submitted by    /u/SexyCyborg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p8gnno/getting_gplv2_compliance_from_a_chinese_company/",
+          "publishedOn": "2021-08-20T23:39:47.000Z",
+          "wordCount": 209,
+          "title": "Getting GPLv2 compliance from a Chinese company- in person"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p8ehq9/my_experience_with_linux_what_i_liked_and/",
+          "author": null,
+          "description": "Hey everyone, i wanted to preface this post by saying that i'm not making this post to hate on Linux, i loved the OS, i was actually quite disappointed that i had to switch back to Windows, i just wanted to share my experience, and i'm waiting eagerly for the day when i'll be able to switch to Linux as my main OS.\n Context :\n I switched to Linux in February of this year after my Windows PC got infected by some ransomware and ultimately started getting fed-up for the lack of privacy and care microsoft has for you in Win10\n I mostly used Pop!_Os and used Manjaro for a week or so.\n Yesterday i decided to switch back to Windows\n What i liked about Linux :\n Amazing installers : For both of the Distros i installed, the Installers were amazing, all of them give you so much control and make it so …",
+          "link": "https://www.reddit.com/r/linux/comments/p8ehq9/my_experience_with_linux_what_i_liked_and/",
+          "publishedOn": "2021-08-20T21:33:24.000Z",
+          "wordCount": 1808,
+          "title": "My experience with Linux, what i liked and disliked, and why i went back to Windows (From a \"Normie\"'s perspective)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p8ea1h/sharing_caring_this_week_in_gnome/",
+          "author": null,
+          "description": "submitted by    /u/FlatAds  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p8ea1h/sharing_caring_this_week_in_gnome/",
+          "publishedOn": "2021-08-20T21:21:36.000Z",
+          "wordCount": 144,
+          "title": "Sharing, Caring • This Week in GNOME"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p8cz4u/cve20211106_nvidia_linux_kernel_distributions/",
+          "author": null,
+          "description": "submitted by    /u/Turbulent_Froyo9385  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p8cz4u/cve20211106_nvidia_linux_kernel_distributions/",
+          "publishedOn": "2021-08-20T20:12:27.000Z",
+          "wordCount": 396,
+          "title": "CVE-2021-1106: NVIDIA Linux kernel distributions contain a vulnerability in nvmap, where writes may be allowed to read-only buffers, which may result in escalation of privileges, complete denial of service, unconstrained information disclosure (...)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p8cc5n/i_am_tired_of_linux/",
+          "author": null,
+          "description": "I have been using Linux for the last 5 years as my daily driver on my desktop machine.\n I am so exhausted with all the bugs and issues that never ever go away. It seems like I am always trying to fix or resolve something on Linux just to get basic functionality.\n I used Linux Mint for 4 years, but after an annoying bug where my window snapping would have an off by 1 error, I moved to Kubuntu Plasma.\n Both of these distros would not reliably wake the monitor. Suspending, logging out, switching users, waking from suspend/monitor off have been nothing but issues for me....the entire time I have been on linux.\n At first I used an Nvidia card, and everyone at KDE was like \"Use AMD, its so much better\"....so I tried AMD. I am running an RX580 video card, which is as mainstream AMD as you could get....still tonnes of issues. It freezes when I switch users periodically. I just tried to wake my computer and the monitor was black......and I have suspend and power off monitor disabled (wtf?).\n It seems like for every bug that is fixed in KDE Plasma, a new one is created, and I really don't look forward or have hope for any new version.\n I honestly have come to the conclusion that it is just not worth it. My hobby is not my OS, and as someone who just wants to live a stress free life and get things done, I just don't think Linux is for me. I am quite disappointed.\n    submitted by    /u/scorr204  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p8cc5n/i_am_tired_of_linux/",
+          "publishedOn": "2021-08-20T19:39:01.000Z",
+          "wordCount": 1790,
+          "title": "I am tired of Linux."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p8bcs1/just_got_my_first_linux_job/",
+          "author": null,
+          "description": "I have been an avid linux user since I was 6 years old and my father stole my xp key on the old gateway pc I was allowed to use without internet. Over the years I became an enthusiast, learning and using Linux wherever I could and sharing how useful it can be with friends. Today I got an interview with an MSP who just got a new client that is purely based on Ubuntu and since my Linux experience is fairly extensive they gave me an offer on the spot! So exciting.\n    submitted by    /u/lionblaze55  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p8bcs1/just_got_my_first_linux_job/",
+          "publishedOn": "2021-08-20T18:46:43.000Z",
+          "wordCount": 597,
+          "title": "Just got my first linux job!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p89fd1/a_gallery_for_linux_users_to_manage_their_photos/",
+          "author": null,
+          "description": "submitted by    /u/0xsapphir3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p89fd1/a_gallery_for_linux_users_to_manage_their_photos/",
+          "publishedOn": "2021-08-20T17:06:02.000Z",
+          "wordCount": 133,
+          "title": "A Gallery For Linux Users to Manage Their Photos"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p892r9/froscon_the_free_and_open_source_software/",
+          "author": null,
+          "description": "submitted by    /u/Bro666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p892r9/froscon_the_free_and_open_source_software/",
+          "publishedOn": "2021-08-20T16:48:45.000Z",
+          "wordCount": 244,
+          "title": "FrOSCon, the Free and Open Source Software Conference organised by the University of Applied Sciences Bonn-Rhein-Sieg and supported by FrOSCon e.V., kicks of online this weekend with talks and workshops for visitors of all ages"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p85v7o/vvave_2_has_also_been_released_it_can_stream_your/",
+          "author": null,
+          "description": "submitted by    /u/milohr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p85v7o/vvave_2_has_also_been_released_it_can_stream_your/",
+          "publishedOn": "2021-08-20T14:04:49.000Z",
+          "wordCount": 1030,
+          "title": "Vvave 2 has also been released! It can stream your music from NextCloud. More details of what's new and improved can be found in the blog post. I will leave a link in the comments. And to avoid being marked as spam I will stop posting about all the other apps, but there's more in the blog post."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p85rzp/index_2_a_convergent_file_manager_has_been/",
+          "author": null,
+          "description": "submitted by    /u/milohr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p85rzp/index_2_a_convergent_file_manager_has_been/",
+          "publishedOn": "2021-08-20T14:00:20.000Z",
+          "wordCount": 324,
+          "title": "Index 2, a convergent file manager, has been released. You can find all the other Maui apps on PostMarket OS, Manjaro Plasma Mobile, and NitruxOS. APKs are provided in the release blog post too, the link is in the comments."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p85oav/nota_and_station_2_are_also_part_of_the_new/",
+          "author": null,
+          "description": "You can find more info in the release blog post, and APK packages for Android.\n https://nxos.org/maui/maui-2-release/\n https://preview.redd.it/oxim2f0npii71.png?width=1648&format=png&auto=webp&s=a57d54e7ae454191f7a08ceb34d0c04b8b1e40ca\n https://preview.redd.it/jiwspoulpii71.png?width=1648&format=png&auto=webp&s=94efd915a517f9438eb5ba5133f054b236f5f5ea\n    submitted by    /u/milohr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p85oav/nota_and_station_2_are_also_part_of_the_new/",
+          "publishedOn": "2021-08-20T13:54:56.000Z",
+          "wordCount": 241,
+          "title": "Nota and Station 2 are also part of the new release of the Maui Project. Both apps are convergent and can be used from your phone or tablet to quickly hack on your projects!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p85lel/any_distro_with_good_support_for_2in1_laptops/",
+          "author": null,
+          "description": "I just got an HP Envy x360 15z-ee100. I wiped Windows and installed Manjaro on it but the screen rotation doesn't work and there's no on-screen keyboard, fingerprint sensor also doesn't work but I'm not concerned with it. WiFi didn't work at first. I had to USB tether from my phone to get the internet and then install rtw89 driver to get it working. \n Also the stylus doesn't feel as smooth as it did on Windows. I know most of these stuff aren't deal breakers but it pains me to see such poor support for convertibles.\n    submitted by    /u/SirDarknight1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p85lel/any_distro_with_good_support_for_2in1_laptops/",
+          "publishedOn": "2021-08-20T13:50:21.000Z",
+          "wordCount": 851,
+          "title": "Any distro with good support for 2-in-1 laptops?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p85ing/maui_2_was_released_a_week_ago/",
+          "author": null,
+          "description": "submitted by    /u/milohr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p85ing/maui_2_was_released_a_week_ago/",
+          "publishedOn": "2021-08-20T13:46:06.000Z",
+          "wordCount": 244,
+          "title": "Maui 2 was released a week ago."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p84hnb/hardware_and_linux_driver_quality_can_be/",
+          "author": null,
+          "description": "submitted by    /u/self  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p84hnb/hardware_and_linux_driver_quality_can_be/",
+          "publishedOn": "2021-08-20T12:46:34.000Z",
+          "wordCount": 291,
+          "title": "Hardware and (Linux) driver quality can be invisible to non-specialists"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p826j3/gdu_560_sort_by_last_modification_time/",
+          "author": null,
+          "description": "submitted by    /u/DanielMilde  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p826j3/gdu_560_sort_by_last_modification_time/",
+          "publishedOn": "2021-08-20T10:01:10.000Z",
+          "wordCount": 153,
+          "title": "gdu 5.6.0 - sort by last modification time"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p7wq3v/ossia_score_floss_audiovisual_sequencer_enters/",
+          "author": null,
+          "description": "submitted by    /u/jcelerier  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p7wq3v/ossia_score_floss_audiovisual_sequencer_enters/",
+          "publishedOn": "2021-08-20T06:37:48.000Z",
+          "wordCount": 222,
+          "title": "ossia score, FLOSS audio-visual sequencer, enters version 3 beta"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p7rvm5/how_was_using_linux_in_late_90s_early_2000s/",
+          "author": null,
+          "description": "The linux community back then was much smaller and there were much less coders to contribute not to mention not many cared about the idea of FOSS. In addition internet speed was slow so downloading software, and uploading source code and contributing must have been a lot more difficult than now days. I clearly remember testing it out that printers and WIFI was a major issue and many things were missing drivers.\n To the hardcore ones, do you think linux back then was as viable replacement for Windows/Mac as is today or things have advanced so much to the better now?\n Thanks for holding ground for the rest of us who went Windows/Mac :D\n    submitted by    /u/floatontherainbowtw  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p7rvm5/how_was_using_linux_in_late_90s_early_2000s/",
+          "publishedOn": "2021-08-20T01:05:07.000Z",
+          "wordCount": 1660,
+          "title": "How was using Linux in late 90s / early 2000's?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/p7rpou/where_does_one_learn_to_use_gtk/",
+          "author": null,
+          "description": "I see many people praising GTK apps' looks and thight integration with many DEs. It then seems logical to want to learn to use it. The problem is, the official docs are great... For C, and other languages' bindings are not as good and sometimes outdated.\n So this is my question, how does one learn to use GTK ? Looking at source code is great, but isn't there another way ?\n    submitted by    /u/Willexterminator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/p7rpou/where_does_one_learn_to_use_gtk/",
+          "publishedOn": "2021-08-20T00:55:18.000Z",
+          "wordCount": 746,
+          "title": "Where does one learn to use GTK ?"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/p7o9tn/a_quick_backofanenvelope_calculation/",
           "author": null,
@@ -3076,6 +3256,168 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p8fwbl/i_heard_you_like_pierced_nipples/",
+          "author": null,
+          "description": "submitted by    /u/Michirose96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p8fwbl/i_heard_you_like_pierced_nipples/",
+          "publishedOn": "2021-08-20T22:53:42.000Z",
+          "wordCount": 94,
+          "title": "I heard you like pierced nipples"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p8ff48/ofcoleycole1/",
+          "author": null,
+          "description": "submitted by    /u/coleycole862  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p8ff48/ofcoleycole1/",
+          "publishedOn": "2021-08-20T22:25:47.000Z",
+          "wordCount": 89,
+          "title": "Of@coleycole1"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p8fc4n/bored_at_work/",
+          "author": null,
+          "description": "submitted by    /u/Cubanmamii02  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p8fc4n/bored_at_work/",
+          "publishedOn": "2021-08-20T22:20:57.000Z",
+          "wordCount": 92,
+          "title": "Bored at work 😭"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p8cncw/which_hole_you_diving_in_first/",
+          "author": null,
+          "description": "submitted by    /u/Only-Force5267  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p8cncw/which_hole_you_diving_in_first/",
+          "publishedOn": "2021-08-20T19:55:36.000Z",
+          "wordCount": 94,
+          "title": "Which hole you diving in first?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p8bksr/swipe_for_a_selfie/",
+          "author": null,
+          "description": "submitted by    /u/asiannymphooo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p8bksr/swipe_for_a_selfie/",
+          "publishedOn": "2021-08-20T18:58:39.000Z",
+          "wordCount": 93,
+          "title": "Swipe for a selfie (:"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p89rk8/would_you_suck_them/",
+          "author": null,
+          "description": "submitted by    /u/Cuteazzfeet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p89rk8/would_you_suck_them/",
+          "publishedOn": "2021-08-20T17:23:26.000Z",
+          "wordCount": 93,
+          "title": "Would you suck them ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p89n20/thought_these_green_bars_were_fun/",
+          "author": null,
+          "description": "submitted by    /u/fayelittle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p89n20/thought_these_green_bars_were_fun/",
+          "publishedOn": "2021-08-20T17:16:49.000Z",
+          "wordCount": 95,
+          "title": "Thought these green bars were fun 💚"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p85u58/pierced_titty_drop/",
+          "author": null,
+          "description": "submitted by    /u/Justboredin614  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p85u58/pierced_titty_drop/",
+          "publishedOn": "2021-08-20T14:03:14.000Z",
+          "wordCount": 91,
+          "title": "Pierced titty drop"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p82x3z/hows_the_view_from_there/",
+          "author": null,
+          "description": "submitted by    /u/newperson23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p82x3z/hows_the_view_from_there/",
+          "publishedOn": "2021-08-20T10:59:54.000Z",
+          "wordCount": 93,
+          "title": "How’s the view from there??"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p82tsc/heavy_latina_titties/",
+          "author": null,
+          "description": "submitted by    /u/MamacitaXPapiChulo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p82tsc/heavy_latina_titties/",
+          "publishedOn": "2021-08-20T10:52:46.000Z",
+          "wordCount": 91,
+          "title": "Heavy Latina titties"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p81v4w/i_love_the_sun_on_my_dark_skin/",
+          "author": null,
+          "description": "submitted by    /u/Seximandyy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p81v4w/i_love_the_sun_on_my_dark_skin/",
+          "publishedOn": "2021-08-20T09:39:25.000Z",
+          "wordCount": 96,
+          "title": "I love the sun on my dark skin"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7x2z6/do_you_enjoy_standard_or_fancy_rings/",
+          "author": null,
+          "description": "submitted by    /u/lovinmasochist41  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7x2z6/do_you_enjoy_standard_or_fancy_rings/",
+          "publishedOn": "2021-08-20T07:07:30.000Z",
+          "wordCount": 95,
+          "title": "Do you enjoy standard or fancy rings?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7vmw2/a_tale_of_two_titties/",
+          "author": null,
+          "description": "submitted by    /u/Killerkayla86  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7vmw2/a_tale_of_two_titties/",
+          "publishedOn": "2021-08-20T05:11:44.000Z",
+          "wordCount": 93,
+          "title": "A tale of two titties"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7uf9i/do_you_like_them/",
+          "author": null,
+          "description": "submitted by    /u/Playfulsuburbancpl88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7uf9i/do_you_like_them/",
+          "publishedOn": "2021-08-20T03:46:31.000Z",
+          "wordCount": 92,
+          "title": "Do you like them?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7sp0z/for_all_you_pierced_nipple_lovers/",
+          "author": null,
+          "description": "submitted by    /u/Jessica_Miles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7sp0z/for_all_you_pierced_nipple_lovers/",
+          "publishedOn": "2021-08-20T01:56:00.000Z",
+          "wordCount": 95,
+          "title": "For all you pierced nipple lovers 💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7rxz6/did_i_make_you_horny/",
+          "author": null,
+          "description": "submitted by    /u/Ivylynn284  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7rxz6/did_i_make_you_horny/",
+          "publishedOn": "2021-08-20T01:09:06.000Z",
+          "wordCount": 93,
+          "title": "Did I make you horny?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7rjyz/ready_to_go_for_a_ride/",
+          "author": null,
+          "description": "submitted by    /u/LiciPeeci  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7rjyz/ready_to_go_for_a_ride/",
+          "publishedOn": "2021-08-20T00:45:49.000Z",
+          "wordCount": 94,
+          "title": "Ready to go for a ride?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/p7rcc2/added_some_yellow/",
+          "author": null,
+          "description": "submitted by    /u/x3cassiexoxo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/p7rcc2/added_some_yellow/",
+          "publishedOn": "2021-08-20T00:32:14.000Z",
+          "wordCount": 91,
+          "title": "Added some yellow"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/p7qajb/did_someone_say_mommy_milkers/",
           "author": null,
@@ -6611,6 +6953,213 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8gvgx/call_me_mommy/",
+          "author": null,
+          "description": "submitted by    /u/heyitsmebeez  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8gvgx/call_me_mommy/",
+          "publishedOn": "2021-08-20T23:53:39.000Z",
+          "wordCount": 91,
+          "title": "call me mommy"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8gchu/being_pregnant_is_so_much_fun/",
+          "author": null,
+          "description": "submitted by    /u/Natasha_jane  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8gchu/being_pregnant_is_so_much_fun/",
+          "publishedOn": "2021-08-20T23:20:20.000Z",
+          "wordCount": 95,
+          "title": "Being pregnant is so much fun 😈🤰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8eyd3/26_weeks/",
+          "author": null,
+          "description": "submitted by    /u/SwimmingLaugh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8eyd3/26_weeks/",
+          "publishedOn": "2021-08-20T21:59:51.000Z",
+          "wordCount": 91,
+          "title": "26 weeks 🖤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8ey69/you_can_see_my_nips_poking_through_7_months_today/",
+          "author": null,
+          "description": "submitted by    /u/SavannahBlaze12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8ey69/you_can_see_my_nips_poking_through_7_months_today/",
+          "publishedOn": "2021-08-20T21:59:32.000Z",
+          "wordCount": 100,
+          "title": "You can see my nips poking through 😉 7 months today 🎉"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8e62s/pregnant_and_horny/",
+          "author": null,
+          "description": "submitted by    /u/jaymay94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8e62s/pregnant_and_horny/",
+          "publishedOn": "2021-08-20T21:15:43.000Z",
+          "wordCount": 91,
+          "title": "Pregnant and horny"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8d9cc/young_and_sexy_baby_momma_3/",
+          "author": null,
+          "description": "submitted by    /u/WESTCOAST187  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8d9cc/young_and_sexy_baby_momma_3/",
+          "publishedOn": "2021-08-20T20:27:30.000Z",
+          "wordCount": 94,
+          "title": "young and sexy baby momma <3"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8d84j/verification/",
+          "author": null,
+          "description": "submitted by    /u/kinkymama94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8d84j/verification/",
+          "publishedOn": "2021-08-20T20:25:42.000Z",
+          "wordCount": 90,
+          "title": "Verification 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8d66c/would_you_stretch_me_out/",
+          "author": null,
+          "description": "submitted by    /u/skylerariajane  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8d66c/would_you_stretch_me_out/",
+          "publishedOn": "2021-08-20T20:22:46.000Z",
+          "wordCount": 94,
+          "title": "Would you stretch me out? 💜"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8bc0e/38_weeks_now_check_out_my_content_before_i_pop/",
+          "author": null,
+          "description": "submitted by    /u/Obsessedgemini  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8bc0e/38_weeks_now_check_out_my_content_before_i_pop/",
+          "publishedOn": "2021-08-20T18:45:32.000Z",
+          "wordCount": 99,
+          "title": "38 weeks now… check out my content before I pop 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p8b52b/finally_got_a_tiktok_preggovikingwife/",
+          "author": null,
+          "description": "submitted by    /u/PreggoVikingWife  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p8b52b/finally_got_a_tiktok_preggovikingwife/",
+          "publishedOn": "2021-08-20T18:35:12.000Z",
+          "wordCount": 94,
+          "title": "Finally got a TikTok 🙌 @preggovikingwife"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p88yzt/growing_rapidly_it_seems_they_cant_be_contained/",
+          "author": null,
+          "description": "submitted by    /u/socalunicorn40  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p88yzt/growing_rapidly_it_seems_they_cant_be_contained/",
+          "publishedOn": "2021-08-20T16:43:32.000Z",
+          "wordCount": 96,
+          "title": "Growing rapidly it seems, ➡️they can’t be contained."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p883n0/always_hot/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p883n0/always_hot/",
+          "publishedOn": "2021-08-20T15:59:27.000Z",
+          "wordCount": 90,
+          "title": "Always hot♨️🔥"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p87arb/im_ready_for_you_to_put_a_baby_in_me_ive_assumed/",
+          "author": null,
+          "description": "submitted by    /u/bbwtattoedm1lf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p87arb/im_ready_for_you_to_put_a_baby_in_me_ive_assumed/",
+          "publishedOn": "2021-08-20T15:18:01.000Z",
+          "wordCount": 102,
+          "title": "I'm ready for you to put a baby in me. I've assumed the position"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p86ec9/29_weeks_belly_is_more_visible_from_the_side/",
+          "author": null,
+          "description": "submitted by    /u/mama4funx3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p86ec9/29_weeks_belly_is_more_visible_from_the_side/",
+          "publishedOn": "2021-08-20T14:32:01.000Z",
+          "wordCount": 102,
+          "title": "29 weeks, belly is more visible from the side! Would you still fuck me??"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p860uf/its_very_nice_to_feel_when_a_child_moves_inside/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p860uf/its_very_nice_to_feel_when_a_child_moves_inside/",
+          "publishedOn": "2021-08-20T14:12:53.000Z",
+          "wordCount": 99,
+          "title": "it's very nice to feel when a child moves inside 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p85o8e/join_me_for_some_fun_of_sunprincess3630/",
+          "author": null,
+          "description": "submitted by    /u/Sunprincess3630  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p85o8e/join_me_for_some_fun_of_sunprincess3630/",
+          "publishedOn": "2021-08-20T13:54:50.000Z",
+          "wordCount": 95,
+          "title": "Join me for some fun 🥺OF- sunprincess3630"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p84w69/12_weeks_cum_on_me_now/",
+          "author": null,
+          "description": "submitted by    /u/IntheStars802  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p84w69/12_weeks_cum_on_me_now/",
+          "publishedOn": "2021-08-20T13:11:13.000Z",
+          "wordCount": 94,
+          "title": "12 weeks. Cum on me now"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p84tf6/come_play_with_me_and_watch_me_milk_myself_if_you/",
+          "author": null,
+          "description": "submitted by    /u/Southernbeauty0507  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p84tf6/come_play_with_me_and_watch_me_milk_myself_if_you/",
+          "publishedOn": "2021-08-20T13:06:49.000Z",
+          "wordCount": 108,
+          "title": "Come play with me and watch me milk myself. If you are interested in something personalized or custom DM me!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p83vnp/look_how_huge_my_belly_now/",
+          "author": null,
+          "description": "submitted by    /u/secretsofpleasure  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p83vnp/look_how_huge_my_belly_now/",
+          "publishedOn": "2021-08-20T12:07:17.000Z",
+          "wordCount": 95,
+          "title": "Look how huge my belly now 🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p7vw1m/my_nipples_look_rather_large/",
+          "author": null,
+          "description": "submitted by    /u/zilly69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p7vw1m/my_nipples_look_rather_large/",
+          "publishedOn": "2021-08-20T05:31:08.000Z",
+          "wordCount": 93,
+          "title": "My nipples look rather large"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p7vmyq/my_nipples_are_so_sensitive_when_im_pregnant_who/",
+          "author": null,
+          "description": "submitted by    /u/evaoncam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p7vmyq/my_nipples_are_so_sensitive_when_im_pregnant_who/",
+          "publishedOn": "2021-08-20T05:11:54.000Z",
+          "wordCount": 103,
+          "title": "My nipples are so sensitive when I’m pregnant... who wants to suck on them? 😋"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p7ulbr/im_in_love_with_my_big_and_heavy_belly/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p7ulbr/im_in_love_with_my_big_and_heavy_belly/",
+          "publishedOn": "2021-08-20T03:58:07.000Z",
+          "wordCount": 98,
+          "title": "I'm in love with my big and heavy belly 🤗"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/p7u9io/8_months_pregnant_would_you_still_fuck_me/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/p7u9io/8_months_pregnant_would_you_still_fuck_me/",
+          "publishedOn": "2021-08-20T03:36:02.000Z",
+          "wordCount": 96,
+          "title": "8 months pregnant, would you still fuck me?"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/p7qidw/would_you_fuck_me_8months_preggo/",
           "author": null,
