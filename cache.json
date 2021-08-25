@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350486",
+          "author": "Chris Coyier",
+          "description": "This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …\nThe post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scrollbar-reflowing/",
+          "publishedOn": "2021-08-24T19:13:30.000Z",
+          "wordCount": 693,
+          "title": "Scrollbar Reflowing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350253",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nFree event hosted by Netlify coming up next week (Wednesday, August 25th): Architecting with Next.js. It’s just a little half-day thing. No brainer.\nJoin us for a special event where we’ll highlight business \n…\nThe post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.netlify.com/events/architecting-with-nextjs",
+          "publishedOn": "2021-08-24T19:12:23.000Z",
+          "wordCount": 441,
+          "title": "Architecting With Next.js"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346597",
+          "author": "Charlie Gerard",
+          "description": "Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.\nThis …\nThe post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/introduction-to-the-solid-javascript-library/",
+          "publishedOn": "2021-08-24T14:30:50.000Z",
+          "wordCount": 1860,
+          "title": "Introduction to the Solid JavaScript Library"
+        },
+        {
           "id": "https://css-tricks.com/?p=350264",
           "author": "Chris Coyier",
           "description": "You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:\n[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the \n…\nThe post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -513,6 +540,195 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pax4cg/tuxs_special_day/",
+          "author": null,
+          "description": "submitted by    /u/altermeetax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pax4cg/tuxs_special_day/",
+          "publishedOn": "2021-08-24T21:47:18.000Z",
+          "wordCount": 184,
+          "title": "Tux's Special Day"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pawvhl/happy_30_anniversary_to_the_most_inspiring_open/",
+          "author": null,
+          "description": "submitted by    /u/root_klaus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pawvhl/happy_30_anniversary_to_the_most_inspiring_open/",
+          "publishedOn": "2021-08-24T21:34:06.000Z",
+          "wordCount": 183,
+          "title": "Happy 30 anniversary to the most inspiring open source project and operating system. Thank you for all the free software you inspired and keeping the cloud alive."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/patxia/firefox_9102_release/",
+          "author": null,
+          "description": "submitted by    /u/a_Ninja_b0y  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/patxia/firefox_9102_release/",
+          "publishedOn": "2021-08-24T19:06:12.000Z",
+          "wordCount": 129,
+          "title": "Firefox 91.0.2 release"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/patjwo/laptop_thinks_its_plugged_in_while_its_not_need/",
+          "author": null,
+          "description": "submitted by    /u/Yellow_DMG  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/patjwo/laptop_thinks_its_plugged_in_while_its_not_need/",
+          "publishedOn": "2021-08-24T18:47:36.000Z",
+          "wordCount": 338,
+          "title": "Laptop thinks it's plugged in, while it's not. Need help! Kubuntu 21.04"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/patcdj/the_junior_sysadmin_course_at/",
+          "author": null,
+          "description": "This free month-long course is re-starting again on the first Monday of next month.\n Daily lessons appear in the sub-reddit /r/linuxupskillchallenge - which is also used for support/discussion. \n Has been running successfully now every month since February 2020 - more detail at: https://LinuxUpskillChallenge.org\n Any feedback very welcome.\n    submitted by    /u/livia2lima  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/patcdj/the_junior_sysadmin_course_at/",
+          "publishedOn": "2021-08-24T18:36:57.000Z",
+          "wordCount": 178,
+          "title": "The junior sysadmin course at r/LinuxUpskillChallenge restarting 6 September 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/parj7x/linux_wird_30_das_system_der_systeme_german/",
+          "author": null,
+          "description": "submitted by    /u/nhaines  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/parj7x/linux_wird_30_das_system_der_systeme_german/",
+          "publishedOn": "2021-08-24T17:06:57.000Z",
+          "wordCount": 1196,
+          "title": "Linux wird 30: Das System der Systeme (German; translation in comments)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paqhy0/does_steam_give_you_peace_of_mind_priacywise/",
+          "author": null,
+          "description": "Whenever I use software, unless it's open source I don't really feel \"safe\". I'm kind of paranoid, I always belive they are snooping around my system or doing shady things, so I try to avoid proprietary software as much as possible (and apart from games, nearly all software in my system is open-source).\n For some reason tho, I don't get that feeling with Steam. I have peace of mind with it, even tho it is prorpietary software that could potentially be snooping around my system, and I have no proof to prove or deny that, but for some reason I feel like it's different with it.\n Does this happen to you? Why might it be? Maybe because of Valve's attitude towards Linux? Maybe because they are not in the advertising industry?\n    submitted by    /u/SnooPets20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paqhy0/does_steam_give_you_peace_of_mind_priacywise/",
+          "publishedOn": "2021-08-24T16:15:07.000Z",
+          "wordCount": 653,
+          "title": "Does Steam give you peace of mind (priacy-wise)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paqe0h/shd_01_console_tool_to_display_drive_list_with/",
+          "author": null,
+          "description": "Good day,\n a couple of years ago I posted here my tiny tool to display HDD/SSD list, with prettier output than \"lsscsi\" has. The output is similar to Solaris \"hd\" command but with a couple of extra SMART fields and colors.\n Today I've released shd 0.1 (requires smartmontools > 7.0):\n - works much faster, no longer required to parse smartctl output, as it has finally got native JSON\n - fully rewritten in Rust, statically linked, no more Python & mods required - put anywhere and enjoy\n - higher default temperature thresholds for NVMe drives\n - other small improvements\n https://github.com/alttch/shd\n https://i.redd.it/a9rvl4k7xbj71.gif\n    submitted by    /u/disserman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paqe0h/shd_01_console_tool_to_display_drive_list_with/",
+          "publishedOn": "2021-08-24T16:09:42.000Z",
+          "wordCount": 260,
+          "title": "shd 0.1 - console tool to display drive list with commonly checked smart info"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paq6ed/happy_30th_birthday_linux/",
+          "author": null,
+          "description": "submitted by    /u/TheMonDSkiEZ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paq6ed/happy_30th_birthday_linux/",
+          "publishedOn": "2021-08-24T15:58:59.000Z",
+          "wordCount": 384,
+          "title": "Happy 30th Birthday Linux!!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paphlj/initware_systemd_fork_for_bsd_systems_gets/",
+          "author": null,
+          "description": "submitted by    /u/j_m_macleod  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paphlj/initware_systemd_fork_for_bsd_systems_gets/",
+          "publishedOn": "2021-08-24T15:22:58.000Z",
+          "wordCount": 580,
+          "title": "\"InitWare\" (SystemD fork for BSD systems) gets initial port to macOS"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pamkul/happy_30th_birthday_linux/",
+          "author": null,
+          "description": "Thirty years ago I just entered college and had my first encountering with Linux four years later. Ever since then, Linux has become part of my computer journey throughout these years. My first desktop computer is a preconfigured Linux system in early 2000’s. Feel quite enjoyable with and grateful for Linux! Happy birthday Linux 1991-2021!\n    submitted by    /u/g4x86  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pamkul/happy_30th_birthday_linux/",
+          "publishedOn": "2021-08-24T12:43:55.000Z",
+          "wordCount": 272,
+          "title": "Happy 30th Birthday Linux!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paldp4/best_way_to_manage_dotfiles_using_just_git/",
+          "author": null,
+          "description": "submitted by    /u/Let_Me_Be  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paldp4/best_way_to_manage_dotfiles_using_just_git/",
+          "publishedOn": "2021-08-24T11:25:03.000Z",
+          "wordCount": 993,
+          "title": "Best way to manage dotfiles using just Git"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pajv2i/today_the_annual_debconf_will_start/",
+          "author": null,
+          "description": "submitted by    /u/Membership-Diligent  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pajv2i/today_the_annual_debconf_will_start/",
+          "publishedOn": "2021-08-24T09:27:28.000Z",
+          "wordCount": 142,
+          "title": "Today, the annual DebConf will start!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pajqly/deep_in_my_heart_i_feel_i_should_become_a/",
+          "author": null,
+          "description": "I am currently using MacBook Air (Intel), is it good enough to learn hardcore linux or should I get a or build a new PC for playing with linux. \n Or just stick with EC2 instances or virtual box instances ? \n I am not very good at using linux tho, I know the minimal stuff required for handling web development projects and handling servers in EC2.\n    submitted by    /u/Michael-susey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pajqly/deep_in_my_heart_i_feel_i_should_become_a/",
+          "publishedOn": "2021-08-24T09:16:47.000Z",
+          "wordCount": 1081,
+          "title": "Deep in my heart I feel I should become a hardcore linux guy."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pajl93/bringing_the_unix_philosophy_to_the_21st_century/",
+          "author": null,
+          "description": "submitted by    /u/Skaarj  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pajl93/bringing_the_unix_philosophy_to_the_21st_century/",
+          "publishedOn": "2021-08-24T09:03:47.000Z",
+          "wordCount": 681,
+          "title": "Bringing the Unix Philosophy to the 21st Century: Make JSON a default output option."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pajk98/haruna_video_player_070_released/",
+          "author": null,
+          "description": "Flathub https://flathub.org/apps/details/org.kde.haruna\n Git repo https://invent.kde.org/multimedia/haruna\n Source https://download.kde.org/stable/haruna/haruna-0.7.0.tar.xz\n This is the first release as part on KDE.\n New in 0.7.0:\n  \nAdded custom commands. They can be used to run mpv commands, like setting properties.\n Added option to toggle the opening of last played file on start up.\n Added mouse scroll seeking when mouse is over the seek bar.\n Added action to exit the fullscreen.\n Made playback settings page more consistent with the other settings pages.\n Fixed playlist staying open when mouse moves to another screen while the app is in fullscreen mode.\n Fixed not loading audio files from same folder when opening an audio file.\n  \nDoesn't look like much but the custom commands is pretty big. You can use them to control parts of mpv (set properties and run commands) not exposed by Haruna. The custom commands can be run at startup or you can trigger then with custom shortcuts, they apply when first saved.\n    submitted by    /u/fbg13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pajk98/haruna_video_player_070_released/",
+          "publishedOn": "2021-08-24T09:01:21.000Z",
+          "wordCount": 284,
+          "title": "Haruna video player 0.7.0 released"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paj8dx/rustdesk_118_yet_another_remote_desktop_software/",
+          "author": null,
+          "description": "submitted by    /u/open-trade  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paj8dx/rustdesk_118_yet_another_remote_desktop_software/",
+          "publishedOn": "2021-08-24T08:31:59.000Z",
+          "wordCount": 189,
+          "title": "RustDesk 1.1.8: Yet another remote desktop software"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/paixdg/does_anybody_still_use_32bit_computers/",
+          "author": null,
+          "description": "I used to use a samsung computer with 32-bit intel pentium. I wanted to run some 64-bit applications so I decided to watch some youtube videos which said to run some random commands in cmd (I was using windows 10 at the time, I realise now how stupid that was). I borked my computer and installed a 64-bit intel pentium and then started my Linux journey. Does anybody still use 32-bit computers for Linux?\n PS - sorry for my post being so long-winded, but It wouldn't let me post because it was too short\n    submitted by    /u/imnotpathetic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/paixdg/does_anybody_still_use_32bit_computers/",
+          "publishedOn": "2021-08-24T08:04:35.000Z",
+          "wordCount": 707,
+          "title": "Does anybody still use 32-bit computers"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pagqhf/openpower_firefox_jit_update/",
+          "author": null,
+          "description": "submitted by    /u/yoasif  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pagqhf/openpower_firefox_jit_update/",
+          "publishedOn": "2021-08-24T05:03:26.000Z",
+          "wordCount": 228,
+          "title": "OpenPOWER Firefox JIT update"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pae81e/mutantc_v4_ultimate_modular_handheld_linux_pc_for/",
+          "author": null,
+          "description": "submitted by    /u/srrahman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pae81e/mutantc_v4_ultimate_modular_handheld_linux_pc_for/",
+          "publishedOn": "2021-08-24T02:15:46.000Z",
+          "wordCount": 482,
+          "title": "mutantC v4 - Ultimate, modular Handheld Linux PC for everyday work, more in comments with build guide"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pacmg4/a_bunch_of_top_tech_ceos_are_meeting_with_pres/",
+          "author": null,
+          "description": "As the title states, next week a bunch of top tech CEOs are meeting Pres. Joe Biden \n  \n “The meeting will include Tim Cook and Microsoft CEO Satya Nadella, with executives from Google, Amazon, IBM, Southern Co., and JPMorgan Chase & Co also invited to attend.\n  \n Am I wrong in that almost the entirety of the Internet runs on Linux nowadays? Sure it’s big providers like AWS, Azure, etc and a couple CDNs like Akamai but they still almost all rely on Linux.\n  \n Why is there no FOSS/Linux rep? At least from the FSF or Linus himself or something. It just blows my mind.\n  \n Next you will tell me there is a meeting about fast food restaurant beef quality and invite Wendy’s, White Castle, Burger King but NOT McDonald’s…. You know the biggest player.\n  \n Is it because FOSS is decentralized for the most part? Still should be some kind of rep. \n I would post a link to the article but I’m not sure if links are allowed here.\n    submitted by    /u/Legendary-Pokemon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pacmg4/a_bunch_of_top_tech_ceos_are_meeting_with_pres/",
+          "publishedOn": "2021-08-24T00:36:59.000Z",
+          "wordCount": 811,
+          "title": "A bunch of top tech CEOs are meeting with Pres. Joe Biden next week to discuss cyber security. Why no FOSS/Linux rep?"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/pabfrh/mistakes_i_made_while_maintaining_an_opensource/",
           "author": null,
@@ -3607,6 +3823,213 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/paxlwk/you_can_touch_them_if_you_wanna_f/",
+          "author": null,
+          "description": "submitted by    /u/vvvasilis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/paxlwk/you_can_touch_them_if_you_wanna_f/",
+          "publishedOn": "2021-08-24T22:13:09.000Z",
+          "wordCount": 97,
+          "title": "😌 You can touch them if you wanna (F)"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pawxip/love_teasing_myself/",
+          "author": null,
+          "description": "submitted by    /u/Rainb0w0ct0puss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pawxip/love_teasing_myself/",
+          "publishedOn": "2021-08-24T21:37:03.000Z",
+          "wordCount": 92,
+          "title": "Love teasing myself 🤤💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pawrdh/thanks_for_sorting_by_new/",
+          "author": null,
+          "description": "submitted by    /u/softkittypurrs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pawrdh/thanks_for_sorting_by_new/",
+          "publishedOn": "2021-08-24T21:28:23.000Z",
+          "wordCount": 94,
+          "title": "Thanks for sorting by new 😘"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pavd7v/classy_classy/",
+          "author": null,
+          "description": "submitted by    /u/kida27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pavd7v/classy_classy/",
+          "publishedOn": "2021-08-24T20:17:58.000Z",
+          "wordCount": 90,
+          "title": "Classy classy"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pav7hm/mixing_up_metal_tones/",
+          "author": null,
+          "description": "submitted by    /u/cosmic_cauliflower  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pav7hm/mixing_up_metal_tones/",
+          "publishedOn": "2021-08-24T20:10:01.000Z",
+          "wordCount": 93,
+          "title": "Mixing up metal tones ☯️"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/paui98/hope_you_enjoy/",
+          "author": null,
+          "description": "submitted by    /u/Jaynfaye  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/paui98/hope_you_enjoy/",
+          "publishedOn": "2021-08-24T19:34:43.000Z",
+          "wordCount": 92,
+          "title": "Hope you enjoy ☺️💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/patge4/happy_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/bns1683  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/patge4/happy_titty_tuesday/",
+          "publishedOn": "2021-08-24T18:42:45.000Z",
+          "wordCount": 91,
+          "title": "Happy Titty Tuesday"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/paslnm/good_morning_from_me_my_freshly_frosted_nipples/",
+          "author": null,
+          "description": "submitted by    /u/noahjaxxo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/paslnm/good_morning_from_me_my_freshly_frosted_nipples/",
+          "publishedOn": "2021-08-24T18:00:21.000Z",
+          "wordCount": 98,
+          "title": "Good morning from me + my freshly frosted nipples 💘💋"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pas6sb/the_more_the_better/",
+          "author": null,
+          "description": "submitted by    /u/kida27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pas6sb/the_more_the_better/",
+          "publishedOn": "2021-08-24T17:39:37.000Z",
+          "wordCount": 92,
+          "title": "The more the better"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/paru24/red_on_red_on_red/",
+          "author": null,
+          "description": "submitted by    /u/kida27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/paru24/red_on_red_on_red/",
+          "publishedOn": "2021-08-24T17:21:53.000Z",
+          "wordCount": 93,
+          "title": "Red on red on red"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/papuy8/anyone_a_fan_of_one_nip_pierced/",
+          "author": null,
+          "description": "submitted by    /u/KittyyPawgg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/papuy8/anyone_a_fan_of_one_nip_pierced/",
+          "publishedOn": "2021-08-24T15:42:17.000Z",
+          "wordCount": 95,
+          "title": "Anyone a fan of one nip pierced??🤷🏼‍♀️"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/paobyy/doublepierced_perfection/",
+          "author": null,
+          "description": "submitted by    /u/random-cunts  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/paobyy/doublepierced_perfection/",
+          "publishedOn": "2021-08-24T14:22:32.000Z",
+          "wordCount": 90,
+          "title": "Double-pierced perfection"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/panzx9/cum_on_my_pierced_titties/",
+          "author": null,
+          "description": "submitted by    /u/aredheadqos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/panzx9/cum_on_my_pierced_titties/",
+          "publishedOn": "2021-08-24T14:04:30.000Z",
+          "wordCount": 93,
+          "title": "Cum on my pierced titties"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/panm6l/do_u_wanna_help_me_suck_and_tease_them/",
+          "author": null,
+          "description": "submitted by    /u/Mjz1984  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/panm6l/do_u_wanna_help_me_suck_and_tease_them/",
+          "publishedOn": "2021-08-24T13:44:07.000Z",
+          "wordCount": 98,
+          "title": "Do u wanna help me suck and tease them 🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pamfnb/soak_my_piercings_in_your_saline_solution/",
+          "author": null,
+          "description": "submitted by    /u/CrimsonCaliFox  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pamfnb/soak_my_piercings_in_your_saline_solution/",
+          "publishedOn": "2021-08-24T12:34:38.000Z",
+          "wordCount": 95,
+          "title": "Soak my piercings in your saline solution"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/palz8c/such_a_same_to_hide_them_in_my_bra_all_day_f32/",
+          "author": null,
+          "description": "submitted by    /u/PurpleKitKat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/palz8c/such_a_same_to_hide_them_in_my_bra_all_day_f32/",
+          "publishedOn": "2021-08-24T12:05:31.000Z",
+          "wordCount": 100,
+          "title": "Such a same to hide them in my bra all day f32"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pagj31/f20_do_u_wanna_play_with_my_piercings/",
+          "author": null,
+          "description": "submitted by    /u/seraphinesmelody  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pagj31/f20_do_u_wanna_play_with_my_piercings/",
+          "publishedOn": "2021-08-24T04:48:35.000Z",
+          "wordCount": 96,
+          "title": "[F20] do u wanna play with my piercings?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pag7dc/my_tits_keep_getting_bigger/",
+          "author": null,
+          "description": "submitted by    /u/httpmommy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pag7dc/my_tits_keep_getting_bigger/",
+          "publishedOn": "2021-08-24T04:25:15.000Z",
+          "wordCount": 93,
+          "title": "my tits keep getting bigger"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pag6mr/your_fav_little_stoner/",
+          "author": null,
+          "description": "submitted by    /u/Mersucks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pag6mr/your_fav_little_stoner/",
+          "publishedOn": "2021-08-24T04:23:47.000Z",
+          "wordCount": 93,
+          "title": "Your fav little stoner 😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/paej2s/new_site_updates_because_fuck_of/",
+          "author": null,
+          "description": "Hello,\n I'll be working on new settings including adding automod replies for Fansly, PocketStars and Many Vids. Please comment below if there are any major ones I should add. \n I'm also looking into expanding the MOD team because it's a little much for me RN. \n Thanks,\n    submitted by    /u/IPostBabes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/paej2s/new_site_updates_because_fuck_of/",
+          "publishedOn": "2021-08-24T02:35:17.000Z",
+          "wordCount": 94,
+          "title": "New Site Updates Because Fuck OF"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pae1r0/wanna_come_squeeze_my_small_pierced_tits/",
+          "author": null,
+          "description": "submitted by    /u/dancingcanadian  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pae1r0/wanna_come_squeeze_my_small_pierced_tits/",
+          "publishedOn": "2021-08-24T02:05:19.000Z",
+          "wordCount": 95,
+          "title": "Wanna come squeeze my small pierced tits?😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/padcac/i_want_to_be_taken_from_behind_and_infront/",
+          "author": null,
+          "description": "submitted by    /u/Odd-Wafer9715  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/padcac/i_want_to_be_taken_from_behind_and_infront/",
+          "publishedOn": "2021-08-24T01:20:58.000Z",
+          "wordCount": 98,
+          "title": "I want to be taken from behind and infront 😏"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pacrot/titties/",
+          "author": null,
+          "description": "submitted by    /u/thedirtyfarmgirl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pacrot/titties/",
+          "publishedOn": "2021-08-24T00:45:31.000Z",
+          "wordCount": 90,
+          "title": "Titties 😋😘"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/pabwym/samsung_virtual_assistant_sam_cosplay_by_felicia/",
           "author": null,
@@ -7907,6 +8330,213 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pazso6/this_was_fun_to_do/",
+          "author": null,
+          "description": "submitted by    /u/WetnwildJJ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pazso6/this_was_fun_to_do/",
+          "publishedOn": "2021-08-25T00:13:21.000Z",
+          "wordCount": 93,
+          "title": "This was fun to do"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/paxt3t/sexting_pics_and_videos/",
+          "author": null,
+          "description": "submitted by    /u/ComeplaywithIsabel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/paxt3t/sexting_pics_and_videos/",
+          "publishedOn": "2021-08-24T22:23:38.000Z",
+          "wordCount": 92,
+          "title": "Sexting, pics and videos"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/paxbr2/when_i_think_about_this_i_cant_help_it/",
+          "author": null,
+          "description": "submitted by    /u/IntheStars802  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/paxbr2/when_i_think_about_this_i_cant_help_it/",
+          "publishedOn": "2021-08-24T21:58:27.000Z",
+          "wordCount": 97,
+          "title": "When I think about this I can't help it!!💦💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pawo2b/heres_a_new_angle_for_you/",
+          "author": null,
+          "description": "submitted by    /u/Baby_mama5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pawo2b/heres_a_new_angle_for_you/",
+          "publishedOn": "2021-08-24T21:23:42.000Z",
+          "wordCount": 94,
+          "title": "Here's a new angle for you"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pawf66/only_3_more_weeks_and_feeling_sexier_and_hornier/",
+          "author": null,
+          "description": "submitted by    /u/kinkymama94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pawf66/only_3_more_weeks_and_feeling_sexier_and_hornier/",
+          "publishedOn": "2021-08-24T21:11:30.000Z",
+          "wordCount": 103,
+          "title": "Only 3 more weeks and feeling sexier and hornier than I have this entire pregnancy"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/paw92j/21_weeks_here/",
+          "author": null,
+          "description": "submitted by    /u/fatblacknerdy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/paw92j/21_weeks_here/",
+          "publishedOn": "2021-08-24T21:02:50.000Z",
+          "wordCount": 92,
+          "title": "21 weeks here! 💖❤️💖"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pavz3e/wouldnt_you_love_to_be_laying_next_to_me/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pavz3e/wouldnt_you_love_to_be_laying_next_to_me/",
+          "publishedOn": "2021-08-24T20:48:39.000Z",
+          "wordCount": 97,
+          "title": "Wouldn’t you love to be laying next to me?👅"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pavqmy/my_hubby_doesnt_find_me_as_attractive_anymore/",
+          "author": null,
+          "description": "submitted by    /u/kyndalbb  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pavqmy/my_hubby_doesnt_find_me_as_attractive_anymore/",
+          "publishedOn": "2021-08-24T20:36:51.000Z",
+          "wordCount": 96,
+          "title": "my hubby doesn’t find me as attractive anymore🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pavk5e/verification_thanks_for_all_the_love_here/",
+          "author": null,
+          "description": "submitted by    /u/goddesssagexx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pavk5e/verification_thanks_for_all_the_love_here/",
+          "publishedOn": "2021-08-24T20:27:55.000Z",
+          "wordCount": 96,
+          "title": "Verification 💗😌 thanks for all the love here."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pav0mu/rarely_clothed_preggo/",
+          "author": null,
+          "description": "submitted by    /u/Mr_Nomad101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pav0mu/rarely_clothed_preggo/",
+          "publishedOn": "2021-08-24T20:00:44.000Z",
+          "wordCount": 91,
+          "title": "rarely clothed preggo"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pautl7/hubby_loves_to_show_off_my_new_curves_28f/",
+          "author": null,
+          "description": "submitted by    /u/jmda1118  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pautl7/hubby_loves_to_show_off_my_new_curves_28f/",
+          "publishedOn": "2021-08-24T19:50:43.000Z",
+          "wordCount": 98,
+          "title": "Hubby loves to show off my new curves 😘 (28F)"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pas5fl/my_pov_while_doing_homework_isnt_impressing_me/",
+          "author": null,
+          "description": "submitted by    /u/TheSecret00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pas5fl/my_pov_while_doing_homework_isnt_impressing_me/",
+          "publishedOn": "2021-08-24T17:37:44.000Z",
+          "wordCount": 102,
+          "title": "My pov while doing homework isn’t impressing me 😫😫😫 why are they so big?!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pas1r0/i_feel_so_naked_in_front_of_you/",
+          "author": null,
+          "description": "submitted by    /u/MaeIBeYourSub  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pas1r0/i_feel_so_naked_in_front_of_you/",
+          "publishedOn": "2021-08-24T17:32:39.000Z",
+          "wordCount": 97,
+          "title": "I feel so naked in front of you. 😏."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/parsib/how_is_your_afternoon_better_now_i_hope/",
+          "author": null,
+          "description": "submitted by    /u/Lyslyss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/parsib/how_is_your_afternoon_better_now_i_hope/",
+          "publishedOn": "2021-08-24T17:19:45.000Z",
+          "wordCount": 98,
+          "title": "How is your afternoon ? Better now I hope :)"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/paorkf/its_titty_tuesday/",
+          "author": null,
+          "description": "submitted by    /u/fuckmeintheoffice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/paorkf/its_titty_tuesday/",
+          "publishedOn": "2021-08-24T14:45:12.000Z",
+          "wordCount": 91,
+          "title": "It's Titty Tuesday"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/paoe4w/would_you_let_me_ride_your_dick/",
+          "author": null,
+          "description": "submitted by    /u/Alexiaonmfc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/paoe4w/would_you_let_me_ride_your_dick/",
+          "publishedOn": "2021-08-24T14:25:46.000Z",
+          "wordCount": 95,
+          "title": "Would you let me ride your dick"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/panqk4/barefoot_and_pregnant_in_the_kitchen_maybe_thats/",
+          "author": null,
+          "description": "submitted by    /u/socalunicorn40  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/panqk4/barefoot_and_pregnant_in_the_kitchen_maybe_thats/",
+          "publishedOn": "2021-08-24T13:50:38.000Z",
+          "wordCount": 101,
+          "title": "barefoot and pregnant in the kitchen? Maybe that’s where i like to be…"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/palu74/is_it_sexy_to_be_pregnant/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/palu74/is_it_sexy_to_be_pregnant/",
+          "publishedOn": "2021-08-24T11:56:26.000Z",
+          "wordCount": 94,
+          "title": "is it sexy to be pregnant?🤰🧐"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/palsoy/how_do_you_like_your_preggos_on_all_4s_or_riding/",
+          "author": null,
+          "description": "submitted by    /u/alicelovegood25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/palsoy/how_do_you_like_your_preggos_on_all_4s_or_riding/",
+          "publishedOn": "2021-08-24T11:53:26.000Z",
+          "wordCount": 100,
+          "title": "How do you like your preggos? On all 4s or riding? 🥰😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pak8dz/would_you_pull_them_out_with_your_teeth/",
+          "author": null,
+          "description": "submitted by    /u/lilymadoxofficial  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pak8dz/would_you_pull_them_out_with_your_teeth/",
+          "publishedOn": "2021-08-24T09:59:08.000Z",
+          "wordCount": 96,
+          "title": "Would you pull them out with your teeth?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pag06b/missing_the_basketball_belly_and_complimentary/",
+          "author": null,
+          "description": "submitted by    /u/brexoxoxoxo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pag06b/missing_the_basketball_belly_and_complimentary/",
+          "publishedOn": "2021-08-24T04:11:27.000Z",
+          "wordCount": 96,
+          "title": "Missing the basketball belly and complimentary food ☹️…."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pafv5k/looking_nice_and_round_in_this_micro_bikini/",
+          "author": null,
+          "description": "submitted by    /u/LilRonnieRae  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pafv5k/looking_nice_and_round_in_this_micro_bikini/",
+          "publishedOn": "2021-08-24T04:02:01.000Z",
+          "wordCount": 97,
+          "title": "Looking nice and round in this micro bikini 💋"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/padzva/i_could_really_use_some_help_relieving_stress/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/padzva/i_could_really_use_some_help_relieving_stress/",
+          "publishedOn": "2021-08-24T02:01:59.000Z",
+          "wordCount": 96,
+          "title": "I could really use some help relieving stress"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/pa9xxs/mrs_biaj/",
           "author": null,
