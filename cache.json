@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350782",
+          "author": "Chris Coyier",
+          "description": "That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …\nThe post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
+          "publishedOn": "2021-08-27T19:14:10.000Z",
+          "wordCount": 738,
+          "title": "My tiny side project has had more impact than my decade in the software industry"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350201",
+          "author": "Murtuzaali Surti",
+          "description": "What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …\nThe post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-fixed-background-attachment-hack/",
+          "publishedOn": "2021-08-27T14:42:16.000Z",
+          "wordCount": 1637,
+          "title": "The Fixed Background Attachment Hack"
+        },
+        {
           "id": "https://css-tricks.com/?p=350573",
           "author": "Chris Coyier",
           "description": "When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …\nThe post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -505,24 +523,6 @@
           "publishedOn": "2021-07-29T14:47:47.000Z",
           "wordCount": 1274,
           "title": "Developer-Friendly Passwordless Auth"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345404",
-          "author": "Chris Coyier",
-          "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-opinions/",
-          "publishedOn": "2021-07-28T20:21:55.000Z",
-          "wordCount": 1390,
-          "title": "Safari 15 Opinions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=320544",
-          "author": "Ana Tudor",
-          "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
-          "publishedOn": "2021-07-28T14:37:34.000Z",
-          "wordCount": 6716,
-          "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
         }
       ]
     },
@@ -531,6 +531,141 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcwh7m/using_a_usb_between_linux_and_windows_computers/",
+          "author": null,
+          "description": "Basically, this is what happens:\n  \nPlug flash-drive into Linux computer.\n Put files on it, eject it, and unplug.\n Plug flash-drive into Windows laptop.\n Open the drive and see the files.\n Click on a file (get errors, won't open, blank files, etc.)\n File disappears.\n  \nWhat the hell is happening? I feel like Windows and Linux might store files differently so maybe that's the problem, but I'm not sure. What can I do to fix this? I refuse to email large zip files or individual files back and forth forever.\n Edit: Having previously formatted on Windows, formatting to FAT32 on Linux seems to have done the trick. Thanks for everyone’s help!\n    submitted by    /u/Tuckertcs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcwh7m/using_a_usb_between_linux_and_windows_computers/",
+          "publishedOn": "2021-08-27T21:24:53.000Z",
+          "wordCount": 550,
+          "title": "Using a USB between Linux and Windows computers causes the files to corrupt?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcw0ss/ubuntu_linux_wallpaper_made_by_me_using_gimp/",
+          "author": null,
+          "description": "submitted by    /u/lbr_crl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcw0ss/ubuntu_linux_wallpaper_made_by_me_using_gimp/",
+          "publishedOn": "2021-08-27T21:01:01.000Z",
+          "wordCount": 153,
+          "title": "Ubuntu Linux wallpaper - made by me using GIMP - [3840x2160]"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcv6am/has_linux_evolved_to_a_micro_kernel_or_is_it/",
+          "author": null,
+          "description": "With Linux turning 30 and having read the discussion between Linus and Andrew Tanenbaum, I wonder if Linux is still a monolithic kernel or has it evolved to something more along the lines of a micro kernel. I ask this as in recent years lots of stuff has moved out of the kernel and into userland. Which is one of the hallmarks of a microkernel design. Or did I misunderstand something here.\n    submitted by    /u/DrPiwi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcv6am/has_linux_evolved_to_a_micro_kernel_or_is_it/",
+          "publishedOn": "2021-08-27T20:15:50.000Z",
+          "wordCount": 418,
+          "title": "Has Linux evolved to a micro kernel or is it still a monolithic kernel?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pct2hs/exatorrent_selfhostable_easytouse_lightweight_and/",
+          "author": null,
+          "description": "https://github.com/varbhat/exatorrent\n I have worked on this for past few months . exatorrent is BitTorrent Client written in Go. It can be run locally or be hosted in Remote Server with good resources to use that Server as SeedBox. It is Single Completely Statically Linked Binary with Zero External Dependencies .\n exatorrent is simple yet feature-rich . It is lightweight and light on resources. It comes with Beautiful Responsive Web Client written in Svelte and Typescript , but thanks to documented WebSocket API of exatorrent , you can also write your own client if you want to.\n exatorrent can operate in Optional Multi-User Mode administrated by admin user/s but it can successfully be used by Single-User as well. Torrented Files are stored in local disk of device where it's run, which are then retrievable or streamable via HTTP.\n I hope you like it . It's Open Source .\n    submitted by    /u/varbhat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pct2hs/exatorrent_selfhostable_easytouse_lightweight_and/",
+          "publishedOn": "2021-08-27T18:26:52.000Z",
+          "wordCount": 292,
+          "title": "exatorrent - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pct1l6/installed_winndows_and_my_laptops_battery_life/",
+          "author": null,
+          "description": "submitted by    /u/harmonicssnob  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pct1l6/installed_winndows_and_my_laptops_battery_life/",
+          "publishedOn": "2021-08-27T18:25:32.000Z",
+          "wordCount": 196,
+          "title": "Installed Winndows and my laptops battery life increased when running Ubuntu."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcrtc1/using_nixnixos_to_crosscompile_binaries/",
+          "author": null,
+          "description": "submitted by    /u/Atemu12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcrtc1/using_nixnixos_to_crosscompile_binaries/",
+          "publishedOn": "2021-08-27T17:22:22.000Z",
+          "wordCount": 138,
+          "title": "Using Nix/NixOS to cross-compile binaries"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcrhtj/eternal_terminal_remote_shell_that_automatically/",
+          "author": null,
+          "description": "submitted by    /u/binaryfor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcrhtj/eternal_terminal_remote_shell_that_automatically/",
+          "publishedOn": "2021-08-27T17:06:04.000Z",
+          "wordCount": 160,
+          "title": "Eternal Terminal - remote shell that automatically reconnects without interrupting the session"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcqzyb/30_free_and_open_source_linux_games_part_3/",
+          "author": null,
+          "description": "submitted by    /u/lee337reilly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcqzyb/30_free_and_open_source_linux_games_part_3/",
+          "publishedOn": "2021-08-27T16:40:26.000Z",
+          "wordCount": 153,
+          "title": "30 free and open source Linux games - part 3"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcpymy/ross_scotts_radial_menu_app_launcher_idea_made_a/",
+          "author": null,
+          "description": "submitted by    /u/GB_2_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcpymy/ross_scotts_radial_menu_app_launcher_idea_made_a/",
+          "publishedOn": "2021-08-27T15:48:11.000Z",
+          "wordCount": 568,
+          "title": "Ross Scott's radial menu app launcher idea made a reality as part of the ROSS Shell project!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcpc6s/i_love_ext4magic/",
+          "author": null,
+          "description": "My dumbass just did shift=del on all files on the wrong 5TB usb drive. And after hitting myself on the head 20 times I found the tool ext4magic.\n This tool can recover all deleted files that are deleted on a ext4 filesystem. I started with photorec, but found that ext4magic seems to be much faster. I did not had the option in photorec to search only in empty space. I guess this is where ext4magic does its magic because it only lookes for files that are deleted using the filesystems journal.\n So far 114GB has been recoverd. I am sooo relieved! 😀\n    submitted by    /u/operius73  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcpc6s/i_love_ext4magic/",
+          "publishedOn": "2021-08-27T15:15:43.000Z",
+          "wordCount": 421,
+          "title": "I love ext4magic!"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcmgjs/linux_running_inside_vrchat/",
+          "author": null,
+          "description": "submitted by    /u/assassinsorrow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcmgjs/linux_running_inside_vrchat/",
+          "publishedOn": "2021-08-27T12:35:24.000Z",
+          "wordCount": 378,
+          "title": "Linux running inside Vrchat"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcife3/pango_and_font_magic_updates_for_gnome/",
+          "author": null,
+          "description": "submitted by    /u/purpleidea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcife3/pango_and_font_magic_updates_for_gnome/",
+          "publishedOn": "2021-08-27T07:17:23.000Z",
+          "wordCount": 173,
+          "title": "Pango and font magic updates for GNOME"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcecrs/pinenote_eink_reader_with_audio_and_writing/",
+          "author": null,
+          "description": "submitted by    /u/wildolivetree1117  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcecrs/pinenote_eink_reader_with_audio_and_writing/",
+          "publishedOn": "2021-08-27T02:36:28.000Z",
+          "wordCount": 633,
+          "title": "PineNote: E-Ink Reader with audio and writing capabilities."
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcciqw/how_i_switched_from_macos_to_linux_after_15_years/",
+          "author": null,
+          "description": "submitted by    /u/mortodenoite  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcciqw/how_i_switched_from_macos_to_linux_after_15_years/",
+          "publishedOn": "2021-08-27T00:45:38.000Z",
+          "wordCount": 1392,
+          "title": "How I switched from macOS to Linux after 15 years of Apple"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pcc3i8/we_got_it_gplv2_compliance_from_umidigi_full/",
+          "author": null,
+          "description": "submitted by    /u/SexyCyborg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pcc3i8/we_got_it_gplv2_compliance_from_umidigi_full/",
+          "publishedOn": "2021-08-27T00:20:15.000Z",
+          "wordCount": 1194,
+          "title": "We got it! GPLv2 Compliance from UMIDIGI- full video as requested!"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/pcc0au/why_do_certain_packages_have_icon_themes_in_their/",
           "author": null,
@@ -4066,6 +4201,204 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcyyy4/im_candid_what_do_you_think/",
+          "author": null,
+          "description": "submitted by    /u/asiannymphooo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcyyy4/im_candid_what_do_you_think/",
+          "publishedOn": "2021-08-27T23:46:03.000Z",
+          "wordCount": 94,
+          "title": "Im candid, what do you think?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcxfnf/let_them_breathe/",
+          "author": null,
+          "description": "submitted by    /u/JeanScoutFinch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcxfnf/let_them_breathe/",
+          "publishedOn": "2021-08-27T22:16:55.000Z",
+          "wordCount": 91,
+          "title": "Let them breathe!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcxc0b/whos_dirty_and_needs_a_bath/",
+          "author": null,
+          "description": "submitted by    /u/Michirose96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcxc0b/whos_dirty_and_needs_a_bath/",
+          "publishedOn": "2021-08-27T22:11:04.000Z",
+          "wordCount": 94,
+          "title": "Whos dirty and needs a bath?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcx0bj/give_them_a_little_show_out_there/",
+          "author": null,
+          "description": "submitted by    /u/partyg0blin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcx0bj/give_them_a_little_show_out_there/",
+          "publishedOn": "2021-08-27T21:53:10.000Z",
+          "wordCount": 95,
+          "title": "Give them a little show out there💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcvlad/views_from_above/",
+          "author": null,
+          "description": "submitted by    /u/samanthacurve  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcvlad/views_from_above/",
+          "publishedOn": "2021-08-27T20:38:17.000Z",
+          "wordCount": 91,
+          "title": "Views from above"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcv36g/am_i_good_enough_to_sit_on_your_face/",
+          "author": null,
+          "description": "submitted by    /u/OF-zbabyy2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcv36g/am_i_good_enough_to_sit_on_your_face/",
+          "publishedOn": "2021-08-27T20:11:25.000Z",
+          "wordCount": 98,
+          "title": "am i good enough to sit on your face 🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcu1jv/will_you_put_your_head_under_my_sweater_baby/",
+          "author": null,
+          "description": "submitted by    /u/desiree_babe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcu1jv/will_you_put_your_head_under_my_sweater_baby/",
+          "publishedOn": "2021-08-27T19:17:25.000Z",
+          "wordCount": 97,
+          "title": "Will you put your head under my sweater, baby?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pctzx9/i_want_someone_to_play_with_my_nipples/",
+          "author": null,
+          "description": "submitted by    /u/Jaynfaye  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pctzx9/i_want_someone_to_play_with_my_nipples/",
+          "publishedOn": "2021-08-27T19:15:10.000Z",
+          "wordCount": 97,
+          "title": "I want someone to play with my nipples 🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pctpvy/cum_shower_with_me/",
+          "author": null,
+          "description": "submitted by    /u/Rainb0w0ct0puss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pctpvy/cum_shower_with_me/",
+          "publishedOn": "2021-08-27T19:00:42.000Z",
+          "wordCount": 93,
+          "title": "Cum shower with me 💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pctgjr/lick_suck_or_bite/",
+          "author": null,
+          "description": "submitted by    /u/leababy001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pctgjr/lick_suck_or_bite/",
+          "publishedOn": "2021-08-27T18:46:59.000Z",
+          "wordCount": 92,
+          "title": "Lick, suck or bite?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcteyg/how_many_piercings_do_you_think_i_have/",
+          "author": null,
+          "description": "submitted by    /u/ambernkxx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcteyg/how_many_piercings_do_you_think_i_have/",
+          "publishedOn": "2021-08-27T18:44:45.000Z",
+          "wordCount": 96,
+          "title": "How many piercings do you think I have?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcr53e/i_need_green_jewelry/",
+          "author": null,
+          "description": "submitted by    /u/redheadbaby_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcr53e/i_need_green_jewelry/",
+          "publishedOn": "2021-08-27T16:47:51.000Z",
+          "wordCount": 92,
+          "title": "I need green jewelry"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcqn90/bring_asymmetrical_is_my_thing/",
+          "author": null,
+          "description": "submitted by    /u/CatEyedLady_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcqn90/bring_asymmetrical_is_my_thing/",
+          "publishedOn": "2021-08-27T16:22:46.000Z",
+          "wordCount": 93,
+          "title": "Bring asymmetrical is my thing."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcn88w/pierced_and_tatted/",
+          "author": null,
+          "description": "submitted by    /u/Rachbabyy2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcn88w/pierced_and_tatted/",
+          "publishedOn": "2021-08-27T13:20:52.000Z",
+          "wordCount": 91,
+          "title": "Pierced AND tatted?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcn15m/would_you_like_this_pov_of_my_cute_pierced_boobies/",
+          "author": null,
+          "description": "submitted by    /u/Playfulsuburbancpl88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcn15m/would_you_like_this_pov_of_my_cute_pierced_boobies/",
+          "publishedOn": "2021-08-27T13:09:43.000Z",
+          "wordCount": 98,
+          "title": "Would you like this POV of my cute pierced boobies?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcmyk9/trying_to_lick_her_own_pussy/",
+          "author": null,
+          "description": "submitted by    /u/AngieYates  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcmyk9/trying_to_lick_her_own_pussy/",
+          "publishedOn": "2021-08-27T13:05:42.000Z",
+          "wordCount": 94,
+          "title": "trying to lick her own pussy"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcmvav/pierced_and_stacked/",
+          "author": null,
+          "description": "submitted by    /u/88throwaway44  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcmvav/pierced_and_stacked/",
+          "publishedOn": "2021-08-27T13:00:40.000Z",
+          "wordCount": 91,
+          "title": "Pierced and stacked"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcm99f/melanie_mauriello/",
+          "author": null,
+          "description": "submitted by    /u/thornonmywrist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcm99f/melanie_mauriello/",
+          "publishedOn": "2021-08-27T12:22:17.000Z",
+          "wordCount": 90,
+          "title": "Melanie Mauriello"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcjs1x/pretty_in_pink/",
+          "author": null,
+          "description": "submitted by    /u/Jessica_Miles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcjs1x/pretty_in_pink/",
+          "publishedOn": "2021-08-27T09:14:42.000Z",
+          "wordCount": 92,
+          "title": "Pretty in pink 🌸"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pch64p/do_you_want_a_good_girl_that_does_bad_things_to/",
+          "author": null,
+          "description": "submitted by    /u/noahjaxxo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pch64p/do_you_want_a_good_girl_that_does_bad_things_to/",
+          "publishedOn": "2021-08-27T05:43:22.000Z",
+          "wordCount": 101,
+          "title": "Do you want a good girl that does bad things to you? 💖😈"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcfytx/no_place_like_home_right/",
+          "author": null,
+          "description": "submitted by    /u/semocouple573  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcfytx/no_place_like_home_right/",
+          "publishedOn": "2021-08-27T04:17:30.000Z",
+          "wordCount": 93,
+          "title": "No place like home, right?😘"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pcd8w3/ive_always_wanted_a_girl_to_fuck_me_too/",
+          "author": null,
+          "description": "submitted by    /u/Odd-Wafer9715  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pcd8w3/ive_always_wanted_a_girl_to_fuck_me_too/",
+          "publishedOn": "2021-08-27T01:30:11.000Z",
+          "wordCount": 97,
+          "title": "I've always wanted a girl to fuck me too"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/pcbni0/squirting_like_a_fountain/",
           "author": null,
@@ -8996,6 +9329,213 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcyh7c/new_to_the_group_but_8m_preggo/",
+          "author": null,
+          "description": "submitted by    /u/kali_feline  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcyh7c/new_to_the_group_but_8m_preggo/",
+          "publishedOn": "2021-08-27T23:16:58.000Z",
+          "wordCount": 96,
+          "title": "New to the group, but 8+m preggo 🤤💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcygmu/am_i_cute_with_a_bump/",
+          "author": null,
+          "description": "submitted by    /u/TheJensensPlay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcygmu/am_i_cute_with_a_bump/",
+          "publishedOn": "2021-08-27T23:16:04.000Z",
+          "wordCount": 95,
+          "title": "Am I cute with a bump? 💕"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcxc45/ready_for_the_weekend/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcxc45/ready_for_the_weekend/",
+          "publishedOn": "2021-08-27T22:11:15.000Z",
+          "wordCount": 92,
+          "title": "Ready for the weekend🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcwsnx/tgif/",
+          "author": null,
+          "description": "submitted by    /u/IntheStars802  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcwsnx/tgif/",
+          "publishedOn": "2021-08-27T21:41:39.000Z",
+          "wordCount": 89,
+          "title": "TGIF"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcvb49/i_would_like_you_to_play_with_my_pussy/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcvb49/i_would_like_you_to_play_with_my_pussy/",
+          "publishedOn": "2021-08-27T20:22:59.000Z",
+          "wordCount": 97,
+          "title": "I would like you to play with my pussy🤗🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcv7u9/at_this_point_im_not_sure_if_im_more_full_of_baby/",
+          "author": null,
+          "description": "submitted by    /u/fuckmeintheoffice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcv7u9/at_this_point_im_not_sure_if_im_more_full_of_baby/",
+          "publishedOn": "2021-08-27T20:18:10.000Z",
+          "wordCount": 103,
+          "title": "At this point I'm not sure if I'm more full of baby or cum 💦"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcuxt0/do_you_like/",
+          "author": null,
+          "description": "submitted by    /u/PreggoVikingWife  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcuxt0/do_you_like/",
+          "publishedOn": "2021-08-27T20:03:48.000Z",
+          "wordCount": 92,
+          "title": "Do you like? 💓"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcud06/i_want_to_be_fucked_real_good_and_came_inside_of/",
+          "author": null,
+          "description": "submitted by    /u/Nataliakawaii420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcud06/i_want_to_be_fucked_real_good_and_came_inside_of/",
+          "publishedOn": "2021-08-27T19:34:00.000Z",
+          "wordCount": 108,
+          "title": "I want to be fucked real good and came inside of while one of you sucks on my tits 🥵"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcubp7/who_wants_to_cum_inside_me_while_sucking_on_my/",
+          "author": null,
+          "description": "submitted by    /u/Nataliakawaii420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcubp7/who_wants_to_cum_inside_me_while_sucking_on_my/",
+          "publishedOn": "2021-08-27T19:32:06.000Z",
+          "wordCount": 99,
+          "title": "Who wants to cum inside me while sucking on my tits🥵"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pctvz5/30_weeks_and_still_riding_dick/",
+          "author": null,
+          "description": "submitted by    /u/PregnantTiffopiff  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pctvz5/30_weeks_and_still_riding_dick/",
+          "publishedOn": "2021-08-27T19:09:28.000Z",
+          "wordCount": 94,
+          "title": "30 weeks and still riding dick"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pctb82/im_a_good_girl/",
+          "author": null,
+          "description": "submitted by    /u/misswrinkles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pctb82/im_a_good_girl/",
+          "publishedOn": "2021-08-27T18:39:17.000Z",
+          "wordCount": 93,
+          "title": "I’m a good girl 😇"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcsyc9/still_a_freak_in_the_sheets_with_this_baby_bump/",
+          "author": null,
+          "description": "submitted by    /u/ComeplaywithIsabel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcsyc9/still_a_freak_in_the_sheets_with_this_baby_bump/",
+          "publishedOn": "2021-08-27T18:20:42.000Z",
+          "wordCount": 108,
+          "title": "Still a freak in the sheets with this baby bump 😏 wanna see more follow the link and dm me"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcsn0b/breed_me_from_behind/",
+          "author": null,
+          "description": "submitted by    /u/mamadomme  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcsn0b/breed_me_from_behind/",
+          "publishedOn": "2021-08-27T18:04:35.000Z",
+          "wordCount": 93,
+          "title": "Breed me from behind 🤪"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcrgk4/7months_pregnant_my_tits_are_so_full_and_sore/",
+          "author": null,
+          "description": "submitted by    /u/Nataliakawaii420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcrgk4/7months_pregnant_my_tits_are_so_full_and_sore/",
+          "publishedOn": "2021-08-27T17:04:11.000Z",
+          "wordCount": 98,
+          "title": "7months pregnant my tits are so full and sore 🥵❤️"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcqx3h/31_weeks_dont_miss_out/",
+          "author": null,
+          "description": "submitted by    /u/KinkyKat94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcqx3h/31_weeks_dont_miss_out/",
+          "publishedOn": "2021-08-27T16:36:30.000Z",
+          "wordCount": 94,
+          "title": "31 weeks! 🤰Don’t miss out 😊"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcpxnj/i_just_ordered_a_34m_bra_and_im_not_even_fully/",
+          "author": null,
+          "description": "submitted by    /u/IamLeelou  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcpxnj/i_just_ordered_a_34m_bra_and_im_not_even_fully/",
+          "publishedOn": "2021-08-27T15:46:42.000Z",
+          "wordCount": 112,
+          "title": "I just ordered a 34M bra and I’m not even fully lactating! I’m going to need someone to hold them up for me soon."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcnzkb/the_more_pregnant_i_get_the_more_creamy_and_sweet/",
+          "author": null,
+          "description": "submitted by    /u/kinkymama94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcnzkb/the_more_pregnant_i_get_the_more_creamy_and_sweet/",
+          "publishedOn": "2021-08-27T14:03:04.000Z",
+          "wordCount": 114,
+          "title": "The more pregnant I get, the more creamy and sweet my pussy is and I love it. Licking my cream off my toys is my favourite."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcnrj2/i_can_ride_a_mean_cock_at_6_months/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcnrj2/i_can_ride_a_mean_cock_at_6_months/",
+          "publishedOn": "2021-08-27T13:51:22.000Z",
+          "wordCount": 98,
+          "title": "I can ride a mean cock at 6 months 😋"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcnqvb/im_hoping_someone_here_would_still_fuck_me_doggy/",
+          "author": null,
+          "description": "submitted by    /u/Nadiasplayhouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcnqvb/im_hoping_someone_here_would_still_fuck_me_doggy/",
+          "publishedOn": "2021-08-27T13:50:22.000Z",
+          "wordCount": 100,
+          "title": "I’m hoping someone here would still fuck me doggy at 6 months🥺"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcmjzc/i_said_you_can_cum_in_me_but_he_still_wanted_me/",
+          "author": null,
+          "description": "submitted by    /u/thefunmilf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcmjzc/i_said_you_can_cum_in_me_but_he_still_wanted_me/",
+          "publishedOn": "2021-08-27T12:41:37.000Z",
+          "wordCount": 103,
+          "title": "I said you can cum in me but he still wanted me covered in cum!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcgwld/still_fuckable_at_18_weeks/",
+          "author": null,
+          "description": "submitted by    /u/Natasha_jane  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcgwld/still_fuckable_at_18_weeks/",
+          "publishedOn": "2021-08-27T05:23:22.000Z",
+          "wordCount": 94,
+          "title": "Still fuckable at 18 weeks 🤰🍆"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pcdfrh/your_dirty_little_secret/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pcdfrh/your_dirty_little_secret/",
+          "publishedOn": "2021-08-27T01:41:55.000Z",
+          "wordCount": 92,
+          "title": "Your dirty little secret"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pccwnu/just_glowing/",
+          "author": null,
+          "description": "submitted by    /u/Leslielux95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pccwnu/just_glowing/",
+          "publishedOn": "2021-08-27T01:09:10.000Z",
+          "wordCount": 91,
+          "title": "Just glowing ☀️"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/pcb2v2/still_pregnant/",
           "author": null,
