@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350670",
+          "author": "Geoff Graham",
+          "description": "A bonafide CSS trick if there ever was one! @ShadowShahriar created a CodePen demo that uses pseudo-elements to place commas between list items that are displayed inline, and the result is a natural-looking complete sentence with proper punctuation.\nCodePen Embed…\nThe post CSS Pseudo Commas appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://codepen.io/ShadowShahriar/pen/LYyvVjo",
+          "publishedOn": "2021-08-30T21:20:00.000Z",
+          "wordCount": null,
+          "title": "CSS Pseudo Commas"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350574",
+          "author": "Temani Afif",
+          "description": "After the fragmentation effect, I am going to tackle another interesting animation: the blob! We all agree that such effect is hard to achieve with CSS, so we generally reach for SVG to make those gooey shapes. But …\nThe post Exploring the CSS Paint API: Blob Animation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-the-css-paint-api-blob-animation/",
+          "publishedOn": "2021-08-30T14:43:42.000Z",
+          "wordCount": 4281,
+          "title": "Exploring the CSS Paint API: Blob Animation"
+        },
+        {
           "id": "https://css-tricks.com/?p=350782",
           "author": "Chris Coyier",
           "description": "That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …\nThe post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -486,6 +504,168 @@
       "feedUrl": "https://reddit.com/r/linux.rss",
       "siteUrl": "https://www.reddit.com/r/linux",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/linux/comments/petyjm/stop_using_social_media_such_as_reddit_or_your/",
+          "author": null,
+          "description": "Linus June 2021 - http://lkml.iu.edu/hypermail/linux/kernel/2106.1/04596.html\n  \nGet vaccinated. Stop believing the anti-vax lies.\n And if you insist on believing in the crazy conspiracy theories, at least SHUT THE HELL UP about it on Linux kernel discussion lists.\n  \nWe're at yet another reddit blackout ran by moderators, this time because of Covid Misinformation on reddit. This is obviously a big problem and the above from Linus states what r/linux moderators feel about on Covid. There is an issue to address with reddit, though, as these blackouts are not a way to work with admins. Other reddit moderators don't seem to want to change how they enable the poor quality job the admins are doing. These blackouts come up here and there, but mods go right back to normal after the admins take th…",
+          "link": "https://www.reddit.com/r/linux/comments/petyjm/stop_using_social_media_such_as_reddit_or_your/",
+          "publishedOn": "2021-08-30T23:34:28.000Z",
+          "wordCount": 613,
+          "title": "Stop using social media (such as reddit) or your usage of social media spreads misinformation, even if you don't share misinformation yourself"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/petrr2/is_debian_still_good_for_gui_stuff_in_an_over_12/",
+          "author": null,
+          "description": "I'll be mainly doing basic stuff like web browsing, e-mails, newsgroups, downloads, listening to audio, watching videos, simple SSH2 server, etc. I currently run updated Debian Jessie v8's KDE which is fine but it doesn't get updates for years so it's time to move on for a clean/new Linux installation. Will getting Bullseye v11 be OK?\n Setup details:\n Intel Core 2 Q8200 (quad-core; default clock speeds; Socket 775 LGA; Yorkfield) with a Scythe Andy Master 120mm CPU cooler (SCASM-1000), Antec Sonata Proto mid tower ATX case, MSI P43 NEO3-F (MSI-7514) motherboard (latest BIOS), two 1 GB of Crucial RAM (Samsung DDR2 800 (PC2-6400; 400 MHz), EVGA NVIDIA GeForce 8800 GT PCIE video card (512 MB of VRAM), onboard RealTek RTL8168C(P)/8111C(P) PCI-E Gigabit Ethernet and Intel High Digital Audio (HDA), 600 watts Sea Sonic S12 PSU, ASUS TV Tuner Card 880 NTSC (cx23880), Pioneer CD/DVD Burner Black SATA Model DVR-218LBK LabelFlash Support, 3.5\" floppy disk drive, Corsair Force Series F115 Solid-State Disk (SSD) (115 GB; CSSD-F115GB2-BRKT-A), two internal 3.5\" SATA hard disk drives (HDDs) [Seagate ST3320620AS 320 GB and Western Digital Purple Surveillance 2 TB (6 Gbs; 50 MB cache; WDC WD20PURX-64P6ZY0)], Sabrent USB2+memory card reader front panel, and an Intel InBusiness 10/100 (82559) NIC (not connected). Running 64-bit Debian (Linux; oldoldstable v8/Jessie; kernel v3.16... x86_64) and updated 64-bit Windows 7 HPE SP1 (installed on 10/22/2016).\n Connected to an old (Y2K) Belkin Omni Cube (2-port; PS/2 and VGA) KVM to share a 23.6\" 16:9 1920x1080 pixels ASUS VS247H-P monitor (LED; 2 ms, 9/2014, etc.), a Dell 104-key PS/2 keyboard, and a three-buttons PS/2 optical Logitech mouse.\n Thank you for reading and hopefully answering soon. :)\n    submitted by    /u/antdude  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/petrr2/is_debian_still_good_for_gui_stuff_in_an_over_12/",
+          "publishedOn": "2021-08-30T23:23:21.000Z",
+          "wordCount": 474,
+          "title": "Is Debian still good for GUI stuff in an over 12 yrs. old PC? Or should I use another Linux distribution?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pet411/looking_to_dual_boot_my_lenovo_ideapad_flex_5/",
+          "author": null,
+          "description": "Like the title says I have a Lenovo IdeaPad Flex 5, and have been tinkering with Linux off of live USBs and want to get an installation on the machine. I've used Ubuntu on and off for the last 10 years and moved back to Windows when I got this laptop. Now that I know Ubuntu will work well on this machine I'm looking at dual booting it.\n It's a 256GB solid state drive, and currently most of it's internal storage is used by Windows. I'm gonna be backing it up to an external hard drive tonight I'm thinking, and am curious about a good setup for partitions.\n Would it be possible to have each operating system as its own partition, with storage that is shared between the two on a third partition? If not, what would be your recommended partition setup?\n    submitted by    /u/SgtRawrface  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pet411/looking_to_dual_boot_my_lenovo_ideapad_flex_5/",
+          "publishedOn": "2021-08-30T22:46:31.000Z",
+          "wordCount": 287,
+          "title": "Looking to dual boot my Lenovo IdeaPad Flex 5, what would the best partition options be?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pesxup/youtubedlgui_version_30/",
+          "author": null,
+          "description": "submitted by    /u/Mordec13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pesxup/youtubedlgui_version_30/",
+          "publishedOn": "2021-08-30T22:37:09.000Z",
+          "wordCount": 116,
+          "title": "Youtubedl-gui: version 3.0"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pess2k/best_pciagp_graphics_cards_for_a_vintage_pentium/",
+          "author": null,
+          "description": "Yes, that's PCI NOT PCIe.\n I have a vintage Pentium III system that I use for older games and software and I'm looking for suggestions for well supported graphics cards. I've tried running a Radeon 9200, 9250 SE and Rage 128, but those cards all use the old radeon driver and performance is far, far worse in Linux than it is in Windows. \n I'm looking for suggestions for cards that are well supported in Linux with good 2D and 3D acceleration (for a system this old). Compatibility with Windows 9x would be a plus as well.\n    submitted by    /u/cudatox  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pess2k/best_pciagp_graphics_cards_for_a_vintage_pentium/",
+          "publishedOn": "2021-08-30T22:28:40.000Z",
+          "wordCount": 438,
+          "title": "Best PCI/AGP graphics cards for a vintage Pentium III Linux system running modern(ish) kernels"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/peo47s/rofi_170_iggy_2024/",
+          "author": null,
+          "description": "submitted by    /u/friskfrugt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/peo47s/rofi_170_iggy_2024/",
+          "publishedOn": "2021-08-30T18:33:07.000Z",
+          "wordCount": 475,
+          "title": "rofi - 1.7.0: Iggy 2024"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pem9bs/bforartists_free_and_open_source_3d_suite/",
+          "author": null,
+          "description": "submitted by    /u/vleeth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pem9bs/bforartists_free_and_open_source_3d_suite/",
+          "publishedOn": "2021-08-30T17:01:34.000Z",
+          "wordCount": 163,
+          "title": "Bforartists free and open source 3D suite available as AppImage"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pejwtg/linuxkernel_archive_git_pull_new_smb3_kernel/",
+          "author": null,
+          "description": "submitted by    /u/nixcraft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pejwtg/linuxkernel_archive_git_pull_new_smb3_kernel/",
+          "publishedOn": "2021-08-30T15:05:52.000Z",
+          "wordCount": 161,
+          "title": "Linux-Kernel Archive: [GIT PULL] new smb3 kernel server (ksmbd)"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pejp15/corctf_2021_fire_of_salvation_writeup_utilizing/",
+          "author": null,
+          "description": "submitted by    /u/speckz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pejp15/corctf_2021_fire_of_salvation_writeup_utilizing/",
+          "publishedOn": "2021-08-30T14:54:49.000Z",
+          "wordCount": 167,
+          "title": "corCTF 2021 Fire of Salvation Writeup: Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pejmou/french_appeal_court_affirms_decision_that/",
+          "author": null,
+          "description": "submitted by    /u/KingStannis2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pejmou/french_appeal_court_affirms_decision_that/",
+          "publishedOn": "2021-08-30T14:51:09.000Z",
+          "wordCount": 1322,
+          "title": "French Appeal Court affirms decision that copyright claims on GPL are invalid; must be enforced via contractual dispute"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pejgaa/a_dirty_fix_for_fake_ps3_controller_bluetooth/",
+          "author": null,
+          "description": "Hi, guys.\n I got a fake PS3 controller.\n I try to use it in bluetooth connection as wiki said, but it doesn't work...\n I try a lot of methods on the internet, no one worked ...\n So I try to read the code of sixaxis ...\n I found that maybe the hid name of fake controller is the problem, and I make a dirty fix.\n It works for my fake controller! It could work in bluetooth mode!\n Patch is here : https://aur.archlinux.org/cgit/aur.git/tree/fake-ps3.patch?h=bluez-plugins-fix\n With this patch \"Authorize service\" will ask!\n Install it and do as wiki said, maybe will work for your fake PS3 controller.\n If you have a fake PS3 controller like me, have a try!\n    submitted by    /u/ragecooky  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pejgaa/a_dirty_fix_for_fake_ps3_controller_bluetooth/",
+          "publishedOn": "2021-08-30T14:41:49.000Z",
+          "wordCount": 515,
+          "title": "A dirty fix for fake PS3 controller bluetooth"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pehwuz/pureos_a_pure_linux_phone_experience/",
+          "author": null,
+          "description": "submitted by    /u/modelop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pehwuz/pureos_a_pure_linux_phone_experience/",
+          "publishedOn": "2021-08-30T13:18:36.000Z",
+          "wordCount": 269,
+          "title": "PureOS - a pure Linux phone experience"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pehvob/linux_in_a_pixel_shader_a_riscv_emulator_for/",
+          "author": null,
+          "description": "submitted by    /u/modelop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pehvob/linux_in_a_pixel_shader_a_riscv_emulator_for/",
+          "publishedOn": "2021-08-30T13:16:38.000Z",
+          "wordCount": 142,
+          "title": "Linux in a Pixel Shader - A RISC-V Emulator for VRChat"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pehv53/how_i_switched_from_macos_to_linux_after_15_years/",
+          "author": null,
+          "description": "submitted by    /u/modelop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pehv53/how_i_switched_from_macos_to_linux_after_15_years/",
+          "publishedOn": "2021-08-30T13:15:44.000Z",
+          "wordCount": 176,
+          "title": "How I switched from macOS to Linux after 15 years of Apple"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/peh6q7/call_for_sessions_for_linuxconfau_closes_5th/",
+          "author": null,
+          "description": "submitted by    /u/kathyreid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/peh6q7/call_for_sessions_for_linuxconfau_closes_5th/",
+          "publishedOn": "2021-08-30T12:33:57.000Z",
+          "wordCount": 136,
+          "title": "Call for Sessions for linux.conf.au - closes 5th September"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/peglqz/libreelec_100_minimal_linux_os_for_media_playback/",
+          "author": null,
+          "description": "submitted by    /u/ouyawei  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/peglqz/libreelec_100_minimal_linux_os_for_media_playback/",
+          "publishedOn": "2021-08-30T11:56:45.000Z",
+          "wordCount": 283,
+          "title": "LibreELEC 10.0, minimal Linux OS for media playback released with Kodi 19.1"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/peb815/serious_how_linux_on_hdd_is_nearly_as_fast_as/",
+          "author": null,
+          "description": "Looking for serious answers only. Please.\n I was a windows fan. Used it for years. A few months back, my SSD crashed. Windows on HDD was too painful for me, so I switched to ubuntu then pop. \n ​\n Except for boot time, Linux on hdd can match windows on ssd. I am talking about app load time, switching in between, multitasking and all. \n ​\n How? And why hasn't windows copied it yet? \n p.s. Package manager is a god send. Period. Just too good.\n    submitted by    /u/GoodWill_returns  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/peb815/serious_how_linux_on_hdd_is_nearly_as_fast_as/",
+          "publishedOn": "2021-08-30T04:49:05.000Z",
+          "wordCount": 841,
+          "title": "[serious] How Linux on HDD is nearly as fast as Windows on SSD?"
+        },
+        {
+          "id": "https://www.reddit.com/r/linux/comments/pe7r4q/has_anybody_tried_to_run_linux_directly_as_uefi/",
+          "author": null,
+          "description": "I was just thinking about this, is there anything actually stopping somebody from just flashing a linux OS/kernel directly onto a motherboards firmware besides maybe like space? Has anybody tried to do this?\n Not really much different then just running linux in an embedded environment right? Could Linux theoretically then start up a bootloader and run another Linux OS? With the bottom Linux being responsible for all the UEFI stuff and the Linux running ontop of that being responsible for all the regular OS stuff?\n Honestly it probably wouldn't even be that bad of a thing to run on a regular desktop directly from the firmware (in a user experience kind of way), I'd guess you could still use your disk for storage and /home and stuff, just the kernel and probably the initramfs would be flashed to your UEFI.\n    submitted by    /u/Sol33t303  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/linux/comments/pe7r4q/has_anybody_tried_to_run_linux_directly_as_uefi/",
+          "publishedOn": "2021-08-30T00:58:34.000Z",
+          "wordCount": 913,
+          "title": "Has anybody tried to run Linux directly as UEFI firmware?"
+        },
         {
           "id": "https://www.reddit.com/r/linux/comments/pe6vay/its_all_good_until_that/",
           "author": null,
@@ -4346,15 +4526,6 @@
           "publishedOn": "2021-08-01T12:37:35.000Z",
           "wordCount": 446,
           "title": "Hi everyone! What do you think about my Linux Mint concept redesign? P.S. the brown color symbolizes cinnamon :D"
-        },
-        {
-          "id": "https://www.reddit.com/r/linux/comments/ov8jsf/firefox_lost_50m_users_since_2019_why_are_users/",
-          "author": null,
-          "description": "submitted by    /u/nixcraft  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/linux/comments/ov8jsf/firefox_lost_50m_users_since_2019_why_are_users/",
-          "publishedOn": "2021-07-31T14:53:52.000Z",
-          "wordCount": 932,
-          "title": "Firefox lost 50M users since 2019. Why are users switching to Chrome and clones? Is this because when you visit Google and MS properties from FF, they promote their browsers via ads?"
         }
       ]
     },
@@ -4363,6 +4534,204 @@
       "feedUrl": "https://reddit.com/r/piercednipples.rss",
       "siteUrl": "https://www.reddit.com/r/piercednipples",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peul4d/verification_post/",
+          "author": null,
+          "description": "submitted by    /u/didyoubringanyweed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peul4d/verification_post/",
+          "publishedOn": "2021-08-31T00:10:59.000Z",
+          "wordCount": 91,
+          "title": "Verification post 😊"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peu22v/now_i_just_need_help_in_two_more_places/",
+          "author": null,
+          "description": "submitted by    /u/didyoubringanyweed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peu22v/now_i_just_need_help_in_two_more_places/",
+          "publishedOn": "2021-08-30T23:40:20.000Z",
+          "wordCount": 97,
+          "title": "Now I just need help in two more places"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/petp32/who_doesnt_like_playing_with_pierced_nipples_5/",
+          "author": null,
+          "description": "submitted by    /u/lyssababyx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/petp32/who_doesnt_like_playing_with_pierced_nipples_5/",
+          "publishedOn": "2021-08-30T23:19:09.000Z",
+          "wordCount": 99,
+          "title": "Who doesn’t like playing with pierced nipples 😈😈5% off first month"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peqvx2/two_perfect_mouthfuls_for_you_oflucyfera369/",
+          "author": null,
+          "description": "submitted by    /u/lucyfera369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peqvx2/two_perfect_mouthfuls_for_you_oflucyfera369/",
+          "publishedOn": "2021-08-30T20:50:42.000Z",
+          "wordCount": 94,
+          "title": "Two, perfect mouthfuls for you😌 OF@lucyfera369"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peqtsu/my_sweet_slut_complied_and_drove_from_work/",
+          "author": null,
+          "description": "submitted by    /u/Sir_Daddy_Mac  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peqtsu/my_sweet_slut_complied_and_drove_from_work/",
+          "publishedOn": "2021-08-30T20:47:48.000Z",
+          "wordCount": 100,
+          "title": "My sweet Slut complied, and drove from work showing her pierced nipples"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peq5jy/hope_one_is_good_enough_for_you_all/",
+          "author": null,
+          "description": "submitted by    /u/3Holes_1Pole  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peq5jy/hope_one_is_good_enough_for_you_all/",
+          "publishedOn": "2021-08-30T20:14:17.000Z",
+          "wordCount": 96,
+          "title": "Hope one is good enough for you all😚"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pepcvo/freshly_showered_pierced_nipples_cum_plant_your/",
+          "author": null,
+          "description": "submitted by    /u/Laci_Aioki  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pepcvo/freshly_showered_pierced_nipples_cum_plant_your/",
+          "publishedOn": "2021-08-30T19:34:08.000Z",
+          "wordCount": 98,
+          "title": "Freshly showered pierced nipples. Cum plant your face in this."
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peouup/would_you_like_to_be_on_my_morning_commute/",
+          "author": null,
+          "description": "submitted by    /u/Michirose96  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peouup/would_you_like_to_be_on_my_morning_commute/",
+          "publishedOn": "2021-08-30T19:08:58.000Z",
+          "wordCount": 97,
+          "title": "Would you like to be on my morning commute?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peo6gv/nip_slip/",
+          "author": null,
+          "description": "submitted by    /u/CarmillaKai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peo6gv/nip_slip/",
+          "publishedOn": "2021-08-30T18:36:14.000Z",
+          "wordCount": 90,
+          "title": "Nip slip"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pems75/hot_devil/",
+          "author": null,
+          "description": "submitted by    /u/SonOfTheAbbot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pems75/hot_devil/",
+          "publishedOn": "2021-08-30T17:27:51.000Z",
+          "wordCount": 90,
+          "title": "Hot Devil"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pemhms/f20_im_new_here/",
+          "author": null,
+          "description": "submitted by    /u/modelxmeg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pemhms/f20_im_new_here/",
+          "publishedOn": "2021-08-30T17:13:20.000Z",
+          "wordCount": 92,
+          "title": "F20 I’m new here!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pel615/mesh_lingerie_and_pierced_nipples_are_a_dangerous/",
+          "author": null,
+          "description": "submitted by    /u/Justboredin614  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pel615/mesh_lingerie_and_pierced_nipples_are_a_dangerous/",
+          "publishedOn": "2021-08-30T16:08:31.000Z",
+          "wordCount": 98,
+          "title": "Mesh lingerie and pierced nipples are a dangerous combination 😂😅😅"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pekfzk/suck_on_my_nipples/",
+          "author": null,
+          "description": "submitted by    /u/OF-zbabyy2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pekfzk/suck_on_my_nipples/",
+          "publishedOn": "2021-08-30T15:32:41.000Z",
+          "wordCount": 93,
+          "title": "suck on my nipples 👅"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pekbnl/its_my_first_post_whatcha_think/",
+          "author": null,
+          "description": "submitted by    /u/YardLazy9547  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pekbnl/its_my_first_post_whatcha_think/",
+          "publishedOn": "2021-08-30T15:26:35.000Z",
+          "wordCount": 94,
+          "title": "It's my first post. Whatcha think?💋"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pej71a/does_anyone_wanna_cuddlenot_sure_where_my_hands/",
+          "author": null,
+          "description": "submitted by    /u/Mjz1984  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pej71a/does_anyone_wanna_cuddlenot_sure_where_my_hands/",
+          "publishedOn": "2021-08-30T14:28:11.000Z",
+          "wordCount": 98,
+          "title": "Does anyone wanna cuddle...not sure where my hands might go"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pegmk7/happy_monday/",
+          "author": null,
+          "description": "submitted by    /u/PurpleKitKat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pegmk7/happy_monday/",
+          "publishedOn": "2021-08-30T11:58:21.000Z",
+          "wordCount": 91,
+          "title": "Happy Monday 😊"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/peb6ek/how_are_they_looking_today/",
+          "author": null,
+          "description": "submitted by    /u/Jessica_Miles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/peb6ek/how_are_they_looking_today/",
+          "publishedOn": "2021-08-30T04:45:55.000Z",
+          "wordCount": 93,
+          "title": "How are they looking today?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pea2kz/hope_you_dont_mind_my_messy_bun/",
+          "author": null,
+          "description": "submitted by    /u/kaykaysprettyOF  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pea2kz/hope_you_dont_mind_my_messy_bun/",
+          "publishedOn": "2021-08-30T03:28:23.000Z",
+          "wordCount": 95,
+          "title": "Hope you don’t mind my messy bun!"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pe9jyh/yall_my_tits_are_perfect/",
+          "author": null,
+          "description": "submitted by    /u/lucyfera369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pe9jyh/yall_my_tits_are_perfect/",
+          "publishedOn": "2021-08-30T02:54:38.000Z",
+          "wordCount": 93,
+          "title": "Y’all, my tits are perfect🤭"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pe99cy/this_is_what_happens_when_a_milf_and_a_cougar/",
+          "author": null,
+          "description": "submitted by    /u/Kitty__Sprinkles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pe99cy/this_is_what_happens_when_a_milf_and_a_cougar/",
+          "publishedOn": "2021-08-30T02:34:54.000Z",
+          "wordCount": 103,
+          "title": "This is what happens when a MILF and a Cougar play in the pool (=^•^=)"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pe992y/do_my_small_tits_look_good_pierced/",
+          "author": null,
+          "description": "submitted by    /u/dancingcanadian  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pe992y/do_my_small_tits_look_good_pierced/",
+          "publishedOn": "2021-08-30T02:34:21.000Z",
+          "wordCount": 95,
+          "title": "Do my small tits look good pierced?"
+        },
+        {
+          "id": "https://www.reddit.com/r/piercednipples/comments/pe88nu/posting_to_distract_from_sunday_scaries/",
+          "author": null,
+          "description": "submitted by    /u/beccabroadbabe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/piercednipples/comments/pe88nu/posting_to_distract_from_sunday_scaries/",
+          "publishedOn": "2021-08-30T01:29:24.000Z",
+          "wordCount": 94,
+          "title": "posting to distract from sunday scaries"
+        },
         {
           "id": "https://www.reddit.com/r/piercednipples/comments/pe64uj/one_of_the_best_decisions_in_my_whole_life_dont/",
           "author": null,
@@ -9932,6 +10301,222 @@
       "feedUrl": "https://reddit.com/r/preggoporn.rss",
       "siteUrl": "https://www.reddit.com/r/preggoporn",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/petv8l/check_out_the_belly_button_throwback_1_year_ago/",
+          "author": null,
+          "description": "submitted by    /u/Mousedriver  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/petv8l/check_out_the_belly_button_throwback_1_year_ago/",
+          "publishedOn": "2021-08-30T23:29:07.000Z",
+          "wordCount": 98,
+          "title": "Check out the belly button 🤣 throwback 1 year ago😆"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pet878/a_little_pregnancy_throwback/",
+          "author": null,
+          "description": "submitted by    /u/uprincesspeach  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pet878/a_little_pregnancy_throwback/",
+          "publishedOn": "2021-08-30T22:52:52.000Z",
+          "wordCount": 92,
+          "title": "👑a little pregnancy throwback"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pet7kj/swipe_to_reveal_my_pregnant_pussy_i_am_loving_my/",
+          "author": null,
+          "description": "submitted by    /u/LilRonnieRae  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pet7kj/swipe_to_reveal_my_pregnant_pussy_i_am_loving_my/",
+          "publishedOn": "2021-08-30T22:51:52.000Z",
+          "wordCount": 109,
+          "title": "Swipe to reveal my pregnant pussy! I am loving my curves in this dress but what’s under is even better 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peslvt/first_time_post_i_would_like_to_show_daddy_that/",
+          "author": null,
+          "description": "submitted by    /u/innocentgirl24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peslvt/first_time_post_i_would_like_to_show_daddy_that/",
+          "publishedOn": "2021-08-30T22:19:14.000Z",
+          "wordCount": 103,
+          "title": "First time post. I would like to show daddy that others would fuck me ☺️"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pesehe/im_covering_the_little_drop_of_milk_that_already/",
+          "author": null,
+          "description": "submitted by    /u/Flirty4Flowers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pesehe/im_covering_the_little_drop_of_milk_that_already/",
+          "publishedOn": "2021-08-30T22:08:23.000Z",
+          "wordCount": 99,
+          "title": "I'm covering the little drop of milk that already came out"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peryno/wolverine_titty_drop_for_yall/",
+          "author": null,
+          "description": "submitted by    /u/Scarlettrose729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peryno/wolverine_titty_drop_for_yall/",
+          "publishedOn": "2021-08-30T21:45:16.000Z",
+          "wordCount": 94,
+          "title": "Wolverine titty drop for y’all 👅"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peopi3/heres_my_submission_for_verification/",
+          "author": null,
+          "description": "submitted by    /u/No-Education-483  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peopi3/heres_my_submission_for_verification/",
+          "publishedOn": "2021-08-30T19:01:39.000Z",
+          "wordCount": 94,
+          "title": "here’s my submission for verification 😉"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peoai5/mom_of_3_decided_to_dress_up_today/",
+          "author": null,
+          "description": "submitted by    /u/Sexikandi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peoai5/mom_of_3_decided_to_dress_up_today/",
+          "publishedOn": "2021-08-30T18:41:39.000Z",
+          "wordCount": 96,
+          "title": "Mom of 3 decided to dress up today"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pen4f1/f30_and_preggo/",
+          "author": null,
+          "description": "submitted by    /u/happycouple805  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pen4f1/f30_and_preggo/",
+          "publishedOn": "2021-08-30T17:44:21.000Z",
+          "wordCount": 91,
+          "title": "F30 and preggo"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pem1q5/27_weeks_woooo/",
+          "author": null,
+          "description": "submitted by    /u/worshipmyboobies  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pem1q5/27_weeks_woooo/",
+          "publishedOn": "2021-08-30T16:51:05.000Z",
+          "wordCount": 91,
+          "title": "27 weeks woooo."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pelzgd/i_wish_you_could_taste_how_sweet_my_pregnant/",
+          "author": null,
+          "description": "submitted by    /u/zxeyxxx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pelzgd/i_wish_you_could_taste_how_sweet_my_pregnant/",
+          "publishedOn": "2021-08-30T16:47:52.000Z",
+          "wordCount": 99,
+          "title": "i wish you could taste how sweet my pregnant pussy is🥰"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pelgco/almost_31_weeks_treated_myself_to_a_photo_shoot/",
+          "author": null,
+          "description": "submitted by    /u/mama4funx3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pelgco/almost_31_weeks_treated_myself_to_a_photo_shoot/",
+          "publishedOn": "2021-08-30T16:22:13.000Z",
+          "wordCount": 109,
+          "title": "Almost 31 weeks! Treated myself to a photo shoot this morning, and a beautiful squirty orgasm or 3 to celebrate 😍"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pekakl/throwback_to_my_first_pregnancy/",
+          "author": null,
+          "description": "submitted by    /u/IntheStars802  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pekakl/throwback_to_my_first_pregnancy/",
+          "publishedOn": "2021-08-30T15:25:10.000Z",
+          "wordCount": 93,
+          "title": "Throwback to my first pregnancy!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peipab/empty_these_for_me_and_ill_give_you_whatever_you/",
+          "author": null,
+          "description": "submitted by    /u/subMRSwife  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peipab/empty_these_for_me_and_ill_give_you_whatever_you/",
+          "publishedOn": "2021-08-30T14:02:22.000Z",
+          "wordCount": 99,
+          "title": "Empty these for me and I’ll give you whatever you want"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peioxc/feeling_huge_and_extra_cute_for_12_weeks/",
+          "author": null,
+          "description": "submitted by    /u/SweetKelseyXO_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peioxc/feeling_huge_and_extra_cute_for_12_weeks/",
+          "publishedOn": "2021-08-30T14:01:50.000Z",
+          "wordCount": 97,
+          "title": "Feeling huge (and extra cute) for 12 weeks! 💙"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peik24/be_my_new_favorite_ride/",
+          "author": null,
+          "description": "submitted by    /u/SkylarFawne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peik24/be_my_new_favorite_ride/",
+          "publishedOn": "2021-08-30T13:54:52.000Z",
+          "wordCount": 93,
+          "title": "Be my new favorite ride"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pei8fd/i_know_this_pregnant_body_turns_you_on/",
+          "author": null,
+          "description": "submitted by    /u/Lyslyss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pei8fd/i_know_this_pregnant_body_turns_you_on/",
+          "publishedOn": "2021-08-30T13:36:45.000Z",
+          "wordCount": 97,
+          "title": "I know this pregnant body turns you on …"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pehwyf/you_like/",
+          "author": null,
+          "description": "submitted by    /u/Lyslyss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pehwyf/you_like/",
+          "publishedOn": "2021-08-30T13:18:47.000Z",
+          "wordCount": 91,
+          "title": "You like ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pehcl0/fun_to_play_with/",
+          "author": null,
+          "description": "submitted by    /u/_danika_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pehcl0/fun_to_play_with/",
+          "publishedOn": "2021-08-30T12:44:20.000Z",
+          "wordCount": 92,
+          "title": "Fun to play with!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/peh373/the_view_you_get_when_you_have_a_pregnant_mom/",
+          "author": null,
+          "description": "submitted by    /u/thefunmilf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/peh373/the_view_you_get_when_you_have_a_pregnant_mom/",
+          "publishedOn": "2021-08-30T12:27:41.000Z",
+          "wordCount": 101,
+          "title": "The view you get when you have a pregnant mom craving your dick!"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pefc9m/_/",
+          "author": null,
+          "description": "submitted by    /u/AngelBusty69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pefc9m/_/",
+          "publishedOn": "2021-08-30T10:25:20.000Z",
+          "wordCount": 89,
+          "title": "🤤"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/ped013/old_pic/",
+          "author": null,
+          "description": "submitted by    /u/danifloydd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/ped013/old_pic/",
+          "publishedOn": "2021-08-30T07:08:07.000Z",
+          "wordCount": 91,
+          "title": "Old pic 😌"
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pe9jxj/you_guys_will_probably_appreciate_this_more_than/",
+          "author": null,
+          "description": "submitted by    /u/arielababy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pe9jxj/you_guys_will_probably_appreciate_this_more_than/",
+          "publishedOn": "2021-08-30T02:54:34.000Z",
+          "wordCount": 98,
+          "title": "You guys will probably appreciate this more than my husband.."
+        },
+        {
+          "id": "https://www.reddit.com/r/PreggoPorn/comments/pe7lm7/round/",
+          "author": null,
+          "description": "submitted by    /u/heyitsmebeez  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/PreggoPorn/comments/pe7lm7/round/",
+          "publishedOn": "2021-08-30T00:48:17.000Z",
+          "wordCount": 89,
+          "title": "round"
+        },
         {
           "id": "https://www.reddit.com/r/PreggoPorn/comments/pe6bej/my_belly_is_getting_bigger_everyday/",
           "author": null,
