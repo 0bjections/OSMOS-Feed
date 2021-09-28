@@ -2,10 +2,728 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://0bjections.github.io/OSMOS-Feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T00:17:18.512Z</updated>
+    <updated>2021-09-28T00:18:01.373Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://0bjections.github.io/OSMOS-Feed/index.html"/>
     <link rel="self" href="https://0bjections.github.io/OSMOS-Feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A terminal spreadsheet multitool for discovering and arranging data]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwtymx/a_terminal_spreadsheet_multitool_for_discovering/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwtymx/a_terminal_spreadsheet_multitool_for_discovering/"/>
+        <updated>2021-09-28T00:01:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/binaryfor  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before pregnancy, during, an after.]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwthze/before_pregnancy_during_an_after/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwthze/before_pregnancy_during_an_after/"/>
+        <updated>2021-09-27T23:35:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ourthrowaway321  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[that sharp intake of breath when two drives fall out of your raidz2]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwsm2l/that_sharp_intake_of_breath_when_two_drives_fall/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwsm2l/that_sharp_intake_of_breath_when_two_drives_fall/"/>
+        <updated>2021-09-27T22:48:04.000Z</updated>
+        <summary type="html"><![CDATA[i've had the same thing happen on an mdadm raid6, with the same pleasant results. both drives likely just came loose (i'm also down an NVMe m.2) while i was putting two new NVMes in last night, but still, always good to see that this stuff all works.
+ ​
+ [schwarzgerat](2) $ zpool list -v NAME SIZE ALLOC FREE CKPOINT EXPANDSZ FRAG CAP DEDUP HEALTH ALTROOT chungus 98.2T 69.2T 29.0T - - 3% 70% 1.00x DEGRADED - raidz2 98.2T 69.2T 29.0T - - 3% 70.5% - DEGRADED wwn-0x5000c500a5c0e61d - - - - - - - - ONLINE wwn-0x5000c500b3f4afb4 - - - - - - - - ONLINE wwn-0x5000c500b4104bf5 - - - - - - - - ONLINE wwn-0x5000c500b4984eca - - - - - - - - ONLINE wwn-0x5000c500b49867e5 - - - - - - - - ONLINE 7445641775214390936 - - - - - - - - UNAVAIL wwn-0x5000c500b56936d2 - - - - - - - - ONLINE wwn-0x5000c500b56a29d4 - - - - - - - - ONLINE 1264427918461701550 - - - - - - - - UNAVAIL zhomez 824G 707G 117G - - 42% 85% 1.00x DEGRADED - mirror 824G 707G 117G - - 42% 85.8% - DEGRADED 6260524301877159837 - - - - - - - - UNAVAIL nvme-WDS100T3X0C-00SJG0_1908E1805012-part3 - - - - - - - - ONLINE [schwarzgerat](0) $ lsscsi [0:0:0:0] disk ATA ST12000NM0007-2A SN02 /dev/sdb [0:0:1:0] disk ATA ST12000NM0007-2A SN02 /dev/sda [0:0:2:0] disk ATA ST12000NM0007-2A SN02 /dev/sdc [0:0:3:0] disk ATA ST12000NM0007-2A SN02 /dev/sdd [0:0:4:0] cd/dvd ATAPI iHBS112 2 CL0F /dev/sr0 [0:0:5:0] disk ATA ST12000NM0007-2A SN02 /dev/sde [1:0:0:0] disk ATA ST12000NM0007-2A SN02 /dev/sdg [2:0:0:0] disk ATA ST12000NM0007-2A SN03 /dev/sdf [N:0:8215:1] disk WDS100T3X0C-00SJG0__1 /dev/nvme0n1 [N:1:4:1] disk Samsung SSD 970 EVO Plus 2TB__1 /dev/nvme1n1 [N:2:0:1] disk INTEL MEMPEK1W016GA__1 /dev/nvme2n1 [N:3:4:1] disk Samsung SSD 970 EVO Plus 2TB__1 /dev/nvme3n1 [schwarzgerat](0) $ 
+    submitted by    /u/sosodank  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I switched from Windows to Linux (Fedora i3) a week ago and I just want to say, wow. Linux is amazing.]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwslky/i_switched_from_windows_to_linux_fedora_i3_a_week/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwslky/i_switched_from_windows_to_linux_fedora_i3_a_week/"/>
+        <updated>2021-09-27T22:47:22.000Z</updated>
+        <summary type="html"><![CDATA[I’m honestly blown away with the power and control I have when compared to Windows. I’ve been spending hours every day learning Linux and i3 and Fedora and finally feel like I have a strong grasp of everything and am comfortable in the terminal. It’s so cool!
+    submitted by    /u/DunamisMax  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[message me if you wanna breed me next (;]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwsisl/message_me_if_you_wanna_breed_me_next/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwsisl/message_me_if_you_wanna_breed_me_next/"/>
+        <updated>2021-09-27T22:43:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CarterNH69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Kernel 5.11.0-37 is having issues with hardware drivers]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwsick/new_kernel_511037_is_having_issues_with_hardware/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwsick/new_kernel_511037_is_having_issues_with_hardware/"/>
+        <updated>2021-09-27T22:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Today I updated my Dell XPS 15 9510 from Ubuntu 21.04 with kernel 5.11.0-36 to the new (that was advertised today morning) 5.11.0-37, after reboot the Wireless card, bluetooth, graphics (Intel and Nvidia), Webcam, etc. ALL stopped working, I had to restore the previous kernel to make it work. I just read another post from another user with a Dell XPS 13 9310 with the exact same problem as mine.
+    submitted by    /u/brosenz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First pic where it's clearly baby and not just all those cinnamon buns]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwsdpc/first_pic_where_its_clearly_baby_and_not_just_all/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwsdpc/first_pic_where_its_clearly_baby_and_not_just_all/"/>
+        <updated>2021-09-27T22:35:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TheFrenchMuse  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feels so good rubbing my soapy pierced nipples!]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwrtlx/feels_so_good_rubbing_my_soapy_pierced_nipples/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwrtlx/feels_so_good_rubbing_my_soapy_pierced_nipples/"/>
+        <updated>2021-09-27T22:06:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hwpbdl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May not look it but we’re almost half way through!]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwrrj9/may_not_look_it_but_were_almost_half_way_through/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwrrj9/may_not_look_it_but_were_almost_half_way_through/"/>
+        <updated>2021-09-27T22:03:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Mamawithgoodiess  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need someone to shower and more]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwrq9v/need_someone_to_shower_and_more/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwrq9v/need_someone_to_shower_and_more/"/>
+        <updated>2021-09-27T22:01:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CouplePA2808  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[verification]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwrnr8/verification/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwrnr8/verification/"/>
+        <updated>2021-09-27T21:58:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CarterNH69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loving this new jewelry]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwrgr6/loving_this_new_jewelry/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwrgr6/loving_this_new_jewelry/"/>
+        <updated>2021-09-27T21:48:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CarKeysBaby  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaaand the GIF version :D Messed up in my previous post lol, sorry!]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwr64c/aaaand_the_gif_version_d_messed_up_in_my_previous/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwr64c/aaaand_the_gif_version_d_messed_up_in_my_previous/"/>
+        <updated>2021-09-27T21:33:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/misssandyshores  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you wanna fuck this mom of three?]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwr4d5/would_you_wanna_fuck_this_mom_of_three/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwr4d5/would_you_wanna_fuck_this_mom_of_three/"/>
+        <updated>2021-09-27T21:31:05.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Witchxcraftxfaded  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaaand the GIF version :D Messed up in my previous post lol, sorry!]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwr26w/aaaand_the_gif_version_d_messed_up_in_my_previous/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwr26w/aaaand_the_gif_version_d_messed_up_in_my_previous/"/>
+        <updated>2021-09-27T21:28:20.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/misssandyshores  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OF@misssandyshores Someone needs to come tittyfuck me 🥵]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwqk0x/ofmisssandyshores_someone_needs_to_come_tittyfuck/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwqk0x/ofmisssandyshores_someone_needs_to_come_tittyfuck/"/>
+        <updated>2021-09-27T21:04:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/misssandyshores  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bcachefs snapshots merged [into the development version]]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwq8qy/bcachefs_snapshots_merged_into_the_development/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwq8qy/bcachefs_snapshots_merged_into_the_development/"/>
+        <updated>2021-09-27T20:49:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/EarthyFeet  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I took this on red head appreciation day]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwppom/i_took_this_on_red_head_appreciation_day/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwppom/i_took_this_on_red_head_appreciation_day/"/>
+        <updated>2021-09-27T20:24:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MrsRepsOG  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just a little Aussie blessing your screens]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwpnox/just_a_little_aussie_blessing_your_screens/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwpnox/just_a_little_aussie_blessing_your_screens/"/>
+        <updated>2021-09-27T20:21:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/joneb04  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nude shoot 4.5 months pregnant]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwpms3/nude_shoot_45_months_pregnant/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwpms3/nude_shoot_45_months_pregnant/"/>
+        <updated>2021-09-27T20:20:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MissElAmbrosia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you still eat me out later on in pregnancy?]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwp9a5/would_you_still_eat_me_out_later_on_in_pregnancy/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwp9a5/would_you_still_eat_me_out_later_on_in_pregnancy/"/>
+        <updated>2021-09-27T20:02:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Naughtybutnice96  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naughty flashes make me horny]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwosd1/naughty_flashes_make_me_horny/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwosd1/naughty_flashes_make_me_horny/"/>
+        <updated>2021-09-27T19:40:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/YourSecretSlut-x  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slippery tits 🙈]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwoey0/slippery_tits/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwoey0/slippery_tits/"/>
+        <updated>2021-09-27T19:23:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/goodcowgirl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you like role plays as much as I do?🙈💕]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwo5vu/do_you_like_role_plays_as_much_as_i_do/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwo5vu/do_you_like_role_plays_as_much_as_i_do/"/>
+        <updated>2021-09-27T19:11:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Gold_Worker_6232  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fill me up 😈]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwo5gp/fill_me_up/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwo5gp/fill_me_up/"/>
+        <updated>2021-09-27T19:10:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/EvieRae-  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing Void Linux with a Serial Terminal]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwnzln/installing_void_linux_with_a_serial_terminal/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwnzln/installing_void_linux_with_a_serial_terminal/"/>
+        <updated>2021-09-27T19:03:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/djsumdog  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your hands on these sweet perky tits of mine]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwnxbk/your_hands_on_these_sweet_perky_tits_of_mine/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwnxbk/your_hands_on_these_sweet_perky_tits_of_mine/"/>
+        <updated>2021-09-27T19:00:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Then-Zookeepergame67  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tonic (Component Framework)]]></title>
+        <id>https://css-tricks.com/?p=352621</id>
+        <link href="https://css-tricks.com/tonic-component-framework/"/>
+        <updated>2021-09-27T18:52:46.000Z</updated>
+        <summary type="html"><![CDATA[I enjoy little frameworks like Tonic. It’s essentially syntactic sugar over <web-components /> to make them feel easier to use. Define a Class, template literal an HTML template, probably some other fancy helpers, and you’ve got a component …
+The post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made this stupid on-off-switch, hope it helps someone. Suggestions/critics are welcome.]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwniss/i_made_this_stupid_onoffswitch_hope_it_helps/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwniss/i_made_this_stupid_onoffswitch_hope_it_helps/"/>
+        <updated>2021-09-27T18:40:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/37TS  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly done 🤩 so glad I got them❣️]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwn3l6/newly_done_so_glad_i_got_them/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwn3l6/newly_done_so_glad_i_got_them/"/>
+        <updated>2021-09-27T18:20:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/LeciLou11  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you be able to concentrate with me at the front of your class …?]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwn22m/would_you_be_able_to_concentrate_with_me_at_the/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwn22m/would_you_be_able_to_concentrate_with_me_at_the/"/>
+        <updated>2021-09-27T18:18:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bananabred212  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm available tonight for you! s-n-p: karlalily21]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwn0h2/im_available_tonight_for_you_snp_karlalily21/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwn0h2/im_available_tonight_for_you_snp_karlalily21/"/>
+        <updated>2021-09-27T18:16:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/karla-oli  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers: Let distros do their job]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwmn1p/developers_let_distros_do_their_job/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwmn1p/developers_let_distros_do_their_job/"/>
+        <updated>2021-09-27T17:59:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/drewdevault  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wanna fuck this first time milf?]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwl90g/wanna_fuck_this_first_time_milf/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwl90g/wanna_fuck_this_first_time_milf/"/>
+        <updated>2021-09-27T16:52:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/zxeyxxx  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mommy long legs, 6'2.]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwl120/mommy_long_legs_62/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwl120/mommy_long_legs_62/"/>
+        <updated>2021-09-27T16:41:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/heyitsmebeez  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doing all of this for him, hope he's enjoying it! Are you guys enjoying it too? Only about a month left to worship these curves!]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwl0cv/doing_all_of_this_for_him_hope_hes_enjoying_it/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwl0cv/doing_all_of_this_for_him_hope_hes_enjoying_it/"/>
+        <updated>2021-09-27T16:40:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BlondieAndTheBeast69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love being on top]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwkwe4/love_being_on_top/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwkwe4/love_being_on_top/"/>
+        <updated>2021-09-27T16:35:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Greedy-Salary-1251  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a music streaming app inspired by proprietary chatbots!]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwklrc/i_made_a_music_streaming_app_inspired_by/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwklrc/i_made_a_music_streaming_app_inspired_by/"/>
+        <updated>2021-09-27T16:21:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/aSolidTime  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[37 weeks along and I’m beyond horny 🥺 OF-sunprincess3630]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwjrtw/37_weeks_along_and_im_beyond_horny/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwjrtw/37_weeks_along_and_im_beyond_horny/"/>
+        <updated>2021-09-27T15:42:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sunprincess3630  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Come fill that pregnant pussy with cum then let me taste it?]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwjls7/come_fill_that_pregnant_pussy_with_cum_then_let/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwjls7/come_fill_that_pregnant_pussy_with_cum_then_let/"/>
+        <updated>2021-09-27T15:33:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/iammeela  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you guys like milf mamas in scrubs? 💓]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwji0v/do_you_guys_like_milf_mamas_in_scrubs/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwji0v/do_you_guys_like_milf_mamas_in_scrubs/"/>
+        <updated>2021-09-27T15:28:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lavendercrystalmoon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collecting Email Signups With the Notion API]]></title>
+        <id>https://css-tricks.com/?p=352211</id>
+        <link href="https://css-tricks.com/collecting-email-signups-with-the-notion-api/"/>
+        <updated>2021-09-27T15:26:01.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people these days are setting up their own newsletters. You’ve got the current big names like Substack and MailChimp, companies like Twitter are getting into it with Revue, and even Facebook is getting into the …
+The post Collecting Email Signups With the Notion API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ravgeet Dhillon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My wife gets sexier by the day, I love her pregnant body.]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwj9kh/my_wife_gets_sexier_by_the_day_i_love_her/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwj9kh/my_wife_gets_sexier_by_the_day_i_love_her/"/>
+        <updated>2021-09-27T15:17:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Brief-Ad-5305  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JC Now Supports Streaming to JSON Lines! JC Converts Command Output to JSON or JSON Lines for Easier Parsing in Scripts.]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwikpy/jc_now_supports_streaming_to_json_lines_jc/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwikpy/jc_now_supports_streaming_to_json_lines_jc/"/>
+        <updated>2021-09-27T14:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Release notes: https://blog.kellybrazil.com/2021/09/26/jc-version-1-17-0-released/
+ Github: https://github.com/kellyjonbrazil/jc
+ I'm very happy to release v1.17.0 of jc which now supports streaming parsers that output JSON Lines. This results in much less memory consumption and faster output when converting huge amounts of command output (e.g. ls -lR /).
+ This is also great for commands that can have unlimited output, like ping and vmstat 1.
+ $ ping 1.1.1.1 | jc --ping-s {"type":"reply","destination_ip":"1.1.1.1","sent_bytes":56,"pattern":null,"response_bytes":64,"response_ip":"1.1.1.1","icmp_seq":0,"ttl":56,"time_ms":22.322} {"type":"reply","destination_ip":"1.1.1.1","sent_bytes":56,"pattern":null,"response_bytes":64,"response_ip":"1.1.1.1","icmp_seq":1,"ttl":56,"time_ms":36.135} {"type":"reply","destination_ip":"1.1.1.1","sent_bytes":56,"pattern":null,"response_bytes":64,"response_ip":"1.1.1.1","icmp_seq":2,"ttl":56,"time_ms":22.575} ... 
+    submitted by    /u/kellyjonbrazil  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts about an article talking about the insecurity of linux]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwi1l9/thoughts_about_an_article_talking_about_the/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwi1l9/thoughts_about_an_article_talking_about_the/"/>
+        <updated>2021-09-27T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Thoughs on this article? I lack the technical know-how to determine if the guy is right or just biased. Upon reading through, he makes it seem like Windows and MacOS are vastly suprior to linux in terms of security but windows has a lot of high risk RCEs in the recent years compared to linux (dunno much about the macos ecosystem to comment).
+ So again can any knowledgable person enlighten us?
+ EDIT: Read his recommended operating systems to use and he says macos, qubes os and windows should be preferred over linux under any circumstances.
+    submitted by    /u/paranoidRED  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hope you like just one pierced nip too]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwhl89/hope_you_like_just_one_pierced_nip_too/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwhl89/hope_you_like_just_one_pierced_nip_too/"/>
+        <updated>2021-09-27T13:55:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/yayayayaya231  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last day with my pregnant belly, finally giving birth tonight after 11 days of labor 😅 send good vibes]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwh6u4/last_day_with_my_pregnant_belly_finally_giving/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwh6u4/last_day_with_my_pregnant_belly_finally_giving/"/>
+        <updated>2021-09-27T13:34:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/shinigamirabbit  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terminating the terminal case of Linux]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwgqwg/terminating_the_terminal_case_of_linux/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwgqwg/terminating_the_terminal_case_of_linux/"/>
+        <updated>2021-09-27T13:11:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hugraypay  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I love bf my first babe while pregnant, makes my boobs bigger 😏🐮💦]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwgb7t/i_love_bf_my_first_babe_while_pregnant_makes_my/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwgb7t/i_love_bf_my_first_babe_while_pregnant_makes_my/"/>
+        <updated>2021-09-27T12:46:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Mangomama99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna give my baby a twin ?]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwgaqp/wanna_give_my_baby_a_twin/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwgaqp/wanna_give_my_baby_a_twin/"/>
+        <updated>2021-09-27T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Nadiasplayhouse  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you let me put my milky tits to work on you?]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwg8ga/would_you_let_me_put_my_milky_tits_to_work_on_you/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwg8ga/would_you_let_me_put_my_milky_tits_to_work_on_you/"/>
+        <updated>2021-09-27T12:42:20.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Nadiasplayhouse  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good morning 🥵 I was so wet waking up I just had to play. What do you do in your mornings? 😉]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwfzxa/good_morning_i_was_so_wet_waking_up_i_just_had_to/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwfzxa/good_morning_i_was_so_wet_waking_up_i_just_had_to/"/>
+        <updated>2021-09-27T12:28:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Icexqueen22  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which one do you prefer… bikini 1, 2 or the birthday suit?]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwfmo1/which_one_do_you_prefer_bikini_1_2_or_the/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwfmo1/which_one_do_you_prefer_bikini_1_2_or_the/"/>
+        <updated>2021-09-27T12:05:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/thefunmilf  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t be too rough]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwf6r2/dont_be_too_rough/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwf6r2/dont_be_too_rough/"/>
+        <updated>2021-09-27T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Seximandyy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hey hi hello I still have a sale going on if interested ❤️ hope whoever is reading this has a good day!!]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pwe76z/hey_hi_hello_i_still_have_a_sale_going_on_if/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pwe76z/hey_hi_hello_i_still_have_a_sale_going_on_if/"/>
+        <updated>2021-09-27T10:27:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/scubastefena  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made a thing! A UI tool for reading and writing metadata in jpg and ogg files.]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwds1s/made_a_thing_a_ui_tool_for_reading_and_writing/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwds1s/made_a_thing_a_ui_tool_for_reading_and_writing/"/>
+        <updated>2021-09-27T09:54:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SleazePipe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Xorg release without Xwayland]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pwdi79/an_xorg_release_without_xwayland/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pwdi79/an_xorg_release_without_xwayland/"/>
+        <updated>2021-09-27T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/callcifer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New lingerie]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pwakw2/new_lingerie/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pwakw2/new_lingerie/"/>
+        <updated>2021-09-27T05:29:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bowling137  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tell me i'm a good girl daddy and ill cum all over your cock]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pw9l6r/tell_me_im_a_good_girl_daddy_and_ill_cum_all_over/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pw9l6r/tell_me_im_a_good_girl_daddy_and_ill_cum_all_over/"/>
+        <updated>2021-09-27T04:20:55.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/heyitsmebeez  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pieced tits 🤍🤍]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pw8rqc/pieced_tits/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pw8rqc/pieced_tits/"/>
+        <updated>2021-09-27T03:27:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/LexxxiLu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux for Office computer without MS Office products]]></title>
+        <id>https://www.reddit.com/r/linux/comments/pw8bgw/linux_for_office_computer_without_ms_office/</id>
+        <link href="https://www.reddit.com/r/linux/comments/pw8bgw/linux_for_office_computer_without_ms_office/"/>
+        <updated>2021-09-27T02:59:18.000Z</updated>
+        <summary type="html"><![CDATA[I have been using Linux on my personal laptop since 2005, so I'm pretty comfortable configuring and fixing stuff from the terminal. I'm wondering if there are people who use Linux in the office. I cannot imagine moving away from Excel (for its VBA capabilities) and the tight integration there exists between the MS Office products. For those who use Linux in thier office computers, how do you manage to achieve thIs while still remaining productive?
+    submitted by    /u/prasannarajaram  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Linux, GNU/Linux, free software...</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Mouthfulls You Think My Tits Are?]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pw7bdx/how_many_mouthfulls_you_think_my_tits_are/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pw7bdx/how_many_mouthfulls_you_think_my_tits_are/"/>
+        <updated>2021-09-27T01:55:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/allofmytits2  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let me know what you think 🙈]]></title>
+        <id>https://www.reddit.com/r/PreggoPorn/comments/pw6s03/let_me_know_what_you_think/</id>
+        <link href="https://www.reddit.com/r/PreggoPorn/comments/pw6s03/let_me_know_what_you_think/"/>
+        <updated>2021-09-27T01:23:05.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CarterNH69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pregnant Erotica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I want your cum all over my tits 😍💦💦]]></title>
+        <id>https://www.reddit.com/r/piercednipples/comments/pw6p0x/i_want_your_cum_all_over_my_tits/</id>
+        <link href="https://www.reddit.com/r/piercednipples/comments/pw6p0x/i_want_your_cum_all_over_my_tits/"/>
+        <updated>2021-09-27T01:18:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jjade_23  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Pierced Nipples</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My booty shorts don’t fit no more]]></title>
         <id>https://www.reddit.com/r/PreggoPorn/comments/pw5iz8/my_booty_shorts_dont_fit_no_more/</id>
@@ -20117,722 +20835,6 @@ The post Exploring the CSS Paint API: Blob Animation appeared first on CSS-Trick
         <link href="https://www.reddit.com/r/PreggoPorn/comments/pduirb/have_you_ever_wanted_to_finish_on_a_pregnant_milf/"/>
         <updated>2021-08-29T12:40:29.000Z</updated>
         <summary type="html"><![CDATA[submitted by    /u/thefunmilf  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 weeks!! Can’t wait for that baby batter on my bump]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdu21y/25_weeks_cant_wait_for_that_baby_batter_on_my_bump/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdu21y/25_weeks_cant_wait_for_that_baby_batter_on_my_bump/"/>
-        <updated>2021-08-29T12:05:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/TheSecret00  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My mommy milkers don’t fit in much anymore, they need to be sucked on]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdtqvx/my_mommy_milkers_dont_fit_in_much_anymore_they/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdtqvx/my_mommy_milkers_dont_fit_in_much_anymore_they/"/>
-        <updated>2021-08-29T11:41:50.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Alexiaonmfc  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ass plugged]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdthbe/ass_plugged/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdthbe/ass_plugged/"/>
-        <updated>2021-08-29T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Rowdy1211993  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pierced]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdtdd5/pierced/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdtdd5/pierced/"/>
-        <updated>2021-08-29T11:10:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/garynogger  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CuteFish is a new Linux distro and it comes with a KDE based desktop environment. What do you think?]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdsrp5/cutefish_is_a_new_linux_distro_and_it_comes_with/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdsrp5/cutefish_is_a_new_linux_distro_and_it_comes_with/"/>
-        <updated>2021-08-29T10:19:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/D3rDave  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[here’s a pic in case your gf hasn’t sent you anything cute today]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdsd6e/heres_a_pic_in_case_your_gf_hasnt_sent_you/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdsd6e/heres_a_pic_in_case_your_gf_hasnt_sent_you/"/>
-        <updated>2021-08-29T09:43:35.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/nihilistpeach  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚽️⚽️⚽️😁😁😁]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pds9ap/_/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pds9ap/_/"/>
-        <updated>2021-08-29T09:33:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AngelBusty69  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[map2 [1.0.6] released | flexible keyboard remapping scripting language]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdrqp4/map2_106_released_flexible_keyboard_remapping/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdrqp4/map2_106_released_flexible_keyboard_remapping/"/>
-        <updated>2021-08-29T08:45:02.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/the_shiro_usagi  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listen or Download any music from terminal (From youtube)]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdr8te/listen_or_download_any_music_from_terminal_from/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdr8te/listen_or_download_any_music_from_terminal_from/"/>
-        <updated>2021-08-29T08:00:13.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/superRaptor911/rmusic
- ​
- Usage:
- rmusic "search query"
- Example
- rmusic "metallica fade to black"
- Example to save mp3
- rmusic "metallica fade to black" -s
-    submitted by    /u/super_raptor911  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With a brand-new, Fish-like suggestions system, CliFM 1.2.1 is released!]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdr5fd/with_a_brandnew_fishlike_suggestions_system_clifm/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdr5fd/with_a_brandnew_fishlike_suggestions_system_clifm/"/>
-        <updated>2021-08-29T07:51:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/archcrack  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Linux Capabilities]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdr0o7/understanding_linux_capabilities/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdr0o7/understanding_linux_capabilities/"/>
-        <updated>2021-08-29T07:39:38.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/innpattag  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does this thread think 🤭]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdqxnn/what_does_this_thread_think/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdqxnn/what_does_this_thread_think/"/>
-        <updated>2021-08-29T07:32:16.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Equivalent_Spot_5094  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Open Source Multi-player Starship Bridge Simulator for Linux]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdqdsc/an_open_source_multiplayer_starship_bridge/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdqdsc/an_open_source_multiplayer_starship_bridge/"/>
-        <updated>2021-08-29T06:44:17.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/nixcraft  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safety first babes 😈😘]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdqdfw/safety_first_babes/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdqdfw/safety_first_babes/"/>
-        <updated>2021-08-29T06:43:24.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/lyssababyx  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just became verified! Hope you all enjoy these vertical piercings ☺️💘]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdpmvh/just_became_verified_hope_you_all_enjoy_these/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdpmvh/just_became_verified_hope_you_all_enjoy_these/"/>
-        <updated>2021-08-29T05:40:48.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Lavendersunshinebaby  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So.. wanna Smash?]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdpkxf/so_wanna_smash/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdpkxf/so_wanna_smash/"/>
-        <updated>2021-08-29T05:36:31.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/arealreverie  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gabriella]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdpeam/gabriella/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdpeam/gabriella/"/>
-        <updated>2021-08-29T05:21:28.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/MCMultyke  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pregnant, blindfolded and squirting]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdn6jh/pregnant_blindfolded_and_squirting/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdn6jh/pregnant_blindfolded_and_squirting/"/>
-        <updated>2021-08-29T02:39:21.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Rowdy1211993  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be honest… which pair of my “eyes” do you like better? [f]]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdmqtl/be_honest_which_pair_of_my_eyes_do_you_like/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdmqtl/be_honest_which_pair_of_my_eyes_do_you_like/"/>
-        <updated>2021-08-29T02:08:50.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/KatieKat1999x  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM settles lawsuit with SCO by paying $14M]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdmmm7/ibm_settles_lawsuit_with_sco_by_paying_14m/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdmmm7/ibm_settles_lawsuit_with_sco_by_paying_14m/"/>
-        <updated>2021-08-29T02:00:50.000Z</updated>
-        <summary type="html"><![CDATA[I wasn't expecting IBM to be paying out anything, but it seems they have to settle the long-running case with SCO Group. https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million
-    submitted by    /u/kanzenryu  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing hide and seek in the frozen food section!]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdm7hd/playing_hide_and_seek_in_the_frozen_food_section/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdm7hd/playing_hide_and_seek_in_the_frozen_food_section/"/>
-        <updated>2021-08-29T01:32:01.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/JustCurious1551  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Gf is warning up to the idea. Tell her what you think:)]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdly5b/my_gf_is_warning_up_to_the_idea_tell_her_what_you/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdly5b/my_gf_is_warning_up_to_the_idea_tell_her_what_you/"/>
-        <updated>2021-08-29T01:14:23.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/tylerny26  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mommy milkers 💧]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdl0pf/mommy_milkers/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdl0pf/mommy_milkers/"/>
-        <updated>2021-08-29T00:14:03.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/LesbiansDoIt  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only about half way done 😭]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdkyp1/only_about_half_way_done/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdkyp1/only_about_half_way_done/"/>
-        <updated>2021-08-29T00:10:24.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/infatuatedkitty  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For 9months pregnant I sure am looking toned 😹]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdk7es/for_9months_pregnant_i_sure_am_looking_toned/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdk7es/for_9months_pregnant_i_sure_am_looking_toned/"/>
-        <updated>2021-08-28T23:22:23.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/misswrinkles  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I love my piercing and showing them off :)]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdjus4/i_love_my_piercing_and_showing_them_off/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdjus4/i_love_my_piercing_and_showing_them_off/"/>
-        <updated>2021-08-28T23:00:21.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/CommentsMunde  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would you still fuck me at 8m pregnant?]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdj2hg/would_you_still_fuck_me_at_8m_pregnant/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdj2hg/would_you_still_fuck_me_at_8m_pregnant/"/>
-        <updated>2021-08-28T22:12:43.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/kali_feline  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My nipples are always hard now]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdihrs/my_nipples_are_always_hard_now/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdihrs/my_nipples_are_always_hard_now/"/>
-        <updated>2021-08-28T21:37:47.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/princessfeet1001  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come to me my pussy is already wet]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdie8g/come_to_me_my_pussy_is_already_wet/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdie8g/come_to_me_my_pussy_is_already_wet/"/>
-        <updated>2021-08-28T21:31:35.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AngelBusty69  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lady in black 🖤]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdi920/lady_in_black/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdi920/lady_in_black/"/>
-        <updated>2021-08-28T21:23:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AngelBusty69  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 41 Support for Just Perfection Extension]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdhq38/gnome_41_support_for_just_perfection_extension/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdhq38/gnome_41_support_for_just_perfection_extension/"/>
-        <updated>2021-08-28T20:53:40.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/JustPerfection2  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just me and my belly bump in a tub, wanna join? ( ๑>ᴗ<๑ )]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdhn5a/just_me_and_my_belly_bump_in_a_tub_wanna_join_๑ᴗ๑/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdhn5a/just_me_and_my_belly_bump_in_a_tub_wanna_join_๑ᴗ๑/"/>
-        <updated>2021-08-28T20:48:50.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Erica_Love_Yu  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All this body and nobody to touch me. 🥺]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdhmui/all_this_body_and_nobody_to_touch_me/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdhmui/all_this_body_and_nobody_to_touch_me/"/>
-        <updated>2021-08-28T20:48:21.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sierrahornee  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeees they are so sweet 🍑]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdh8nu/jeees_they_are_so_sweet/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdh8nu/jeees_they_are_so_sweet/"/>
-        <updated>2021-08-28T20:26:14.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/LinaLacee  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hip bones and cheeks are definitely wider this week! 🍑😋]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdgx9s/hip_bones_and_cheeks_are_definitely_wider_this/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdgx9s/hip_bones_and_cheeks_are_definitely_wider_this/"/>
-        <updated>2021-08-28T20:08:31.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SweetKelseyXO_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walk in the park]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdggmn/walk_in_the_park/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdggmn/walk_in_the_park/"/>
-        <updated>2021-08-28T19:42:38.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/electrogremlin  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New exciting stuff in linux]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdgggv/new_exciting_stuff_in_linux/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdgggv/new_exciting_stuff_in_linux/"/>
-        <updated>2021-08-28T19:42:23.000Z</updated>
-        <summary type="html"><![CDATA[What are some highly anticipated things coming to linux soon that you can look forward to? This doesnt have to be within 1 year, but within like 5 years aswell. The ones I know about are wayland, pipewire and more proton support, but what other systems will be big upgrades to linux world?
-    submitted by    /u/premell  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just tiny tease from both sides 🍒💕]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdga6l/just_tiny_tease_from_both_sides/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdga6l/just_tiny_tease_from_both_sides/"/>
-        <updated>2021-08-28T19:32:20.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Nymsplayroom  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New hair 💙 OF@sw33tkitten]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdg3id/new_hair_ofsw33tkitten/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdg3id/new_hair_ofsw33tkitten/"/>
-        <updated>2021-08-28T19:22:02.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/sw33txkitten  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[you like the view from down there? 💕]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdg0k4/you_like_the_view_from_down_there/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdg0k4/you_like_the_view_from_down_there/"/>
-        <updated>2021-08-28T19:17:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/heyitsmebeez  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make bar charts on the terminal.]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdfxy8/make_bar_charts_on_the_terminal/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdfxy8/make_bar_charts_on_the_terminal/"/>
-        <updated>2021-08-28T19:13:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/binaryfor  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would you suck on my pierced nips]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdfpa0/would_you_suck_on_my_pierced_nips/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdfpa0/would_you_suck_on_my_pierced_nips/"/>
-        <updated>2021-08-28T18:59:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/onlytravelfans  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Already missing this belly 😩]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdfmxb/already_missing_this_belly/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdfmxb/already_missing_this_belly/"/>
-        <updated>2021-08-28T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/baixx_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 months 😶]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdf5ey/8_months/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdf5ey/8_months/"/>
-        <updated>2021-08-28T18:28:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Elyse_Green  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wifey got hers done today]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdez8w/wifey_got_hers_done_today/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdez8w/wifey_got_hers_done_today/"/>
-        <updated>2021-08-28T18:18:26.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/lovingalltheboobs  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This shirt is pierced nipple prison 😂Help me get out? 🥺]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pddfze/this_shirt_is_pierced_nipple_prison_help_me_get/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pddfze/this_shirt_is_pierced_nipple_prison_help_me_get/"/>
-        <updated>2021-08-28T16:54:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/powerlizter412  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35 weeks let me make you custom content 👅]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdd0zw/35_weeks_let_me_make_you_custom_content/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdd0zw/35_weeks_let_me_make_you_custom_content/"/>
-        <updated>2021-08-28T16:32:17.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/horny_mama25  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do I look good 😉😉 cum have fun with me daddy let me make you some custom content💦]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdch90/do_i_look_good_cum_have_fun_with_me_daddy_let_me/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdch90/do_i_look_good_cum_have_fun_with_me_daddy_let_me/"/>
-        <updated>2021-08-28T16:02:48.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/horny_mama25  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pregnant boobs]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdc8fd/pregnant_boobs/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdc8fd/pregnant_boobs/"/>
-        <updated>2021-08-28T15:49:37.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/loosemilf  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my pierced nipples are just the beginning]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdbv6g/my_pierced_nipples_are_just_the_beginning/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdbv6g/my_pierced_nipples_are_just_the_beginning/"/>
-        <updated>2021-08-28T15:30:02.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/alexbreecooper  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am 14 weeks pregnant! I do custom content and personalized requests. DM for more information.]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdbpxo/i_am_14_weeks_pregnant_i_do_custom_content_and/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdbpxo/i_am_14_weeks_pregnant_i_do_custom_content_and/"/>
-        <updated>2021-08-28T15:21:56.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Southernbeauty0507  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would you milk my tits while I rode you? 🍼]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdb32t/would_you_milk_my_tits_while_i_rode_you/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdb32t/would_you_milk_my_tits_while_i_rode_you/"/>
-        <updated>2021-08-28T14:47:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/lindsey_love  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4'10" 94lbs - Do you like small girls?]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pdb28n/410_94lbs_do_you_like_small_girls/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pdb28n/410_94lbs_do_you_like_small_girls/"/>
-        <updated>2021-08-28T14:45:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/daddys_eye_candi  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I loved this position so much!!]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pdawvl/i_loved_this_position_so_much/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pdawvl/i_loved_this_position_so_much/"/>
-        <updated>2021-08-28T14:37:32.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/YourDreamCouple  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternative for Spacedesk from windows ?]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdamso/alternative_for_spacedesk_from_windows/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdamso/alternative_for_spacedesk_from_windows/"/>
-        <updated>2021-08-28T14:21:24.000Z</updated>
-        <summary type="html"><![CDATA[So i have been using spacedesk to connect my android tv to the laptop as another monitor, i guess there are programs just like that on linux but i have no luck searching for them
- Thanks for helping a linux noob 😁
-    submitted by    /u/Dzonix4  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studying the man pages offline. I print them into booklets with Boomaga, then use my saddle stitcher from my zine-making days.]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdakqy/studying_the_man_pages_offline_i_print_them_into/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdakqy/studying_the_man_pages_offline_i_print_them_into/"/>
-        <updated>2021-08-28T14:18:04.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/kjodle  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 hours of overwriting bootloader and editing QML code later...]]></title>
-        <id>https://www.reddit.com/r/linux/comments/pdaazj/30_hours_of_overwriting_bootloader_and_editing/</id>
-        <link href="https://www.reddit.com/r/linux/comments/pdaazj/30_hours_of_overwriting_bootloader_and_editing/"/>
-        <updated>2021-08-28T14:01:41.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/FakedKetchup  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Linux, GNU/Linux, free software...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great tits 😍]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pda387/great_tits/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pda387/great_tits/"/>
-        <updated>2021-08-28T13:48:47.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/joneb04  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Saturday! Just wanted to swing by and brighten your day!(=^•^=)]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pd9yu5/happy_saturday_just_wanted_to_swing_by_and/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pd9yu5/happy_saturday_just_wanted_to_swing_by_and/"/>
-        <updated>2021-08-28T13:41:07.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Kitty__Sprinkles  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good morning, from my shower.]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pd9tlm/good_morning_from_my_shower/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pd9tlm/good_morning_from_my_shower/"/>
-        <updated>2021-08-28T13:31:29.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/57thclub  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woke up to this photo from my Slut (Aug 28, 2021)]]></title>
-        <id>https://www.reddit.com/r/piercednipples/comments/pd9pw3/woke_up_to_this_photo_from_my_slut_aug_28_2021/</id>
-        <link href="https://www.reddit.com/r/piercednipples/comments/pd9pw3/woke_up_to_this_photo_from_my_slut_aug_28_2021/"/>
-        <updated>2021-08-28T13:24:43.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sir_Daddy_Mac  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pierced Nipples</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These titties make great pillows 😈]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pd9jbg/these_titties_make_great_pillows/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pd9jbg/these_titties_make_great_pillows/"/>
-        <updated>2021-08-28T13:13:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Katie_b_24  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone come give me a hand or two applying this moisturizer please!]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pd9g5l/someone_come_give_me_a_hand_or_two_applying_this/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pd9g5l/someone_come_give_me_a_hand_or_two_applying_this/"/>
-        <updated>2021-08-28T13:06:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/thefunmilf  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Pregnant Erotica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💋]]></title>
-        <id>https://www.reddit.com/r/PreggoPorn/comments/pd90m6/_/</id>
-        <link href="https://www.reddit.com/r/PreggoPorn/comments/pd90m6/_/"/>
-        <updated>2021-08-28T12:36:36.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/PreggoVikingWife  
  [link]   [comments]]]></summary>
         <author>
             <name>Pregnant Erotica</name>
